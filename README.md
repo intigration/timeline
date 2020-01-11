@@ -1,5 +1,5 @@
 
-##  /contributions
+##  /contribution
  - `Product Management`
  - `Quality Management`
  - `Software Development`
@@ -20,22 +20,17 @@
  - `IPCs, Gateways, Edge devices`
 ---
  
- ## /associations
+ ## /association
 
 #### > *I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.*
 
-
-
-
 ![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
----
+
+
 #### > *establish production ready pipeline for projects, service or products delivery.*
 ----
 ![https://www.mentor.com](http://www.pldworld.com/images/logos/mentor-black-large.png)
  ----
- 
-
------
 -	These contributions helped to resolve the application domain complexity and reveal the new integration end-points to extend the available functions for mission critical products and project. 
 	 - [x]  The implementation reference are backed with new technology stack , tools, environments, standards and team building...
 	 - [x]  define and set procedural contracts to comply with organization standards and quality gates.
@@ -45,7 +40,7 @@
 	 - [x] differentiate the product strength and offering to compete with market players.
 	 - [x] I develop interest in #re-usability #team-building #first-approach #modeling #risk-mitigation #workflows #automation #monitoring #context-definition #web-schematics  #acoustics #machine #data-modeling #autonomous-controller #self-healing #operations-visibility #customer-feedback #data-security #processes #business-drive
 ----
- ## Deliverance
+ ## /deliverance
 >	Dashboards and KPIs to track and formalize the delivery standards!
 
 
@@ -64,6 +59,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODEzNTExMCwxNDYzOTM0NjYyLC00OD
-UyMjk2ODYsNTQ2MDI3NzE0XX0=
+eyJoaXN0b3J5IjpbLTEwNjgwNjQ4NTMsMTQ2MzkzNDY2MiwtND
+g1MjI5Njg2LDU0NjAyNzcxNF19
 -->
