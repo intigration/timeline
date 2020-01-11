@@ -18,8 +18,9 @@
  - `Data Models`
  - `Support Levels`
  - `IPCs, Gateways, Edge devices`
-----
+---
  
+ ## /associations
 
 #### > *I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.*
 
@@ -28,7 +29,7 @@
 
 ![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
 ---
-### > *establish production ready pipeline for projects, service or products delivery.*
+#### > *establish production ready pipeline for projects, service or products delivery.*
 ----
 ![https://www.mentor.com](http://www.pldworld.com/images/logos/mentor-black-large.png)
  ----
@@ -63,6 +64,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODAzNTg1OSwxNDYzOTM0NjYyLC00OD
+eyJoaXN0b3J5IjpbLTI2ODEzNTExMCwxNDYzOTM0NjYyLC00OD
 UyMjk2ODYsNTQ2MDI3NzE0XX0=
 -->
