@@ -18,9 +18,15 @@
  - `Data Models`
  - `Support Levels`
  - `IPCs, Gateways, Edge devices`
+----
+ >
+ **```I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.```**
 
- I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.
+
 ![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
+
+------
+
 ![https://www.mentor.com](http://www.pldworld.com/images/logos/mentor-black-large.png)
  ----
  
@@ -54,6 +60,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NzIzNjI0LDE0NjM5MzQ2NjIsLTQ4NT
+eyJoaXN0b3J5IjpbODIxMDcxNDUwLDE0NjM5MzQ2NjIsLTQ4NT
 IyOTY4Niw1NDYwMjc3MTRdfQ==
 -->
