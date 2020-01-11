@@ -37,9 +37,9 @@
 ----
  ## Deliverance
 >	Dashboards and KPIs to track and formalize the delivery standards!
->
 
->
+
+> ### 
 		> > 	process  
 		> > 	efficiency
 		>>  	future-proof 
@@ -54,6 +54,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUwNDMxMTIsMTQ2MzkzNDY2MiwtND
-g1MjI5Njg2LDU0NjAyNzcxNF19
+eyJoaXN0b3J5IjpbLTYwNzE4NjE1OSwxNDYzOTM0NjYyLC00OD
+UyMjk2ODYsNTQ2MDI3NzE0XX0=
 -->
