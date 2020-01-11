@@ -22,15 +22,16 @@
  
  ## /association
 
->`I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.`
+
+
+### > *establish production ready pipeline for projects, service or products delivery.*
+
+ ----
 
 ![enter image description here](https://mma.prnewswire.com/media/484738/Siemens_Mentor_Dual_Logo.jpg?p=publish)
+>`I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.`
+---
 
-
-#### > *establish production ready pipeline for projects, service or products delivery.*
-----
-![https://www.mentor.com](http://www.pldworld.com/images/logos/mentor-black-large.png)
- ----
 -	These contributions helped to resolve the application domain complexity and reveal the new integration end-points to extend the available functions for mission critical products and project. 
 	 - [x]  The implementation reference are backed with new technology stack , tools, environments, standards and team building...
 	 - [x]  define and set procedural contracts to comply with organization standards and quality gates.
@@ -59,6 +60,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTM2ODAyMiwtMTA2ODA2NDg1MywxND
-YzOTM0NjYyLC00ODUyMjk2ODYsNTQ2MDI3NzE0XX0=
+eyJoaXN0b3J5IjpbMjg1NDYzOTgzLC0xMDY4MDY0ODUzLDE0Nj
+M5MzQ2NjIsLTQ4NTIyOTY4Niw1NDYwMjc3MTRdfQ==
 -->
