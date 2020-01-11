@@ -36,7 +36,10 @@
 	 - [x] I develop interest in #re-usability #team-building #first-approach #modeling #risk-mitigation #workflows #automation #monitoring #context-definition #web-schematics  #acoustics #machine #data-modeling #autonomous-controller #self-healing #operations-visibility #customer-feedback #data-security #processes #business-drive
 ----
  ## Deliverance
->	Establishment of dashboards and KPIs to track and formalize the standards!
+>	Dashboards and KPIs to track and formalize the delivery standards!
+>
+
+>
 		> > 	process  
 		> > 	efficiency
 		>>  	future-proof 
@@ -51,6 +54,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzkzNDY2MiwtNDg1MjI5Njg2LDU0Nj
-AyNzcxNF19
+eyJoaXN0b3J5IjpbLTE5ODUwNDMxMTIsMTQ2MzkzNDY2MiwtND
+g1MjI5Njg2LDU0NjAyNzcxNF19
 -->
