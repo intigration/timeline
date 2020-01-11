@@ -3,9 +3,12 @@
 ##  /contributions
 
 ##### 
-| - [x] establish production ready pipeline for projects, service or products delivery.  |  |
+
+#### > establish production ready pipeline for projects, service or products delivery.
+
+` | - [x] establish production ready pipeline for projects, service or products delivery.  |
 |--|--|
-|  - [x] establish production ready pipeline for projects, service or products delivery. |  |
+|  - [x] establish production ready pipeline for projects, service or products delivery. |  - [x] establish production ready pipeline for projects, service or products delivery. |
 
 
 
@@ -25,6 +28,6 @@ Establish dashboards and KPIs to track and formalize the  **< standards  < proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNTk1MDIzLC00ODUyMjk2ODYsNTQ2MD
+eyJoaXN0b3J5IjpbODUwMDE3MjkyLC00ODUyMjk2ODYsNTQ2MD
 I3NzE0XX0=
 -->
