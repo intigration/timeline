@@ -17,12 +17,18 @@
 ![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
 
    | > establish production ready pipeline for projects, service or products delivery.  |
-|--|--|
-|  > These contributions helped to resolve the application domain complexity and reveal the new integration end-points to extend the available functions for mission critical products and project. |  - [x] establish production ready pipeline for projects, service or products delivery. |
+|--|
+
+> Blockquote
+
+|
+
+-	These contributions helped to resolve the application domain complexity and reveal the new integration end-points to extend the available functions for mission critical products and project. 
+	 - [x]  The implementation reference are backed with new technology stack , tools, environments, standards and team building... 
 
 
 
-I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.  These contributions helped to resolve the application domain complexity and reveal the new integration end-points to extend the available functions for mission critical products and project.  The implementation reference are backed with new technology stack , tools, environments, standards and team building..
+I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.  These contributions helped to resolve the application domain complexity and reveal the new integration end-points to extend the available functions for mission critical products and project. 
 #### > establish production ready pipeline for projects, service or products delivery
 => 
 => 
@@ -38,6 +44,6 @@ Establish dashboards and KPIs to track and formalize the  **< standards  < proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTk4MjQ4OCwtNDg1MjI5Njg2LDU0Nj
-AyNzcxNF19
+eyJoaXN0b3J5IjpbLTExNTUwNzkyMTgsLTQ4NTIyOTY4Niw1ND
+YwMjc3MTRdfQ==
 -->
