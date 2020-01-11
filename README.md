@@ -6,7 +6,7 @@
  - `DevOps - Continous Integration`
  - `Agile - Scrum - Hybrid approch Customized`
  - `Cutting Edge Technologies`
- - 
+ - `Engineering Tools from Microsoft, Altassian, Google, 		   SmartBear, Linux, Oracle, IBM,` 
  - `Productization / Commercialization`
  - `Team Management`
  - `Industrial Automation `
@@ -49,6 +49,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMzM1MDUyLC00ODUyMjk2ODYsNTQ2MD
-I3NzE0XX0=
+eyJoaXN0b3J5IjpbLTkxNDc2NzMwMCwtNDg1MjI5Njg2LDU0Nj
+AyNzcxNF19
 -->
