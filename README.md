@@ -3,6 +3,7 @@
  - `Product Management`
  - `Quality Management`
  - `Software Development`
+ - `Test Driven Development`
  - `DevOps - Continous Integration`
  - `Agile - Scrum - Hybrid approch Customized`
  - `Cutting Edge Technologies`
@@ -11,7 +12,7 @@
  - `Team Management`
  - `Industrial Automation `
  - `API first approch`
- - `MindSphere IoT`
+ - `MindSphere IoT Opreating System`
  - `Research and Development`
  - `Competitor Analysis` 
  - `Data Models`
@@ -50,6 +51,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU0NjMzMjgsLTQ4NTIyOTY4Niw1ND
-YwMjc3MTRdfQ==
+eyJoaXN0b3J5IjpbMTQ2MzkzNDY2MiwtNDg1MjI5Njg2LDU0Nj
+AyNzcxNF19
 -->
