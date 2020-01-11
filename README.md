@@ -1,19 +1,13 @@
 
-
 ##  /contributions
-
  - `Product Management`
- - `Product Management`
- - `Product Management`
- - `Product Management`
- - `Product Management`
+ - `Software Development`
+ - `Cutting Edge Technologies`
+ - `Productization / Commercialization`
+ - `Team Management`
+ - `Industrial Automation `
 
-
-`Industrial Automation `
-`Cloud Services`
-
-
--  I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.
+ I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.
 ![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
 
    | - [x] establish production ready pipeline for projects, service or products delivery.  |
@@ -38,6 +32,6 @@ Establish dashboards and KPIs to track and formalize the  **< standards  < proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwODc5MjUxLC00ODUyMjk2ODYsNTQ2MD
-I3NzE0XX0=
+eyJoaXN0b3J5IjpbLTE1MDY1MjU1NjEsLTQ4NTIyOTY4Niw1ND
+YwMjc3MTRdfQ==
 -->
