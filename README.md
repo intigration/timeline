@@ -19,12 +19,16 @@
  - `Support Levels`
  - `IPCs, Gateways, Edge devices`
 ----
- **-->	I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.**
+ 
+
+#### > *I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.*
+
+
 
 
 ![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
 ---
-### > establish production ready pipeline for projects, service or products delivery. 
+### > *establish production ready pipeline for projects, service or products delivery.*
 ----
 ![https://www.mentor.com](http://www.pldworld.com/images/logos/mentor-black-large.png)
  ----
@@ -59,6 +63,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk4NTI5NzMsMTQ2MzkzNDY2MiwtND
-g1MjI5Njg2LDU0NjAyNzcxNF19
+eyJoaXN0b3J5IjpbMTI4MTIyMDQ2OSwxNDYzOTM0NjYyLC00OD
+UyMjk2ODYsNTQ2MDI3NzE0XX0=
 -->
