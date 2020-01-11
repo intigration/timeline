@@ -6,11 +6,12 @@
  - `DevOps - Continous Integration`
  - `Agile - Scrum - Hybrid approch Customized`
  - `Cutting Edge Technologies`
- - `Engineering Tools from Microsoft, Altassian, Google, 		   SmartBear, Linux, Oracle, IBM,` 
+ - `Engineering Tools from Microsoft, SIEMENS, Altassian, Google,AWS,  		   SmartBear, Linux, Oracle, IBM,` 
  - `Productization / Commercialization`
  - `Team Management`
  - `Industrial Automation `
- - `IoT`
+ - `API first approch`
+ - `MindSphere IoT`
  - `Research and Development`
  - `Competitor Analysis` 
  - `Data Models`
@@ -49,6 +50,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDc2NzMwMCwtNDg1MjI5Njg2LDU0Nj
-AyNzcxNF19
+eyJoaXN0b3J5IjpbLTE4NTU0NjMzMjgsLTQ4NTIyOTY4Niw1ND
+YwMjc3MTRdfQ==
 -->
