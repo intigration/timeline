@@ -6,6 +6,11 @@
  - `Productization / Commercialization`
  - `Team Management`
  - `Industrial Automation `
+ - `IoT`
+ - `Research and Development`
+ - `Competitor Analysis` 
+ - `Data Models`
+ - `Support Levels`
 
  I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.
 ![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
@@ -32,6 +37,6 @@ Establish dashboards and KPIs to track and formalize the  **< standards  < proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY1MjU1NjEsLTQ4NTIyOTY4Niw1ND
+eyJoaXN0b3J5IjpbLTE5MzQ1MTE1NzksLTQ4NTIyOTY4Niw1ND
 YwMjc3MTRdfQ==
 -->
