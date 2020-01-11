@@ -45,7 +45,7 @@
 >	Dashboards and KPIs to track and formalize the delivery standards!
 
 
-> ### 
+> ### Define
 		> > 	process  
 		> > 	efficiency
 		>>  	future-proof 
@@ -60,6 +60,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1NDYzOTgzLC0xMDY4MDY0ODUzLDE0Nj
+eyJoaXN0b3J5IjpbLTEzOTk5MTgwLC0xMDY4MDY0ODUzLDE0Nj
 M5MzQ2NjIsLTQ4NTIyOTY4Niw1NDYwMjc3MTRdfQ==
 -->
