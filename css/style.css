@@ -1,3 +1,8 @@
+.row {
+
+	display:block;
+}
+
 ul.social {
 	padding: 0;
 }
