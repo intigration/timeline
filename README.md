@@ -22,9 +22,9 @@
  
  ## /association
 
-#### > *I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.*
+>`I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.`
 
-![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
+![enter image description here](https://mma.prnewswire.com/media/484738/Siemens_Mentor_Dual_Logo.jpg?p=publish)
 
 
 #### > *establish production ready pipeline for projects, service or products delivery.*
@@ -59,6 +59,6 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgwNjQ4NTMsMTQ2MzkzNDY2MiwtND
-g1MjI5Njg2LDU0NjAyNzcxNF19
+eyJoaXN0b3J5IjpbMTA1MTM2ODAyMiwtMTA2ODA2NDg1MywxND
+YzOTM0NjYyLC00ODUyMjk2ODYsNTQ2MDI3NzE0XX0=
 -->
