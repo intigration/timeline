@@ -2,8 +2,15 @@
 
 ##  /contributions
 
-`Industrial Automation 
-Clou`
+ - `Product Management`
+ - `Product Management`
+ - `Product Management`
+ - `Product Management`
+ - `Product Management`
+
+
+`Industrial Automation `
+`Cloud Services`
 
 
 -  I have successfully worked and met delivery expectations to address highly sophisticated quality and compliance charter for engineering teams.
@@ -31,6 +38,6 @@ Establish dashboards and KPIs to track and formalize the  **< standards  < proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzc2ODEyMCwtNDg1MjI5Njg2LDU0Nj
-AyNzcxNF19
+eyJoaXN0b3J5IjpbNTAwODc5MjUxLC00ODUyMjk2ODYsNTQ2MD
+I3NzE0XX0=
 -->
