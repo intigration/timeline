@@ -4,13 +4,9 @@
 
 ##### 
 
-#### > establish production ready pipeline for projects, service or products delivery.
+#### > establish production ready pipeline for projects, service or products delivery
 
- - [ ] 
- - [ ] 
- - [ ] 
-
-build and execute strategical plans to propagate higher prospective and vision from management.
+![build and execute strategical plans to propagate higher prospective and vision from management.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrxO69NuBQfY54KRwla4EuK4Ri_EODz0EKUJZfix77vdNZjTm&s)
 
    | - [x] establish production ready pipeline for projects, service or products delivery.  |
 |--|--|
@@ -34,6 +30,6 @@ Establish dashboards and KPIs to track and formalize the  **< standards  < proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTQ4MjUsLTQ4NTIyOTY4Niw1NDYwMj
-c3MTRdfQ==
+eyJoaXN0b3J5IjpbLTMxMjA2NzE5NSwtNDg1MjI5Njg2LDU0Nj
+AyNzcxNF19
 -->
