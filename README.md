@@ -46,19 +46,19 @@ Dashboards and KPIs to track and formalize the delivery standards!
 
 
 ### Define>>	process  
-		 	efficiency
-			future-proof 
+	efficiency
+	future-proof 
 	opportunity 
 		externals 
-		team-play 
+	team-play 
 			Compete 
 			zero-waste 
 			agility 
-security 
-					> > 	quality 
+	security 
+	quality 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAzNjY1OTgsLTEwNjgwNjQ4NTMsMT
-Q2MzkzNDY2MiwtNDg1MjI5Njg2LDU0NjAyNzcxNF19
+eyJoaXN0b3J5IjpbMTg4NzgzNjcyNCwtMTA2ODA2NDg1MywxND
+YzOTM0NjYyLC00ODUyMjk2ODYsNTQ2MDI3NzE0XX0=
 -->
