@@ -1,0 +1,193 @@
+/* PINK */
+
+body.boxed {
+    background: #EC87C0 url("../img/patterns/square_bg.png") 50% 0 repeat fixed;
+}
+
+.page-section.directions .parallax-overlay {
+    background-color: rgba(215, 112, 173, 0.50);
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #D770AD;
+}
+
+h1 .fa,
+h2 .fa,
+h3 .fa,
+h4 .fa,
+h5 .fa,
+h6 .fa {
+    color: #D770AD;
+}
+
+.section-title small:before {
+    background-color: #D770AD;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+    color: #D770AD;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #EC87C0;
+}
+
+.sf-menu li > a {
+    color: #fbe8f3;
+}
+
+.do-up:hover .caption-category a {
+    color: #fbe8f3;
+}
+
+.sf-menu > li > a.active-off:after,
+.sf-menu > li.active > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > li.sfHover-off > a:after {
+    background-color: #fbe8f3 !important;
+}
+
+.list-ul .fa {
+    color: #D770AD;
+}
+
+.btn-theme-primary {
+    background-color: #D770AD;
+    border-color: #D770AD;
+}
+
+.btn-theme-primary:focus,
+.btn-theme-primary:active,
+.btn-theme-primary:hover {
+    background-color: #c4378a;
+    border-color: #c4378a;
+}
+
+.btn-theme-white:hover {
+    background-color: #D770AD;
+}
+
+.form-control:focus {
+    border-color: #D770AD;
+}
+
+.price-table-header {
+    background-color: #D770AD;
+}
+
+.wide .header.sticky-header,
+.boxed .header.sticky-header > .container {
+    background-color: rgba(215, 112, 173, 0.90);
+}
+
+.wide .header,
+.boxed .header > .container {
+    background-color: #D770AD;
+}
+
+.sub-menu a:hover {
+    color: #D770AD !important;
+}
+
+.post-author a:hover {
+    color: #D770AD;
+}
+
+.post-meta a:hover {
+    color: #D770AD;
+}
+
+.post-media .media-link {
+    background-color: #D770AD;
+}
+
+.post-title a:hover {
+    color: #D770AD;
+}
+
+.timeline .item-left .dot,
+.timeline .item-right .dot {
+    background-color: #D770AD;
+}
+
+.nav-tabs > li > a {
+    color: #D770AD;
+}
+
+.do-up:hover .caption {
+    background-color: #D770AD;
+}
+
+.do-up .caption-category a {
+    color: #D770AD;
+}
+
+.do-up .caption-social {
+    background-color: #EC87C0;
+}
+
+.do-hover .caption {
+    background-color: #EC87C0;
+    background-color: rgba(236, 135, 192, 0.50);
+}
+
+.feature:hover .media-object,
+.feature.hover .media-object {
+    color: #D770AD;
+}
+
+.last-tweet .twitter-icon .fa {
+    color: #D770AD;
+}
+
+.last-tweet a {
+    color: #D770AD;
+}
+
+.media .post-date {
+    color: #D770AD;
+}
+
+.totop {
+    background-color: #D770AD;
+}
+
+.totop:hover {
+    background-color: #EC87C0;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    background-color: #D770AD;
+    border-color: #D770AD !important;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+    background-color: #D770AD;
+    border-color: #D770AD !important;
+}
+
+.widget.categories li.active a,
+.widget.categories li a:hover {
+    background-color: #D770AD;
+}
+
+.tag-cloud a:hover {
+    background-color: #D770AD;
+}
+
+.widget.flickr-feed li a:hover {
+    border-color: #D770AD;
+}

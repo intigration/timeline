@@ -1,0 +1,193 @@
+/* ORANGE */
+
+body.boxed {
+    background: #FC6E51 url("../img/patterns/square_bg.png") 50% 0 repeat fixed;
+}
+
+.page-section.directions .parallax-overlay {
+    background-color: rgba(233, 87, 63, 0.50);
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #E9573F;
+}
+
+h1 .fa,
+h2 .fa,
+h3 .fa,
+h4 .fa,
+h5 .fa,
+h6 .fa {
+    color: #E9573F;
+}
+
+.section-title small:before {
+    background-color: #E9573F;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+    color: #E9573F;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #FC6E51;
+}
+
+.sf-menu li > a {
+    color: #fecabf;
+}
+
+.do-up:hover .caption-category a {
+    color: #fecabf;
+}
+
+.sf-menu > li > a.active-off:after,
+.sf-menu > li.active > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > li.sfHover-off > a:after {
+    background-color: #fecabf !important;
+}
+
+.list-ul .fa {
+    color: #E9573F;
+}
+
+.btn-theme-primary {
+    background-color: #E9573F;
+    border-color: #E9573F;
+}
+
+.btn-theme-primary:focus,
+.btn-theme-primary:active,
+.btn-theme-primary:hover {
+    background-color: #c52f17;
+    border-color: #c52f17;
+}
+
+.btn-theme-white:hover {
+    background-color: #E9573F;
+}
+
+.form-control:focus {
+    border-color: #E9573F;
+}
+
+.price-table-header {
+    background-color: #E9573F;
+}
+
+.wide .header.sticky-header,
+.boxed .header.sticky-header > .container {
+    background-color: rgba(233, 87, 63, 0.90);
+}
+
+.wide .header,
+.boxed .header > .container {
+    background-color: #E9573F;
+}
+
+.sub-menu a:hover {
+    color: #E9573F !important;
+}
+
+.post-author a:hover {
+    color: #E9573F;
+}
+
+.post-meta a:hover {
+    color: #E9573F;
+}
+
+.post-media .media-link {
+    background-color: #E9573F;
+}
+
+.post-title a:hover {
+    color: #E9573F;
+}
+
+.timeline .item-left .dot,
+.timeline .item-right .dot {
+    background-color: #E9573F;
+}
+
+.nav-tabs > li > a {
+    color: #E9573F;
+}
+
+.do-up:hover .caption {
+    background-color: #E9573F;
+}
+
+.do-up .caption-category a {
+    color: #E9573F;
+}
+
+.do-up .caption-social {
+    background-color: #FC6E51;
+}
+
+.do-hover .caption {
+    background-color: #FC6E51;
+    background-color: rgba(252, 110, 81, 0.50);
+}
+
+.feature:hover .media-object,
+.feature.hover .media-object {
+    color: #E9573F;
+}
+
+.last-tweet .twitter-icon .fa {
+    color: #E9573F;
+}
+
+.last-tweet a {
+    color: #E9573F;
+}
+
+.media .post-date {
+    color: #E9573F;
+}
+
+.totop {
+    background-color: #E9573F;
+}
+
+.totop:hover {
+    background-color: #FC6E51;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    background-color: #E9573F;
+    border-color: #E9573F !important;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+    background-color: #E9573F;
+    border-color: #E9573F !important;
+}
+
+.widget.categories li.active a,
+.widget.categories li a:hover {
+    background-color: #E9573F;
+}
+
+.tag-cloud a:hover {
+    background-color: #E9573F;
+}
+
+.widget.flickr-feed li a:hover {
+    border-color: #E9573F;
+}
