@@ -1,0 +1,154 @@
+/* BLUE-1 */
+body.boxed {
+  background: #386090 url("../img/patterns/square_bg.png") 50% 0 repeat fixed;
+}
+.page-section.directions .parallax-overlay {
+  background-color: rgba(56, 96, 144, 0.5);
+}
+.owl-theme .owl-controls .owl-page.active span {
+  background-color: #386090;
+}
+h1 .fa,
+h2 .fa,
+h3 .fa,
+h4 .fa,
+h5 .fa,
+h6 .fa {
+  color: #386090;
+}
+.section-title small:before {
+  background-color: #386090;
+}
+a,
+a:hover,
+a:active,
+a:focus {
+  color: #6993c5;
+}
+a:hover,
+a:active,
+a:focus {
+  color: #6993c5;
+}
+.sf-menu li > a {
+  color: #8eadd3;
+}
+.do-up:hover .caption-category a {
+  color: #8eadd3;
+}
+.sf-menu > li > a.active-off:after,
+.sf-menu > li.active > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > li.sfHover-off > a:after {
+  background-color: #8eadd3 !important;
+}
+.list-ul .fa {
+  color: #386090;
+}
+.btn-theme-primary {
+  background-color: #386090;
+  border-color: #386090;
+}
+.btn-theme-primary:focus,
+.btn-theme-primary:active,
+.btn-theme-primary:hover {
+  background-color: #4678b5;
+  border-color: #4678b5;
+}
+.btn-theme-white:hover {
+  background-color: #386090;
+}
+.form-control:focus {
+  border-color: #386090;
+}
+.price-table-header {
+  background-color: #386090;
+}
+.wide .header.sticky-header,
+.boxed .header.sticky-header > .container {
+  background-color: rgba(56, 96, 144, 0.9);
+}
+.wide .header,
+.boxed .header > .container {
+  background-color: #386090;
+}
+.sub-menu a:hover {
+  color: #386090 !important;
+}
+.post-author a:hover {
+  color: #386090;
+}
+.post-meta a:hover {
+  color: #386090;
+}
+.post-media .media-link {
+  background-color: #386090;
+}
+.post-title a:hover {
+  color: #386090;
+}
+.timeline .item-left .dot,
+.timeline .item-right .dot {
+  background-color: #386090;
+}
+.nav-tabs > li > a {
+  color: #386090;
+}
+.do-up:hover .caption {
+  background-color: #386090;
+}
+.do-up .caption-category a {
+  color: #386090;
+}
+.do-up .caption-social {
+  background-color: #386090;
+}
+.do-hover .caption {
+  background-color: #386090;
+  background-color: rgba(56, 96, 144, 0.5);
+}
+.feature:hover .media-object,
+.feature.hover .media-object {
+  color: #386090;
+}
+.last-tweet .twitter-icon .fa {
+  color: #386090;
+}
+.last-tweet a {
+  color: #386090;
+}
+.media .post-date {
+  color: #386090;
+}
+.totop {
+  background-color: #386090;
+}
+.totop:hover {
+  background-color: #6993c5;
+}
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  background-color: #386090;
+  border-color: #386090 !important;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #386090;
+  border-color: #386090 !important;
+}
+.widget.categories li.active a,
+.widget.categories li a:hover {
+  background-color: #386090;
+}
+.tag-cloud a:hover {
+  background-color: #386090;
+}
+.widget.flickr-feed li a:hover {
+  border-color: #386090;
+}

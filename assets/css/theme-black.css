@@ -1,0 +1,193 @@
+/* GREEN */
+
+body.boxed {
+    background: #0d0d0d url("../img/patterns/square_bg.png") 50% 0 repeat fixed;
+}
+
+.page-section.directions .parallax-overlay {
+    background-color: rgba(0, 0, 0, 0.50);
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #000000;
+}
+
+h1 .fa,
+h2 .fa,
+h3 .fa,
+h4 .fa,
+h5 .fa,
+h6 .fa {
+    color: #000000;
+}
+
+.section-title small:before {
+    background-color: #000000;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+    color: #000000;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #0d0d0d;
+}
+
+.sf-menu li > a {
+    color: #454545;
+}
+
+.do-up:hover .caption-category a {
+    color: #454545;
+}
+
+.sf-menu > li > a.active-off:after,
+.sf-menu > li.active > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > li.sfHover-off > a:after {
+    background-color: #454545 !important;
+}
+
+.list-ul .fa {
+    color: #000000;
+}
+
+.btn-theme-primary {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.btn-theme-primary:focus,
+.btn-theme-primary:active,
+.btn-theme-primary:hover {
+    background-color: #262626;
+    border-color: #262626;
+}
+
+.btn-theme-white:hover {
+    background-color: #000000;
+}
+
+.form-control:focus {
+    border-color: #000000;
+}
+
+.price-table-header {
+    background-color: #000000;
+}
+
+.wide .header.sticky-header,
+.boxed .header.sticky-header > .container {
+    background-color: rgba(0, 0, 0, 0.90);
+}
+
+.wide .header,
+.boxed .header > .container {
+    background-color: #000000;
+}
+
+.sub-menu a:hover {
+    color: #000000 !important;
+}
+
+.post-author a:hover {
+    color: #000000;
+}
+
+.post-meta a:hover {
+    color: #000000;
+}
+
+.post-media .media-link {
+    background-color: #000000;
+}
+
+.post-title a:hover {
+    color: #000000;
+}
+
+.timeline .item-left .dot,
+.timeline .item-right .dot {
+    background-color: #000000;
+}
+
+.nav-tabs > li > a {
+    color: #000000;
+}
+
+.do-up:hover .caption {
+    background-color: #000000;
+}
+
+.do-up .caption-category a {
+    color: #000000;
+}
+
+.do-up .caption-social {
+    background-color: #0d0d0d;
+}
+
+.do-hover .caption {
+    background-color: #0d0d0d;
+    background-color: rgba(13, 13, 13, 0.50);
+}
+
+.feature:hover .media-object,
+.feature.hover .media-object {
+    color: #000000;
+}
+
+.last-tweet .twitter-icon .fa {
+    color: #000000;
+}
+
+.last-tweet a {
+    color: #000000;
+}
+
+.media .post-date {
+    color: #000000;
+}
+
+.totop {
+    background-color: #000000;
+}
+
+.totop:hover {
+    background-color: #0d0d0d;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    background-color: #000000;
+    border-color: #000000 !important;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+    background-color: #000000;
+    border-color: #000000 !important;
+}
+
+.widget.categories li.active a,
+.widget.categories li a:hover {
+    background-color: #000000;
+}
+
+.tag-cloud a:hover {
+    background-color: #000000;
+}
+
+.widget.flickr-feed li a:hover {
+    border-color: #000000;
+}

@@ -1,0 +1,179 @@
+div.style-switcher {
+	background: #34363d;
+	width: 195px;
+	position: fixed;
+	top: 30px;
+	z-index: 1001;
+	border-radius: 0 0 0 3px;
+	right: -195px;
+}
+
+div.style-switcher div.style-switcher-wrap {
+	padding: 10px
+}
+
+div.style-switcher h4 {
+	background: #34363d;
+    border-bottom: 1px solid #434751;
+	color: #FFF;
+	padding: 0 0 0 10px;
+	margin: 0;
+	line-height: 40px;
+	font-size: 15px;
+}
+
+div.style-switcher h4 a {
+	background-color: #34363d;
+	display: block;
+	height: 40px;
+	position: absolute;
+	left: -40px;
+	top: 0;
+	width: 40px;
+	font-size: 20px;
+	line-height: 40px;
+	color: #FFF;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 3px 0 0 3px;
+}
+
+div.style-switcher h4 a i {
+	margin-left: 2px;
+    line-height: 40px;
+    color: #ffffff;
+}
+
+div.style-switcher h4 a:hover {
+	text-decoration: none
+}
+
+div.style-switcher h5 {
+	color: #999;
+	margin: 5px 0 10px 0;
+	padding: 0;
+	line-height: 1;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+div.style-switcher ul.options {
+	list-style: none;
+	margin: 0 0 15px 0;
+	overflow: hidden;
+}
+
+div.style-switcher ul.options.pattern {
+    margin-bottom: 0;
+}
+
+div.style-switcher ul.options.pattern li {
+    width: 39px;
+}
+
+div.style-switcher ul.options.pattern a {
+    height: 39px;
+    /*background-size: cover !important;*/
+    -webkit-transition: none;
+    transition: none;
+}
+
+div.style-switcher ul.options li {
+	float: left;
+	margin: 2px;
+    width: 83px;
+    text-align: center;
+}
+
+div.style-switcher ul.options li a {
+	display: block;
+    border: 1px solid #999999;
+    color: #ffffff;
+    font-size: 12px;
+    margin-bottom: 0;
+    padding: 10px 12px;
+    text-decoration: none;
+	cursor: pointer;
+}
+
+div.style-switcher ul.options.colors li {
+    width: 31px;
+    height: 31px;
+}
+
+div.style-switcher ul.options.colors li a {
+    font-size: 10px;
+    height: 31px;
+    /* Hide the text. */
+    text-indent: 9999px;
+    white-space: nowrap;
+    overflow: hidden;
+    word-wrap: normal;
+}
+
+div.style-switcher ul.options li a:hover {
+    border: 1px solid #ffffff;
+}
+
+div.style-switcher ul.options li a.pattern {
+	background-repeat: repeat;
+	background-position: 0 0;
+	background-color: transparent;
+}
+
+div.style-switcher ul.options li span.color-picker {
+	background-color: #000;
+	border: 1px solid #000;
+	color: #ccc;
+	font-size: 12px;
+	margin-bottom: 0;
+	margin-right: 5px;
+	padding: 5px 12px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+div.style-switcher div.options-links {
+	padding: 0 0 5px
+}
+
+div.style-switcher div.options-links a {
+	background-color: #000;
+	border: 1px solid #000;
+	color: #ccc;
+	font-size: 12px;
+	margin-bottom: 0;
+	margin-right: 5px;
+	padding: 5px 12px;
+	text-decoration: none;
+}
+
+div.style-switcher div.options-links a:hover {
+	background-color: #111
+}
+
+div.style-switcher div.options-links a.active {
+	border-color: #ADADAD
+}
+
+div.style-switcher hr {
+	border-color: #555
+}
+
+textarea.get-css {
+	height: 325px;
+	width: 517px;
+	resize: none;
+	cursor: text;
+}
+
+div.style-switcher ul.options.layout li,
+div.style-switcher ul.options.direction li {
+    height: 31px;
+}
+
+div.style-switcher ul.options.layout li a,
+div.style-switcher ul.options.direction li a {
+    height: 31px;
+    padding: 5px 12px;
+}

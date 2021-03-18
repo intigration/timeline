@@ -1,0 +1,193 @@
+/* PURPLE */
+
+body.boxed {
+    background: #AC92EC url("../img/patterns/square_bg.png") 50% 0 repeat fixed;
+}
+
+.page-section.directions .parallax-overlay {
+    background-color: rgba(150, 122, 220, 0.50);
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #967ADC;
+}
+
+h1 .fa,
+h2 .fa,
+h3 .fa,
+h4 .fa,
+h5 .fa,
+h6 .fa {
+    color: #967ADC;
+}
+
+.section-title small:before {
+    background-color: #967ADC;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+    color: #967ADC;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #AC92EC;
+}
+
+.sf-menu li > a {
+    color: #f5f2fd;
+}
+
+.do-up:hover .caption-category a {
+    color: #f5f2fd;
+}
+
+.sf-menu > li > a.active-off:after,
+.sf-menu > li.active > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > li.sfHover-off > a:after {
+    background-color: #f5f2fd !important;
+}
+
+.list-ul .fa {
+    color: #967ADC;
+}
+
+.btn-theme-primary {
+    background-color: #967ADC;
+    border-color: #967ADC;
+}
+
+.btn-theme-primary:focus,
+.btn-theme-primary:active,
+.btn-theme-primary:hover {
+    background-color: #663dcc;
+    border-color: #663dcc;
+}
+
+.btn-theme-white:hover {
+    background-color: #967ADC;
+}
+
+.form-control:focus {
+    border-color: #967ADC;
+}
+
+.price-table-header {
+    background-color: #967ADC;
+}
+
+.wide .header.sticky-header,
+.boxed .header.sticky-header > .container {
+    background-color: rgba(150, 122, 220, 0.90);
+}
+
+.wide .header,
+.boxed .header > .container {
+    background-color: #967ADC;
+}
+
+.sub-menu a:hover {
+    color: #967ADC !important;
+}
+
+.post-author a:hover {
+    color: #967ADC;
+}
+
+.post-meta a:hover {
+    color: #967ADC;
+}
+
+.post-media .media-link {
+    background-color: #967ADC;
+}
+
+.post-title a:hover {
+    color: #967ADC;
+}
+
+.timeline .item-left .dot,
+.timeline .item-right .dot {
+    background-color: #967ADC;
+}
+
+.nav-tabs > li > a {
+    color: #967ADC;
+}
+
+.do-up:hover .caption {
+    background-color: #967ADC;
+}
+
+.do-up .caption-category a {
+    color: #967ADC;
+}
+
+.do-up .caption-social {
+    background-color: #AC92EC;
+}
+
+.do-hover .caption {
+    background-color: #AC92EC;
+    background-color: rgba(172, 146, 236, 0.50);
+}
+
+.feature:hover .media-object,
+.feature.hover .media-object {
+    color: #967ADC;
+}
+
+.last-tweet .twitter-icon .fa {
+    color: #967ADC;
+}
+
+.last-tweet a {
+    color: #967ADC;
+}
+
+.media .post-date {
+    color: #967ADC;
+}
+
+.totop {
+    background-color: #967ADC;
+}
+
+.totop:hover {
+    background-color: #AC92EC;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    background-color: #967ADC;
+    border-color: #967ADC !important;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+    background-color: #967ADC;
+    border-color: #967ADC !important;
+}
+
+.widget.categories li.active a,
+.widget.categories li a:hover {
+    background-color: #967ADC;
+}
+
+.tag-cloud a:hover {
+    background-color: #967ADC;
+}
+
+.widget.flickr-feed li a:hover {
+    border-color: #967ADC;
+}

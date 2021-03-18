@@ -1,0 +1,193 @@
+/* GREEN */
+
+body.boxed {
+    background: #A0D468 url("../img/patterns/square_bg.png") 50% 0 repeat fixed;
+}
+
+.page-section.directions .parallax-overlay {
+    background-color: rgba(140, 193, 82, 0.50);
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #8CC152;
+}
+
+h1 .fa,
+h2 .fa,
+h3 .fa,
+h4 .fa,
+h5 .fa,
+h6 .fa {
+    color: #8CC152;
+}
+
+.section-title small:before {
+    background-color: #8CC152;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+    color: #8CC152;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #A0D468;
+}
+
+.sf-menu li > a {
+    color: #d7edbf;
+}
+
+.do-up:hover .caption-category a {
+    color: #d7edbf;
+}
+
+.sf-menu > li > a.active-off:after,
+.sf-menu > li.active > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > li.sfHover-off > a:after {
+    background-color: #d7edbf !important;
+}
+
+.list-ul .fa {
+    color: #8CC152;
+}
+
+.btn-theme-primary {
+    background-color: #8CC152;
+    border-color: #8CC152;
+}
+
+.btn-theme-primary:focus,
+.btn-theme-primary:active,
+.btn-theme-primary:hover {
+    background-color: #659234;
+    border-color: #659234;
+}
+
+.btn-theme-white:hover {
+    background-color: #8CC152;
+}
+
+.form-control:focus {
+    border-color: #8CC152;
+}
+
+.price-table-header {
+    background-color: #8CC152;
+}
+
+.wide .header.sticky-header,
+.boxed .header.sticky-header > .container {
+    background-color: rgba(140, 193, 82, 0.90);
+}
+
+.wide .header,
+.boxed .header > .container {
+    background-color: #8CC152;
+}
+
+.sub-menu a:hover {
+    color: #8CC152 !important;
+}
+
+.post-author a:hover {
+    color: #8CC152;
+}
+
+.post-meta a:hover {
+    color: #8CC152;
+}
+
+.post-media .media-link {
+    background-color: #8CC152;
+}
+
+.post-title a:hover {
+    color: #8CC152;
+}
+
+.timeline .item-left .dot,
+.timeline .item-right .dot {
+    background-color: #8CC152;
+}
+
+.nav-tabs > li > a {
+    color: #8CC152;
+}
+
+.do-up:hover .caption {
+    background-color: #8CC152;
+}
+
+.do-up .caption-category a {
+    color: #8CC152;
+}
+
+.do-up .caption-social {
+    background-color: #A0D468;
+}
+
+.do-hover .caption {
+    background-color: #A0D468;
+    background-color: rgba(160, 212, 104, 0.50);
+}
+
+.feature:hover .media-object,
+.feature.hover .media-object {
+    color: #8CC152;
+}
+
+.last-tweet .twitter-icon .fa {
+    color: #8CC152;
+}
+
+.last-tweet a {
+    color: #8CC152;
+}
+
+.media .post-date {
+    color: #8CC152;
+}
+
+.totop {
+    background-color: #8CC152;
+}
+
+.totop:hover {
+    background-color: #A0D468;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    background-color: #8CC152;
+    border-color: #8CC152 !important;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+    background-color: #8CC152;
+    border-color: #8CC152 !important;
+}
+
+.widget.categories li.active a,
+.widget.categories li a:hover {
+    background-color: #8CC152;
+}
+
+.tag-cloud a:hover {
+    background-color: #8CC152;
+}
+
+.widget.flickr-feed li a:hover {
+    border-color: #8CC152;
+}
