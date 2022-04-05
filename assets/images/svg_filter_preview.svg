@@ -1,0 +1,12 @@
+<svg version="1.1" id="SVGFilterBuilder" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1228.8000000000002" height="564.8000000000001" viewBox="0 -24.40625 102.40625 195.21875">
+<defs><filter id="filter">
+
+<!-- fake filter to see real SourceAlpha -->
+<feOffset dx="0" dy="0" in="SourceAlpha"></feOffset>
+
+</filter></defs>
+<g filter="url(#filter)">
+<!-- default -->
+<text y="130" fill="#31d0c6" font-family="cursive" font-size="140px">A</text>
+</g>
+</svg>
