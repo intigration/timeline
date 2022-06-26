@@ -1,847 +1,830 @@
 {
-  "title":"Designs, implements, maintains, enhances, tests, and supports software & devices",
-  "monthNames":[
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December"
-  ],
-  "social":[
-    {
-      "icon":"assets/icons/linkedin.svg",
-      "href":"https://www.linkedin.com/in/engr-farhan/"
-    },
-    {
-      "icon":"assets/patterns/cardboard_flat_grey.png",
-      "href":"https://www.linkedin.com/in/engr-farhan/"
-    },
-    {
-      "icon":"assets/icons/github.svg",
-      "href":"https://github.com/intigration"
-    },
-    {
-      "icon":"assets/icons/gplus.svg",
-      "href":"https://plus.google.com/u/0/101648638387211662425"
-    },
+	"title": "Designs, implements, maintains, enhances, tests, and supports software & devices",
+	"monthNames": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"social": [{
+			"icon": "assets/icons/linkedin.svg",
+			"href": "https://www.linkedin.com/in/engr-farhan/"
+		},
+		{
+			"icon": "assets/patterns/cardboard_flat_grey.png",
+			"href": "https://www.linkedin.com/in/engr-farhan/"
+		},
+		{
+			"icon": "assets/icons/github.svg",
+			"href": "https://github.com/intigration"
+		},
+		{
+			"icon": "assets/icons/gplus.svg",
+			"href": "https://plus.google.com/u/0/101648638387211662425"
+		}
 
-  ],
-  "pdfCV":"assets/cv_mfarhan.pdf",
-  "skills":[
-    [
-      "English",
-      "Urdu",
-      "Punjabi"
-    ],
-    [
-      "Scientific Presentation",
-      "Scientific Writing",
-      "Project Management",
-      "DevOps",
-      "Quality Management"
-    ],
-    [
-      "Compiler Technologies",
-      "High Performance Computing",
-      "Knot Theory",
-      "PDEs",
-      "Simulation",
-      "Optimization",
-      "Web Technologies"
-    ],
-    [
-      "JavaScript",
-      "NextJS",
-      "Vuejs",
-      "Nuxt",
-      "Cascading Style Sheets (CSS)",
-      "Node.js",
-      "jQuery",
-      "AngularJS",
-      "React.js",
-      "MySQL",
-      "HTML5",
-      "Git",
-      "PHP",
-      "Java",
-      "JavaScript",
-      "Matlab",
-      "Python",
-      "R",
-      "SAS",
-      "SQL",
-      "TypeScript",
-      "mongodb"
-    ],
-    [
-      "H2O",
-      "Caffe",
-      "Tensorflow"
-    ],
-    [
-      "CSS",
-      "HTML",
-      "Jade/pug",
-      "Sass",
-      "XML",
-      "XML Schema",
-      "XSLT"
-    ],
-    [
-      "Node.js",
-      "Python",
-      "Angular",
-      "React",
-      "Vue",
-      "MySQL",
-      "Mongo",
-      "R"
-    ]
-  ],
-  "items":[
-    {
-      "date":"December 1985",
-      "title":"born in Lahore",
-      "text":"<h1>Languages</h1><ul><li>English: Write and speak fluently</li><li>Urdu: روانی سے لکھ اور بول سکتے ہیں</li><li>Nationalilty: PK</li></ul>",
-      "background":"",
-      "languages":[
-        {
-          "language":"English",
-          "description":"Write and speak fluently"
-        },
-        {
-          "language":"Urdu",
-          "description":"روانی سے لکھ اور بول سکتے ہیں"
-        }
-      ],
-      "type":"Event",
-      "person":"Farhan",
-      "skills":[
-        {
-          "name":"English",
-          "level":3
-        },
-        {
-          "name":"Urdu",
-          "level":3
-        },
-        {
-          "name":"Punjabi",
-          "level":2
-        }
-      ],
-      "offsetY":-60
-    },
-    {
-      "date":"1999",
-      "title":"Awarded: Presidential Merit Scholarship",
-      "text":"<ul><li>First Position among all branches country wide</li><li>Secured 18 months merit scholarship of PKR 10K/month</li></ul>",
-      "type":"Education",
-      "person":"Muhammad",
-      "offsetY":60,
-      "length":1.8
-    },
-    {
-      "date":"1999",
-      "title":"Awarded: Presidential Merit Scholarship",
-      "text":"<h1>About me</h1><h2>From a professional perspective</h2><p>I am one of these developers with a passion for great code. I have experience in different sectors like manufacturing, luxury... where I developed my skills as a fullstack developer, developing RESTFul applications with microservices architecture. My curiosity and open-mindedness brought me into the energy sector, where I took the role of Data Engineer and faced new challenges like distributed computing and performance constraints.</p>",
-      "background":"",
-      "type":"Awards",
-      "person":"Muhammad",
-      "offsetY":60,
-      "length":1.8
-    },
-    {
-      "date":"January 2003",
-      "title":"Start of Session: BSc(Engg) Electronics Engineering",
-      "text":"<h1>Languages</h1><ul><li>English: Write and speak fluently</li><li>Urdu: روانی سے لکھ اور بول سکتے ہیں</li><li>Nationalilty: PK</li></ul>",
-      "background":"",
-      "languages":[
-        {
-          "language":"English",
-          "description":"Write and speak fluently"
-        },
-        {
-          "language":"Urdu",
-          "description":"روانی سے لکھ اور بول سکتے ہیں"
-        }
-      ],
-      "type":"Event",
-      "person":"Farhan",
-      "skills":[
-        {
-          "name":"English",
-          "level":3
-        },
-        {
-          "name":"Urdu",
-          "level":3
-        },
-        {
-          "name":"Punjabi",
-          "level":2
-        }
-      ],
-      "offsetY":-60
-    },
-    {
-      "date":"September 2007",
-      "title":"Imperious Technologies",
-      "logo":"assets/logos/axios.svg",
-      "text":"Applications & Suport Specialist",
-      "skills":[
-        {
-          "name":"QBASIC",
-          "level":1.4
-        },
-        {
-          "name":"Turbo Pascal",
-          "level":1.4
-        },
-        {
-          "name":"C/C++",
-          "level":1.4
-        },
-        {
-          "name":"Visual Basic",
-          "level":1.4
-        },
-        {
-          "name":"Assembler",
-          "level":1.4
-        },
-        {
-          "name":"HTML",
-          "level":1
-        },
-        {
-          "name":"CSS",
-          "level":1
-        },
-        {
-          "name":"JavaScript",
-          "level":1
-        }
-      ],
-      "length":1,
-      "type":"Event",
-      "person":"Muhammad",
-      "offsetY":20
-    },
-    
+	],
+	"pdfCV": "assets/cv_mfarhan.pdf",
+	"skills": [
+		[
+			"English",
+			"Urdu",
+			"Punjabi"
+		],
+		[
+			"Scientific Presentation",
+			"Scientific Writing",
+			"Project Management",
+			"DevOps",
+			"Quality Management"
+		],
+		[
+			"Compiler Technologies",
+			"High Performance Computing",
+			"Knot Theory",
+			"PDEs",
+			"Simulation",
+			"Optimization",
+			"Web Technologies"
+		],
+		[
+			"JavaScript",
+			"NextJS",
+			"Vuejs",
+			"Nuxt",
+			"Cascading Style Sheets (CSS)",
+			"Node.js",
+			"jQuery",
+			"AngularJS",
+			"React.js",
+			"MySQL",
+			"HTML5",
+			"Git",
+			"PHP",
+			"Java",
+			"JavaScript",
+			"Matlab",
+			"Python",
+			"R",
+			"SAS",
+			"SQL",
+			"TypeScript",
+			"mongodb"
+		],
+		[
+			"H2O",
+			"Caffe",
+			"Tensorflow"
+		],
+		[
+			"CSS",
+			"HTML",
+			"Jade/pug",
+			"Sass",
+			"XML",
+			"XML Schema",
+			"XSLT"
+		],
+		[
+			"Node.js",
+			"Python",
+			"Angular",
+			"React",
+			"Vue",
+			"MySQL",
+			"Mongo",
+			"R"
+		]
+	],
+	"items": [{
+			"date": "December 1985",
+			"title": "born in Lahore",
+			"text": "<h1>Languages</h1><ul><li>English: Write and speak fluently</li><li>Urdu: روانی سے لکھ اور بول سکتے ہیں</li><li>Nationalilty: PK</li></ul>",
+			"background": "",
+			"languages": [{
+					"language": "English",
+					"description": "Write and speak fluently"
+				},
+				{
+					"language": "Urdu",
+					"description": "روانی سے لکھ اور بول سکتے ہیں"
+				}
+			],
+			"type": "Event",
+			"person": "Farhan",
+			"skills": [{
+					"name": "English",
+					"level": 3
+				},
+				{
+					"name": "Urdu",
+					"level": 3
+				},
+				{
+					"name": "Punjabi",
+					"level": 2
+				}
+			],
+			"offsetY": -60
+		},
+		{
+			"date": "1999",
+			"title": "Awarded: Presidential Merit Scholarship",
+			"text": "<ul><li>First Position among all branches country wide</li><li>Secured 18 months merit scholarship of PKR 10K/month</li></ul>",
+			"type": "Education",
+			"person": "Muhammad",
+			"offsetY": 60,
+			"length": 1.8
+		},
+		{
+			"date": "1999",
+			"title": "Awarded: Presidential Merit Scholarship",
+			"text": "<h1>About me</h1><h2>From a professional perspective</h2><p>I am one of these developers with a passion for great code. I have experience in different sectors like manufacturing, luxury... where I developed my skills as a fullstack developer, developing RESTFul applications with microservices architecture. My curiosity and open-mindedness brought me into the energy sector, where I took the role of Data Engineer and faced new challenges like distributed computing and performance constraints.</p>",
+			"background": "",
+			"type": "Awards",
+			"person": "Muhammad",
+			"offsetY": 60,
+			"length": 1.8
+		},
+		{
+			"date": "January 2003",
+			"title": "Start of Session: BSc(Engg) Electronics Engineering",
+			"text": "<h1>Languages</h1><ul><li>English: Write and speak fluently</li><li>Urdu: روانی سے لکھ اور بول سکتے ہیں</li><li>Nationalilty: PK</li></ul>",
+			"background": "",
+			"languages": [{
+					"language": "English",
+					"description": "Write and speak fluently"
+				},
+				{
+					"language": "Urdu",
+					"description": "روانی سے لکھ اور بول سکتے ہیں"
+				}
+			],
+			"type": "Event",
+			"person": "Farhan",
+			"skills": [{
+					"name": "English",
+					"level": 3
+				},
+				{
+					"name": "Urdu",
+					"level": 3
+				},
+				{
+					"name": "Punjabi",
+					"level": 2
+				}
+			],
+			"offsetY": -60
+		},
+		{
+			"date": "September 2007",
+			"title": "Imperious Technologies",
+			"logo": "assets/logos/axios.svg",
+			"text": "Applications & Suport Specialist",
+			"skills": [{
+					"name": "QBASIC",
+					"level": 1.4
+				},
+				{
+					"name": "Turbo Pascal",
+					"level": 1.4
+				},
+				{
+					"name": "C/C++",
+					"level": 1.4
+				},
+				{
+					"name": "Visual Basic",
+					"level": 1.4
+				},
+				{
+					"name": "Assembler",
+					"level": 1.4
+				},
+				{
+					"name": "HTML",
+					"level": 1
+				},
+				{
+					"name": "CSS",
+					"level": 1
+				},
+				{
+					"name": "JavaScript",
+					"level": 1
+				}
+			],
+			"length": 1,
+			"type": "Event",
+			"person": "Muhammad",
+			"offsetY": 20
+		},
 
-    {
-      "date":"",
-      "title":"Cloud Services Platform",
-      "subtitle":"SLE, Mentor Graphics Inc.",
-      "text":"A multi-tier architecture hosted on AWS EC2<ul><li>95% open source technology stack</li><li>Patented technology for creating perfect Digital-Twins of on-site devices</li><li>RESTful APIs provide following services</li><li>File Storage</li><li>Device Commissioning & Initializations</li><li>Device & Application configurations</li><li>Device & Application operations</li><li>Custom Portal UI for Client Applications</li><li>Cloud to Device Messaging Services</li><li>Managed Embedded Applications Registry</li><li>Identity Signing Services</li><li>Time-Series Data Services - (Continuous Data Streams)</li><li>Operation Logging Services</li><li>Device & Embedded Applications Sites</li>",
-      "type":"Work Experience",
-      "person":"Muhammad",
-      "skills":[
-        {
-          "name":"MS Access",
-          "level":1.4
-        },
-        {
-          "name":"Visual Basic",
-          "level":2.5
-        },
-        {
-          "name":"MorphX/X++",
-          "level":3
-        },
-        {
-          "name":"C#",
-          "level":1
-        },
-        {
-          "name":"C/C++",
-          "level":2.5
-        },
-        {
-          "name":"ActiveX",
-          "level":1.4
-        },
-        {
-          "name":"SQL",
-          "level":1.6
-        },
-        {
-          "name":"HTML",
-          "level":1
-        },
-        {
-          "name":"CSS",
-          "level":1
-        }
-      ],
-      "length":1
-    },
-    {
-      "date":"October 2007",
-      "title":"Application Developer",
-      "subtitle":"Imperious Technologies",
-      "text":"Design and implementation of Scada protocols",
-      "skills":[
-        {
-          "name":"C/C++",
-          "level":1.4
-        }
-      ],
-      "type":"Work Experience",
-      "person":"Muhammad",
-      "length":1.3,
-      "offsetY":-120
-    },
-    {
-      "date":"2012",
-      "title":"Plant PIMS",
-      "text":"Validation Strategy head for SCADA & HMI Product Portfolio",
-      "skills":[
-        {
-          "name":"Java",
-          "level":3
-        },
-        {
-          "name":"HTML",
-          "level":2
-        },
-        {
-          "name":"CSS",
-          "level":2
-        },
-        {
-          "name":"JavaScript",
-          "level":2
-        },
-        {
-          "name":"XML",
-          "level":3
-        },
-        {
-          "name":"Web Technologies",
-          "level":3
-        },
-        {
-          "name":"LaTeX",
-          "level":2
-        },
-        {
-          "name":"XML Schema",
-          "level":1.5
-        },
-        {
-          "name":"XSLT",
-          "level":2
-        },
-        {
-          "name":"Scientific Writing",
-          "level":1
-        }
-      ],
-      "type":"Project",
-      "person":"Muhammad",
-      "offsetY":-20,
-      "length":1.6
-    },
-      
-    {
-      "date":"June 2009 –  April 2015",
-      "title":"Product Owner (PIMS)",
-      "subtitle":"Leading Plant information management",
-      "text":"<ul>Develop Modules as microservice that should comply with following:<li>Modularity</li><li>Packaging </li><li>Zero external or 3rd Party Dependancy </li><li>Comply application code with Open and Inner source guidelines </li><li>Documentation</li><li>Deployment and Mantainence Strategy</li></ul>",
-      "skills":[
-        {
-          "name":"Code Gen.",
-          "level":1.4
-        },
-        {
-          "name":"Auto Tuning",
-          "level":1.4
-        },
-        {
-          "name":"High Performance Computing",
-          "level":4
-        },
-        {
-          "name":"Fortran",
-          "level":3
-        },
-        {
-          "name":"C/C++",
-          "level":2.5
-        }
-      ],
-      "background":"assets/images/IMG_9660.jpg",
-      "type":"Work Experience",
-      "person":"Muhammad",
-      "offsetY":-30,
-      "length":1.2
-    },
-    {
-      "date":"Dec 2015",
-      "title":"Managed Cloud for Distributed Peripherals",
-      "subtitle":"SLE Mentor Graphics",
-      "text":"<ul><li>A Managed Central Control Platform for Distributed Peripherals is… A set of web services and applications, hosted in on a cloud platform (central nodes), with persistent internet connections to a pool of on-premise devices (edge nodes) that drive local consumer peripherals. The web services hosted on the central nodes of the solution can terminate on the central nodes, the edge nodes or on the managed peripherals. Access to these services is managed, meaning their access is granted by way of a business relationship between the operator of the embedded cloud platform and the service provider</li></ul>",
-      "skills":[
-        {
-          "name":"Code Gen.",
-          "level":1.4
-        },
-        {
-          "name":"Auto Tuning",
-          "level":1.4
-        },
-        {
-          "name":"Scientific Writing",
-          "level":2
-        },
-        {
-          "name":"C/C++",
-          "level":2
-        },
-        {
-          "name":"High Performance Computing",
-          "level":2
-        },
-        {
-          "name":"Fortran",
-          "level":1.4
-        },
-        {
-          "name":"Perl",
-          "level":2
-        }
-      ],
-      "background":"assets/images/IMG_9576.jpg",
-      "type":"Work Experience",
-      "person":"Muhammad",
-      "offsetY":50
-    },
-    {
-      "date":"April 2015",
-      "title":"Technical Lead",
-      "subtitle":"Mentor Graphics, (Pvt) Limited",
-      "text":" <ul><li>Cloud Service Platform (UI, Netzwerk, Compiler-Technologien)</li><li>Architektur und Entwicklung von web-basierter Software</li><li>Neuentwicklungen von hybriden mobilen Apps</li><li>Neu-/Weiterentwicklungen im Web-Frontend-Bereich</li><li>Neuentwicklungen interner Tools</li></ul>",
-      "skills":[
-        {
-          "name":"C/C++",
-          "level":2.5
-        },
-        {
-          "name":"ObjectiveC",
-          "level":1.8
-        },
-        {
-          "name":"Cocoa",
-          "level":1.8
-        },
-        {
-          "name":"JavaScript",
-          "level":3.5
-        },
-        {
-          "name":"TypeScript",
-          "level":3.5
-        },
-        {
-          "name":"HTML",
-          "level":3
-        },
-        {
-          "name":"Jade/pug",
-          "level":2
-        },
-        {
-          "name":"CSS",
-          "level":3
-        },
-        {
-          "name":"Sass",
-          "level":3
-        },
-        {
-          "name":"Node.js",
-          "level":4
-        },
-        {
-          "name":"Python",
-          "level":1
-        },
-        {
-          "name":"Cordova",
-          "level":1.4
-        },
-        {
-          "name":"Meteor",
-          "level":2.5
-        },
-        {
-          "name":"PHP",
-          "level":1.5
-        },
-        {
-          "name":"git",
-          "level":1.4
-        },
-        {
-          "name":"MySQL",
-          "level":1
-        },
-        {
-          "name":"SQL",
-          "level":1
-        },
-        {
-          "name":"MongoDB",
-          "level":1.5
-        },
-        {
-          "name":"XML",
-          "level":1
-        },
-        {
-          "name":"Compiler Technologies",
-          "level":1
-        }
-      ],
-      "type":"Work Experience",
-      "person":"Muhammad",
-      "background":"assets/logos/mentor.png",
-      "length":2,
-      "offsetY":-50
-    },
-    {
-      "date":"From September 2017",
-      "title":"SIEMENS Digital Industries Softwares",
-      "subtitle":"Senior Technical Lead",
-      "text":"",
-      "type":"Work Experience",
-      "person":"Muhammad",
-      "skills":[
-        {
-          "name":"Java",
-          "level":4
-        },
-        {
-          "name":"Play Framework",
-          "level":3
-        },
-        {
-          "name":"JavaScript",
-          "level":4
-        },
-        {
-          "name":"Angular",
-          "level":3
-        },
-        {
-          "name":"CSS",
-          "level":2
-        },
-        {
-          "name":"git",
-          "level":1.4
-        }
-      ]
-    },  {
-      "date":"2018",
-      "title":"Senior Technical Lead",
-      "text":"* Develops software. * Reviews relevant requirements, standards and other documentation to clarify and understand software engineering requirements. * Provides estimates for modules under development, and estimates own work. * Completes the development of software test requirements for modules under development. * Executes software (unit and integration) tests. * Presents technical findings and developments. * Adheres to the software quality process through the execution of module, subsystem and system test procedures. * Analyzes localization requirements and designs/adapts products and solutions accordingly.",
-      "type":"Project",
-      "person":"Muhammad",
-      "offsetY":30,
-      "length":0.8
-    },
-    {
-      "date":"Jan 2019",
-      "title":"Machine Monitoring Management",
-      "subtitle":"",
-      "text":"<ul><li>Dr. phil. nat., magna cum laude</li><li>PhD student in the High Performance and Web Computing Group with Prof. Dr. H. Burkhart</li><li>Research areas: High Performance Computing, Scientific Computing, Compiler Technologies, Auto Tuning, Optimization</li><li>Dissertations project <a href='https://github.com/intigration' target='_blank'>«Patus»</a><li>Dissertation: <a href='http://edoc.unibas.ch/1418/' target='_blank'>«Generating and Auto-Tuning Parallel Stencil Codes»</a>, Hartung-Gorre, ISBN 978-3-86628-409-8</li></ul>",
-      "skills":[
-        {
-          "name":"Code Gen.",
-          "level":1.4
-        },
-        {
-          "name":"Auto Tuning",
-          "level":1.4
-        },
-        {
-          "name":"Compiler Technologies",
-          "level":3
-        },
-        {
-          "name":"Scientific Writing",
-          "level":3
-        },
-        {
-          "name":"Scientific Presentation",
-          "level":2
-        },
-        {
-          "name":"Java",
-          "level":3
-        },
-        {
-          "name":"C/C++",
-          "level":2
-        },
-        {
-          "name":"High Performance Computing",
-          "level":4
-        },
-        {
-          "name":"Fortran",
-          "level":1.4
-        },
-        {
-          "name":"OpenMP",
-          "level":2.5
-        },
-        {
-          "name":"MPI",
-          "level":2.5
-        },
-        {
-          "name":"CUDA",
-          "level":2
-        },
-        {
-          "name":"Matlab",
-          "level":1.4
-        },
-        {
-          "name":"LaTeX",
-          "level":2.5
-        },
-        {
-          "name":"Python",
-          "level":1.4
-        },
-        {
-          "name":"Simulation",
-          "level":2
-        },
-        {
-          "name":"Optimierung",
-          "level":2
-        },
-        {
-          "name":"PDEs",
-          "level":1
-        },
-        {
-          "name":"SVN",
-          "level":1.4
-        },
-        {
-          "name":"XML",
-          "level":1
-        }
-      ],
-      "background":"assets/images/IMG_2470-HDR.jpg",
-      "length":1.8,
-      "offsetY":-60,
-      "type":"Education",
-      "person":"Muhammad"
-    },
-    {
-      "date":"",
-      "title":"Hello,I am here",
-      "type":"Event",
-      "person":"Muhammad",
-      "background":"assets/images/IMG_2591.jpg",
-      "offsetY":[
-        20,
-        90
-      ],
-      "skills":[
-        {
-          "name":"Deutsch",
-          "level":4
-        },
-        {
-          "name":"English",
-          "level":3.5
-        },
-        {
-          "name":"Assembler",
-          "level":2.5
-        },
-        {
-          "name":"C/C++",
-          "level":3
-        },
-        {
-          "name":"C#",
-          "level":1.5
-        },
-        {
-          "name":"CUDA",
-          "level":1
-        },
-        {
-          "name":"Fortran",
-          "level":1
-        },
-        {
-          "name":"Java",
-          "level":1.5
-        },
-        {
-          "name":"JavaScript",
-          "level":4
-        },
-        {
-          "name":"Matlab",
-          "level":1
-        },
-        {
-          "name":"MPI",
-          "level":1
-        },
-        {
-          "name":"MorphX/X++",
-          "level":1
-        },
-        {
-          "name":"ObjectiveC",
-          "level":2
-        },
-        {
-          "name":"OpenMP",
-          "level":1
-        },
-        {
-          "name":"Cocoa",
-          "level":1.5
-        },
-        {
-          "name":"TypeScript",
-          "level":4
-        },
-        {
-          "name":"Visual Basic",
-          "level":1
-        },
-        {
-          "name":"HTML",
-          "level":4
-        },
-        {
-          "name":"Jade/pug",
-          "level":3.5
-        },
-        {
-          "name":"CSS",
-          "level":4
-        },
-        {
-          "name":"Sass",
-          "level":4
-        },
-        {
-          "name":"Node.js",
-          "level":4
-        },
-        {
-          "name":"Python",
-          "level":1
-        },
-        {
-          "name":"Cordova",
-          "level":1
-        },
-        {
-          "name":"Meteor",
-          "level":2.5
-        },
-        {
-          "name":"PHP",
-          "level":2.5
-        },
-        {
-          "name":"git",
-          "level":1.4
-        },
-        {
-          "name":"MySQL",
-          "level":2
-        },
-        {
-          "name":"SQL",
-          "level":2
-        },
-        {
-          "name":"MongoDB",
-          "level":2
-        },
-        {
-          "name":"XML",
-          "level":2
-        },
-        {
-          "name":"XML Schema",
-          "level":1
-        },
-        {
-          "name":"XSLT",
-          "level":1
-        },
-        {
-          "name":"Compiler-Technologien",
-          "level":1.5
-        },
-        {
-          "name":"High Performance Computing",
-          "level":1.5
-        },
-        {
-          "name":"Knotentheorie",
-          "level":1
-        },
-        {
-          "name":"PDEs",
-          "level":1
-        },
-        {
-          "name":"Simulation, Optimierung",
-          "level":3
-        },
-        {
-          "name":"Webtechnologien",
-          "level":4
-        },
-        {
-          "name":"ActiveX",
-          "level":1
-        },
-        {
-          "name":"LaTeX",
-          "level":1
-        },
-        {
-          "name":"Project Management",
-          "level":4
-        },
-        {
-          "name":"DevOps",
-          "level":3
-        },
-        {
-          "name":"Quality Management",
-          "level":4
-        }
-      ],
-      "length":1.6
-    }
-  ]
+
+		{
+			"date": "",
+			"title": "Cloud Services Platform",
+			"subtitle": "SLE, Mentor Graphics Inc.",
+			"text": "A multi-tier architecture hosted on AWS EC2<ul><li>95% open source technology stack</li><li>Patented technology for creating perfect Digital-Twins of on-site devices</li><li>RESTful APIs provide following services</li><li>File Storage</li><li>Device Commissioning & Initializations</li><li>Device & Application configurations</li><li>Device & Application operations</li><li>Custom Portal UI for Client Applications</li><li>Cloud to Device Messaging Services</li><li>Managed Embedded Applications Registry</li><li>Identity Signing Services</li><li>Time-Series Data Services - (Continuous Data Streams)</li><li>Operation Logging Services</li><li>Device & Embedded Applications Sites</li>",
+			"type": "Work Experience",
+			"person": "Muhammad",
+			"skills": [{
+					"name": "MS Access",
+					"level": 1.4
+				},
+				{
+					"name": "Visual Basic",
+					"level": 2.5
+				},
+				{
+					"name": "MorphX/X++",
+					"level": 3
+				},
+				{
+					"name": "C#",
+					"level": 1
+				},
+				{
+					"name": "C/C++",
+					"level": 2.5
+				},
+				{
+					"name": "ActiveX",
+					"level": 1.4
+				},
+				{
+					"name": "SQL",
+					"level": 1.6
+				},
+				{
+					"name": "HTML",
+					"level": 1
+				},
+				{
+					"name": "CSS",
+					"level": 1
+				}
+			],
+			"length": 1
+		},
+		{
+			"date": "October 2007",
+			"title": "Application Developer",
+			"subtitle": "Imperious Technologies",
+			"text": "Design and implementation of Scada protocols",
+			"skills": [{
+				"name": "C/C++",
+				"level": 1.4
+			}],
+			"type": "Work Experience",
+			"person": "Muhammad",
+			"length": 1.3,
+			"offsetY": -120
+		},
+		{
+			"date": "2012",
+			"title": "Plant PIMS",
+			"text": "Validation Strategy head for SCADA & HMI Product Portfolio",
+			"skills": [{
+					"name": "Java",
+					"level": 3
+				},
+				{
+					"name": "HTML",
+					"level": 2
+				},
+				{
+					"name": "CSS",
+					"level": 2
+				},
+				{
+					"name": "JavaScript",
+					"level": 2
+				},
+				{
+					"name": "XML",
+					"level": 3
+				},
+				{
+					"name": "Web Technologies",
+					"level": 3
+				},
+				{
+					"name": "LaTeX",
+					"level": 2
+				},
+				{
+					"name": "XML Schema",
+					"level": 1.5
+				},
+				{
+					"name": "XSLT",
+					"level": 2
+				},
+				{
+					"name": "Scientific Writing",
+					"level": 1
+				}
+			],
+			"type": "Project",
+			"person": "Muhammad",
+			"offsetY": -20,
+			"length": 1.6
+		},
+
+		{
+			"date": "June 2009 –  April 2015",
+			"title": "Product Owner (PIMS)",
+			"subtitle": "Leading Plant information management",
+			"text": "<ul>Develop Modules as microservice that should comply with following:<li>Modularity</li><li>Packaging </li><li>Zero external or 3rd Party Dependancy </li><li>Comply application code with Open and Inner source guidelines </li><li>Documentation</li><li>Deployment and Mantainence Strategy</li></ul>",
+			"skills": [{
+					"name": "Code Gen.",
+					"level": 1.4
+				},
+				{
+					"name": "Auto Tuning",
+					"level": 1.4
+				},
+				{
+					"name": "High Performance Computing",
+					"level": 4
+				},
+				{
+					"name": "Fortran",
+					"level": 3
+				},
+				{
+					"name": "C/C++",
+					"level": 2.5
+				}
+			],
+			"background": "assets/images/IMG_9660.jpg",
+			"type": "Work Experience",
+			"person": "Muhammad",
+			"offsetY": -30,
+			"length": 1.2
+		},
+		{
+			"date": "Dec 2015",
+			"title": "Managed Cloud for Distributed Peripherals",
+			"subtitle": "SLE Mentor Graphics",
+			"text": "<ul><li>A Managed Central Control Platform for Distributed Peripherals is… A set of web services and applications, hosted in on a cloud platform (central nodes), with persistent internet connections to a pool of on-premise devices (edge nodes) that drive local consumer peripherals. The web services hosted on the central nodes of the solution can terminate on the central nodes, the edge nodes or on the managed peripherals. Access to these services is managed, meaning their access is granted by way of a business relationship between the operator of the embedded cloud platform and the service provider</li></ul>",
+			"skills": [{
+					"name": "Code Gen.",
+					"level": 1.4
+				},
+				{
+					"name": "Auto Tuning",
+					"level": 1.4
+				},
+				{
+					"name": "Scientific Writing",
+					"level": 2
+				},
+				{
+					"name": "C/C++",
+					"level": 2
+				},
+				{
+					"name": "High Performance Computing",
+					"level": 2
+				},
+				{
+					"name": "Fortran",
+					"level": 1.4
+				},
+				{
+					"name": "Perl",
+					"level": 2
+				}
+			],
+			"background": "assets/images/IMG_9576.jpg",
+			"type": "Work Experience",
+			"person": "Muhammad",
+			"offsetY": 50
+		},
+		{
+			"date": "April 2015",
+			"title": "Technical Lead",
+			"subtitle": "Mentor Graphics, (Pvt) Limited",
+			"text": " <ul><li>Cloud Service Platform (UI, Netzwerk, Compiler-Technologien)</li><li>Architektur und Entwicklung von web-basierter Software</li><li>Neuentwicklungen von hybriden mobilen Apps</li><li>Neu-/Weiterentwicklungen im Web-Frontend-Bereich</li><li>Neuentwicklungen interner Tools</li></ul>",
+			"skills": [{
+					"name": "C/C++",
+					"level": 2.5
+				},
+				{
+					"name": "ObjectiveC",
+					"level": 1.8
+				},
+				{
+					"name": "Cocoa",
+					"level": 1.8
+				},
+				{
+					"name": "JavaScript",
+					"level": 3.5
+				},
+				{
+					"name": "TypeScript",
+					"level": 3.5
+				},
+				{
+					"name": "HTML",
+					"level": 3
+				},
+				{
+					"name": "Jade/pug",
+					"level": 2
+				},
+				{
+					"name": "CSS",
+					"level": 3
+				},
+				{
+					"name": "Sass",
+					"level": 3
+				},
+				{
+					"name": "Node.js",
+					"level": 4
+				},
+				{
+					"name": "Python",
+					"level": 1
+				},
+				{
+					"name": "Cordova",
+					"level": 1.4
+				},
+				{
+					"name": "Meteor",
+					"level": 2.5
+				},
+				{
+					"name": "PHP",
+					"level": 1.5
+				},
+				{
+					"name": "git",
+					"level": 1.4
+				},
+				{
+					"name": "MySQL",
+					"level": 1
+				},
+				{
+					"name": "SQL",
+					"level": 1
+				},
+				{
+					"name": "MongoDB",
+					"level": 1.5
+				},
+				{
+					"name": "XML",
+					"level": 1
+				},
+				{
+					"name": "Compiler Technologies",
+					"level": 1
+				}
+			],
+			"type": "Work Experience",
+			"person": "Muhammad",
+			"background": "assets/logos/mentor.png",
+			"length": 2,
+			"offsetY": -50
+		},
+		{
+			"date": "From September 2017",
+			"title": "SIEMENS Digital Industries Softwares",
+			"subtitle": "Senior Technical Lead",
+			"text": "",
+			"type": "Work Experience",
+			"person": "Muhammad",
+			"skills": [{
+					"name": "Java",
+					"level": 4
+				},
+				{
+					"name": "Play Framework",
+					"level": 3
+				},
+				{
+					"name": "JavaScript",
+					"level": 4
+				},
+				{
+					"name": "Angular",
+					"level": 3
+				},
+				{
+					"name": "CSS",
+					"level": 2
+				},
+				{
+					"name": "git",
+					"level": 1.4
+				}
+			]
+		}, {
+			"date": "2018",
+			"title": "Senior Technical Lead",
+			"text": "* Develops software. * Reviews relevant requirements, standards and other documentation to clarify and understand software engineering requirements. * Provides estimates for modules under development, and estimates own work. * Completes the development of software test requirements for modules under development. * Executes software (unit and integration) tests. * Presents technical findings and developments. * Adheres to the software quality process through the execution of module, subsystem and system test procedures. * Analyzes localization requirements and designs/adapts products and solutions accordingly.",
+			"type": "Project",
+			"person": "Muhammad",
+			"offsetY": 30,
+			"length": 0.8
+		},
+		{
+			"date": "Jan 2019",
+			"title": "Machine Monitoring Management",
+			"subtitle": "",
+			"text": "<ul><li>Dr. phil. nat., magna cum laude</li><li>PhD student in the High Performance and Web Computing Group with Prof. Dr. H. Burkhart</li><li>Research areas: High Performance Computing, Scientific Computing, Compiler Technologies, Auto Tuning, Optimization</li><li>Dissertations project <a href='https://github.com/intigration' target='_blank'>«Patus»</a><li>Dissertation: <a href='http://edoc.unibas.ch/1418/' target='_blank'>«Generating and Auto-Tuning Parallel Stencil Codes»</a>, Hartung-Gorre, ISBN 978-3-86628-409-8</li></ul>",
+			"skills": [{
+					"name": "Code Gen.",
+					"level": 1.4
+				},
+				{
+					"name": "Auto Tuning",
+					"level": 1.4
+				},
+				{
+					"name": "Compiler Technologies",
+					"level": 3
+				},
+				{
+					"name": "Scientific Writing",
+					"level": 3
+				},
+				{
+					"name": "Scientific Presentation",
+					"level": 2
+				},
+				{
+					"name": "Java",
+					"level": 3
+				},
+				{
+					"name": "C/C++",
+					"level": 2
+				},
+				{
+					"name": "High Performance Computing",
+					"level": 4
+				},
+				{
+					"name": "Fortran",
+					"level": 1.4
+				},
+				{
+					"name": "OpenMP",
+					"level": 2.5
+				},
+				{
+					"name": "MPI",
+					"level": 2.5
+				},
+				{
+					"name": "CUDA",
+					"level": 2
+				},
+				{
+					"name": "Matlab",
+					"level": 1.4
+				},
+				{
+					"name": "LaTeX",
+					"level": 2.5
+				},
+				{
+					"name": "Python",
+					"level": 1.4
+				},
+				{
+					"name": "Simulation",
+					"level": 2
+				},
+				{
+					"name": "Optimierung",
+					"level": 2
+				},
+				{
+					"name": "PDEs",
+					"level": 1
+				},
+				{
+					"name": "SVN",
+					"level": 1.4
+				},
+				{
+					"name": "XML",
+					"level": 1
+				}
+			],
+			"background": "assets/images/IMG_2470-HDR.jpg",
+			"length": 1.8,
+			"offsetY": -60,
+			"type": "Education",
+			"person": "Muhammad"
+		},
+		{
+			"date": "",
+			"title": "Hello,I am here",
+			"type": "Event",
+			"person": "Muhammad",
+			"background": "assets/images/IMG_2591.jpg",
+			"offsetY": [
+				20,
+				90
+			],
+			"skills": [{
+					"name": "Deutsch",
+					"level": 4
+				},
+				{
+					"name": "English",
+					"level": 3.5
+				},
+				{
+					"name": "Assembler",
+					"level": 2.5
+				},
+				{
+					"name": "C/C++",
+					"level": 3
+				},
+				{
+					"name": "C#",
+					"level": 1.5
+				},
+				{
+					"name": "CUDA",
+					"level": 1
+				},
+				{
+					"name": "Fortran",
+					"level": 1
+				},
+				{
+					"name": "Java",
+					"level": 1.5
+				},
+				{
+					"name": "JavaScript",
+					"level": 4
+				},
+				{
+					"name": "Matlab",
+					"level": 1
+				},
+				{
+					"name": "MPI",
+					"level": 1
+				},
+				{
+					"name": "MorphX/X++",
+					"level": 1
+				},
+				{
+					"name": "ObjectiveC",
+					"level": 2
+				},
+				{
+					"name": "OpenMP",
+					"level": 1
+				},
+				{
+					"name": "Cocoa",
+					"level": 1.5
+				},
+				{
+					"name": "TypeScript",
+					"level": 4
+				},
+				{
+					"name": "Visual Basic",
+					"level": 1
+				},
+				{
+					"name": "HTML",
+					"level": 4
+				},
+				{
+					"name": "Jade/pug",
+					"level": 3.5
+				},
+				{
+					"name": "CSS",
+					"level": 4
+				},
+				{
+					"name": "Sass",
+					"level": 4
+				},
+				{
+					"name": "Node.js",
+					"level": 4
+				},
+				{
+					"name": "Python",
+					"level": 1
+				},
+				{
+					"name": "Cordova",
+					"level": 1
+				},
+				{
+					"name": "Meteor",
+					"level": 2.5
+				},
+				{
+					"name": "PHP",
+					"level": 2.5
+				},
+				{
+					"name": "git",
+					"level": 1.4
+				},
+				{
+					"name": "MySQL",
+					"level": 2
+				},
+				{
+					"name": "SQL",
+					"level": 2
+				},
+				{
+					"name": "MongoDB",
+					"level": 2
+				},
+				{
+					"name": "XML",
+					"level": 2
+				},
+				{
+					"name": "XML Schema",
+					"level": 1
+				},
+				{
+					"name": "XSLT",
+					"level": 1
+				},
+				{
+					"name": "Compiler-Technologien",
+					"level": 1.5
+				},
+				{
+					"name": "High Performance Computing",
+					"level": 1.5
+				},
+				{
+					"name": "Knotentheorie",
+					"level": 1
+				},
+				{
+					"name": "PDEs",
+					"level": 1
+				},
+				{
+					"name": "Simulation, Optimierung",
+					"level": 3
+				},
+				{
+					"name": "Webtechnologien",
+					"level": 4
+				},
+				{
+					"name": "ActiveX",
+					"level": 1
+				},
+				{
+					"name": "LaTeX",
+					"level": 1
+				},
+				{
+					"name": "Project Management",
+					"level": 4
+				},
+				{
+					"name": "DevOps",
+					"level": 3
+				},
+				{
+					"name": "Quality Management",
+					"level": 4
+				}
+			],
+			"length": 1.6
+		}
+	]
 }
