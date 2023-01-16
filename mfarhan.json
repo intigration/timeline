@@ -14,7 +14,8 @@
 		"November",
 		"December"
 	],
-	"social": [{
+	"social": [
+		{
 			"icon": "assets/icons/linkedin.svg",
 			"href": "https://www.linkedin.com/in/engr-farhan/"
 		},
@@ -32,7 +33,7 @@
 		}
 
 	],
-	"pdfCV": "assets/cv_mfarhan.pdf",
+	"pdfCV": "assets/cv.pdf",
 	"skills": [
 		[
 			"English",
@@ -104,12 +105,14 @@
 			"R"
 		]
 	],
-	"items": [{
+	"items": [
+		{
 			"date": "December 1985",
 			"title": "born in Lahore",
 			"text": "<h1>Languages</h1><ul><li>English: Write and speak fluently</li><li>Urdu: روانی سے لکھ اور بول سکتے ہیں</li><li>Nationalilty: PK</li></ul>",
 			"background": "",
-			"languages": [{
+			"languages": [
+				{
 					"language": "English",
 					"description": "Write and speak fluently"
 				},
@@ -120,7 +123,8 @@
 			],
 			"type": "Event",
 			"person": "Farhan",
-			"skills": [{
+			"skills": [
+				{
 					"name": "English",
 					"level": 3
 				},
@@ -144,6 +148,17 @@
 			"offsetY": 60,
 			"length": 1.8
 		},
+
+		{
+			"date": "2014",
+			"title": "openssh connector",
+			"text": "<ul><li>First Position among all branches country wide</li><li>Secured 18 months merit scholarship of PKR 10K/month</li></ul>",
+			"type": "Work Experience",
+			"person": "Muhammad",
+			"offsetY": 60,
+			"length": 1.8
+		},
+
 		{
 			"date": "1999",
 			"title": "Awarded: Presidential Merit Scholarship",
@@ -159,7 +174,8 @@
 			"title": "Start of Session: BSc(Engg) Electronics Engineering",
 			"text": "<h1>Languages</h1><ul><li>English: Write and speak fluently</li><li>Urdu: روانی سے لکھ اور بول سکتے ہیں</li><li>Nationalilty: PK</li></ul>",
 			"background": "",
-			"languages": [{
+			"languages": [
+				{
 					"language": "English",
 					"description": "Write and speak fluently"
 				},
@@ -170,7 +186,8 @@
 			],
 			"type": "Event",
 			"person": "Farhan",
-			"skills": [{
+			"skills": [
+				{
 					"name": "English",
 					"level": 3
 				},
@@ -190,7 +207,8 @@
 			"title": "Imperious Technologies",
 			"logo": "assets/logos/axios.svg",
 			"text": "Applications & Suport Specialist",
-			"skills": [{
+			"skills": [
+				{
 					"name": "QBASIC",
 					"level": 1.4
 				},
@@ -237,7 +255,8 @@
 			"text": "A multi-tier architecture hosted on AWS EC2<ul><li>95% open source technology stack</li><li>Patented technology for creating perfect Digital-Twins of on-site devices</li><li>RESTful APIs provide following services</li><li>File Storage</li><li>Device Commissioning & Initializations</li><li>Device & Application configurations</li><li>Device & Application operations</li><li>Custom Portal UI for Client Applications</li><li>Cloud to Device Messaging Services</li><li>Managed Embedded Applications Registry</li><li>Identity Signing Services</li><li>Time-Series Data Services - (Continuous Data Streams)</li><li>Operation Logging Services</li><li>Device & Embedded Applications Sites</li>",
 			"type": "Work Experience",
 			"person": "Muhammad",
-			"skills": [{
+			"skills": [
+				{
 					"name": "MS Access",
 					"level": 1.4
 				},
@@ -281,10 +300,12 @@
 			"title": "Application Developer",
 			"subtitle": "Imperious Technologies",
 			"text": "Design and implementation of Scada protocols",
-			"skills": [{
-				"name": "C/C++",
-				"level": 1.4
-			}],
+			"skills": [
+				{
+					"name": "C/C++",
+					"level": 1.4
+				}
+			],
 			"type": "Work Experience",
 			"person": "Muhammad",
 			"length": 1.3,
@@ -294,7 +315,8 @@
 			"date": "2012",
 			"title": "Plant PIMS",
 			"text": "Validation Strategy head for SCADA & HMI Product Portfolio",
-			"skills": [{
+			"skills": [
+				{
 					"name": "Java",
 					"level": 3
 				},
@@ -346,7 +368,8 @@
 			"title": "Product Owner (PIMS)",
 			"subtitle": "Leading Plant information management",
 			"text": "<ul>Develop Modules as microservice that should comply with following:<li>Modularity</li><li>Packaging </li><li>Zero external or 3rd Party Dependancy </li><li>Comply application code with Open and Inner source guidelines </li><li>Documentation</li><li>Deployment and Mantainence Strategy</li></ul>",
-			"skills": [{
+			"skills": [
+				{
 					"name": "Code Gen.",
 					"level": 1.4
 				},
@@ -378,7 +401,8 @@
 			"title": "Managed Cloud for Distributed Peripherals",
 			"subtitle": "SLE Mentor Graphics",
 			"text": "<ul><li>A Managed Central Control Platform for Distributed Peripherals is… A set of web services and applications, hosted in on a cloud platform (central nodes), with persistent internet connections to a pool of on-premise devices (edge nodes) that drive local consumer peripherals. The web services hosted on the central nodes of the solution can terminate on the central nodes, the edge nodes or on the managed peripherals. Access to these services is managed, meaning their access is granted by way of a business relationship between the operator of the embedded cloud platform and the service provider</li></ul>",
-			"skills": [{
+			"skills": [
+				{
 					"name": "Code Gen.",
 					"level": 1.4
 				},
@@ -417,7 +441,8 @@
 			"title": "Technical Lead",
 			"subtitle": "Mentor Graphics, (Pvt) Limited",
 			"text": " <ul><li>Cloud Service Platform (UI, Netzwerk, Compiler-Technologien)</li><li>Architektur und Entwicklung von web-basierter Software</li><li>Neuentwicklungen von hybriden mobilen Apps</li><li>Neu-/Weiterentwicklungen im Web-Frontend-Bereich</li><li>Neuentwicklungen interner Tools</li></ul>",
-			"skills": [{
+			"skills": [
+				{
 					"name": "C/C++",
 					"level": 2.5
 				},
@@ -508,10 +533,12 @@
 			"date": "From September 2017",
 			"title": "SIEMENS Digital Industries Softwares",
 			"subtitle": "Senior Technical Lead",
-			"text": "",
+			"text": "In addition to the selection of suitable tools, these must also be optimally usable for the developers.  Ultimately, what counts is whether the developer can create high-quality software with the tools.",
+
 			"type": "Work Experience",
 			"person": "Muhammad",
-			"skills": [{
+			"skills": [
+				{
 					"name": "Java",
 					"level": 4
 				},
@@ -536,7 +563,8 @@
 					"level": 1.4
 				}
 			]
-		}, {
+		},
+		{
 			"date": "2018",
 			"title": "Senior Technical Lead",
 			"text": "* Develops software. * Reviews relevant requirements, standards and other documentation to clarify and understand software engineering requirements. * Provides estimates for modules under development, and estimates own work. * Completes the development of software test requirements for modules under development. * Executes software (unit and integration) tests. * Presents technical findings and developments. * Adheres to the software quality process through the execution of module, subsystem and system test procedures. * Analyzes localization requirements and designs/adapts products and solutions accordingly.",
@@ -549,8 +577,9 @@
 			"date": "Jan 2019",
 			"title": "Machine Monitoring Management",
 			"subtitle": "",
-			"text": "<ul><li>Dr. phil. nat., magna cum laude</li><li>PhD student in the High Performance and Web Computing Group with Prof. Dr. H. Burkhart</li><li>Research areas: High Performance Computing, Scientific Computing, Compiler Technologies, Auto Tuning, Optimization</li><li>Dissertations project <a href='https://github.com/intigration' target='_blank'>«Patus»</a><li>Dissertation: <a href='http://edoc.unibas.ch/1418/' target='_blank'>«Generating and Auto-Tuning Parallel Stencil Codes»</a>, Hartung-Gorre, ISBN 978-3-86628-409-8</li></ul>",
-			"skills": [{
+			"text": " ​Developed custom services & set of tools to support the automation strategy within validation workflows. • Boilerplates(project templates) for commonly used software stacks, and configurations.These boiler plates would evolve a baselined and consistent project schema for app - development process. • Node - Red instance embeds with ExpressJS(NodeJS) - help user to manage both Node - Red and Express context within single app.Event based subscription with APIs. • Integration with M3 services to act as Master Controller for Edge deployments.Assist to open autonomous • MachineView, a HMI in runtime to visualize the the test connect and map SVGs over static canvas • OPCUA as address - Space to model the app - data. • Which has the connectivity channels inform of HTTPS / REST, MQTT, WebSockets, OPCUA, OPCDA, S7 - SIEMENS, Modbus Master Ethernet, RTU & ASCII supported devices and applications. • API Designing tools to help API schema to write, validate, import, export in swagger, OpenAPI, format. • Server and Client code generation in number of supported runtime through API schema, • Design Components libraries - reusable UI components for Angular, React, HTML5 • Location and contextual information interfaces as paths.<ul><li>Dr. phil. nat., magna cum laude</li><li>PhD student in the High Performance and Web Computing Group with Prof. Dr. H. Burkhart</li><li>Research areas: High Performance Computing, Scientific Computing, Compiler Technologies, Auto Tuning, Optimization</li><li>",
+			"skills": [
+				{
 					"name": "Code Gen.",
 					"level": 1.4
 				},
@@ -647,13 +676,14 @@
 				20,
 				90
 			],
-			"skills": [{
+			"skills": [
+				{
 					"name": "Deutsch",
-					"level": 4
+					"level": 1
 				},
 				{
 					"name": "English",
-					"level": 3.5
+					"level": 4
 				},
 				{
 					"name": "Assembler",
