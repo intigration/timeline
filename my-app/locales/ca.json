@@ -1,0 +1,16 @@
+{
+    "Sponsors": "Patrocinadors",
+    "Legal": "Notes legals",
+    "Support": "Suport",
+    "Join Us!": "Uneix-te!",
+    "Community": "Comunitat",
+    "Downloads": "Baixades",
+    "Languages": "Idiomes",
+    "Become a Fedora Contributor": "Convertir-se en un contribuïdor de Fedora",
+    "Attending a meeting or reporting and discussing issues you've found can be a great first step at contribution": "Assistir a una reunió o informar i discutir temes que heu trobat pot ser un gran primer pas en la contribució",
+    "Your friendly and helpful contributions to these communication channels would be greatly appreciated": "Les seves amables i útils contribucions a aquests canals de comunicació serien molt benvolgudes",
+    "By calculating the image’s checksum on your own computer and comparing it to the original checksum, you can verify the image has not been tampered with or corrupted. Images are also gpg signed with Fedora keys to demonstrate their integrity": "En calcular la suma de verificació de la imatge en el vostre propi ordinador i comparar-la amb la suma de verificació original, podeu verificar que la imatge no s'ha manipulat ni s'ha corromput. Les imatges també estan signades amb claus Fedora per demostrar la seva integritat",
+    "Once you have downloaded an image, be sure to verify it for both security and integrity": "Un cop hàgiu baixat una imatge, assegureu-vos de verificar-la tant per a la seguretat com per a la integritat",
+    "We take security seriously": "Ens prenem de debò la seguretat",
+    "verify_button_instruction": "Feu clic al botó de verificació {verify_button} per obtenir instruccions adaptades a la baixada."
+}

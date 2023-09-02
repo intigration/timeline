@@ -1,0 +1,76 @@
+path: index
+title: Genislab lightweight VM environment
+description: A customizable cloud native experience.
+image:
+  src: https://stg.fedoraproject.org/assets/images/group-3-.png
+  alt: Genislabs Cloud Image
+  width: 400
+  height: 300
+header_images:
+  - image: public/assets/images/group-3-.png
+  - image: public/assets/images/image4099.png
+links:
+  - text: Download Now
+    url: /cloud/download/
+  - text: Documentation
+    url: https://fedoracloud.readthedocs.io/en/latest/whatis.html
+sections:
+  - sectionTitle: Why Fedora Cloud?
+    images: ""
+    content:
+      - title: Customizable
+        description:
+          Fedora Cloud allows you to tailor your environment to your needs by
+          selecting the specific packages and features you want to include.
+      - title: Secure
+        description:
+          Designed with security in mind, Fedora Cloud includes functions
+          like SELinux, which boosts kernel security, and Security Profiles.
+      - title: Up-to-date
+        description:
+          Fedora Cloud offers the most recent software packages and updates,
+          ensuring that you are constantly up to date.
+      - title: Open-source Ecosystem
+        description:
+          Everything is supported by a totally free and open-source Fedora
+          ecosystem.
+      - title: Community-driven
+        description:
+          Being an open source project means that there is a large pool of
+          knowlege and expertise available.
+      - title: Container-based
+        description:
+          Fedora Cloud is optimized for container workloads making it a great
+          host for running containerized applications.
+  - sectionTitle: "Endorsed Partners of Fedora Cloud "
+    images: public/assets/images/coreos_background_why.jpg
+    content:
+      - images:
+          light: public/assets/images/aws.png
+          dark: public/assets/images/aws-white.png
+      - image: public/assets/images/google_cloud-ar21.svg
+      - images:
+          light: public/assets/images/Vagrant_PrimaryLogo_Color_RGB.svg
+          dark: public/assets/images/Vagrant_PrimaryLogo_ColorWhite_RGB.svg
+  - sectionTitle: Built By You
+    images: public/assets/images/flock-budapest-2019-bg.jpg
+    sectionDescription: >-
+      The Fedora Project envisions a world where everyone benefits from
+      free and open source software built by inclusive, welcoming, and
+      open-minded communities.
+
+
+      Fedora Cloud is created by a team in the Fedora community called the **Cloud Working Group**. It is comprised of official members who have decision making powers, as well as other contributors. Learn more on the [Cloud Working Group website](https://fedoraproject.org/wiki/Cloud_SIG).
+    content:
+      - title: Report & discuss issues
+        description: You can view, file, and discuss Fedore Cloud issues on the [Fedora Cloud issue tracker](https://pagure.io/cloud-sig/issues).
+      - title: Chat with the team
+        description: Visit **\#fedora-Cloud** on irc.libera.chat.
+      - title: Join the mailing list
+        description:
+          Sign up at [cloud@lists.fedoraproject.org](https://lists.fedoraproject.org/admin/lists/cloud.lists.fedoraproject.org/) to receive
+          meeting agendas and minutes.
+      - title: Attend a meeting
+        description:
+          Open to all current and potential contributors on **Wednesday 11 AM
+          Eastern** on [fedora-meeting@irc.libera.chat](https://chat.fedoraproject.org/#/room/#meeting:fedoraproject.org).

@@ -1,0 +1,352 @@
+#. extracted from content/editions/iot/home.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-09-21 21:03+0000\n"
+"Last-Translator: Hoppár Zoltán <hopparz@gmail.com>\n"
+"Language-Team: Hungarian <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editions-iot/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr ""
+
+#: title
+msgid "The solid foundation for IoT ecosystems"
+msgstr "Az IoT ökoszisztémák szilárd alapja"
+
+#: description
+msgid "A lightweight yet powerful and scalable OS"
+msgstr "Könnyű, de nagy teljesítményű és méretezhető operációs rendszer"
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot.png"
+msgstr ""
+
+#: header_images-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Download Now"
+msgstr "Töltse le most"
+
+#: links-%3E[0]-%3Eurl
+#, read-only
+msgid "https://getfedora.org/en/iot/download/"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Reviewed By TechHut"
+msgstr "Áttekintve a TechHut által"
+
+#: links-%3E[1]-%3Eurl
+#, read-only
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Why Fedora Iot?"
+msgstr ""
+
+#: sections-%3E[0]-%3Eimages
+msgctxt "sections->[0]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Leading Technology"
+msgstr "Vezető technológia"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgctxt "sections->[0]->content->[0]->description"
+msgid ""
+"Built on the latest technologies and enhancements that open-source has to "
+"offer."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Container Based"
+msgstr "Konténer alapú"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[0]->content->[1]->description"
+msgid ""
+"Fedora IoT is a container-based host that runs on your hardware, with a "
+"focus on edge device deployment."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Open-source Ecosystem"
+msgstr "Nyílt forrású Ökoszisztéma"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[0]->content->[2]->description"
+msgid ""
+"Everything is supported by a totally free and open-source Fedora ecosystem."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Flexible"
+msgstr "Flexibilis"
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[0]->content->[3]->description"
+msgid "There are a wide variety of supported installation methods."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Edge Support"
+msgstr "Fejlett támogatás"
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Use Fedora IoT to support your workloads that are computed outside of the "
+"traditional datacenter."
+msgstr ""
+"Használja a Fedora IoT-t a hagyományos adatközponton kívül alkalmazott "
+"munkaterhelések támogatására."
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "Makes the most of your device"
+msgstr "A legtöbbet hozza ki eszközéből"
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Fedora works with hardware vendors to make excellent hardware support across "
+"a range of devices."
+msgstr ""
+"A Fedora hardvergyártókkal együttműködve kiváló hardvertámogatást nyújt "
+"számos eszközön."
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Platforms Tested against IoT"
+msgstr "Az IoT-vel szemben tesztelt platformok"
+
+#: sections-%3E[1]-%3Eimages
+msgctxt "sections->[1]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "arm Systemready"
+msgstr "ARM Systemready"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform1.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Pine64"
+msgstr "Pine64"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform2.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "SolidRun"
+msgstr "SolidRun"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform3.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "nVidia"
+msgstr "nVidia"
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform4.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Built By You"
+msgstr "Veled együtt építve"
+
+#: sections-%3E[2]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"The Fedora Project envisions a world where everyone benefits from free and "
+"open source software built by inclusive, welcoming, and open-minded "
+"communities.\n"
+"\n"
+"\n"
+"\n"
+"Fedora IoT is created by a team in the Fedora community called the IoT "
+"Working Group. It is comprised of official members who have decision making "
+"powers, as well as other contributors. Learn more on the IoT Working Group "
+"website."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Report & discuss issues"
+msgstr "Jelentsen & beszéljen meg problémákat"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgctxt "sections->[2]->content->[0]->description"
+msgid ""
+"Built on the latest technologies and enhancements that open-source has to "
+"offer."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chat with the team"
+msgstr "Csevegjen a csapattal"
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[2]->content->[1]->description"
+msgid ""
+"Fedora IoT is a container-based host that runs on your hardware, with a "
+"focus on edge device deployment."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "Join the mailing list"
+msgstr "Csatlakozzon a levelezőlistához"
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[2]->content->[2]->description"
+msgid ""
+"Everything is supported by a totally free and open-source Fedora ecosystem."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "Attend a meeting"
+msgstr "Vegyen részt megbeszélésen"
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[2]->content->[3]->description"
+msgid "There are a wide variety of supported installation methods."
+msgstr ""
+
+#~ msgid "Fedora IoT Index"
+#~ msgstr "Fedora IoT Index"
+
+#~ msgid "fa-youtube"
+#~ msgstr "fa-youtube"
+
+#~ msgid "WHY FEDORA IOT?"
+#~ msgstr "MIÉRT A FEDORA IOT?"
+
+#~ msgctxt "section->[0]->content->list->[0]->description"
+#~ "section->[0]->content->list->[0]->description"
+#~ msgid ""
+#~ "Built on the latest technologies and enhancements that open-source has to "
+#~ "offer."
+#~ msgstr ""
+#~ "A nyílt forráskód által kínált legújabb technológiákra és fejlesztésekre "
+#~ "épül."
+
+#~ msgctxt "section->[0]->content->list->[1]->description"
+#~ "section->[0]->content->list->[1]->description"
+#~ msgid ""
+#~ "Fedora IoT is a container-based host that runs on your hardware, with a "
+#~ "focus on edge device deployment."
+#~ msgstr ""
+#~ "A Fedora IoT egy konténer alapú gazdagép, amely a hardverén fut, és az "
+#~ "eszközök telepítésére összpontosít."
+
+#~ msgctxt "section->[0]->content->list->[2]->description"
+#~ "section->[0]->content->list->[2]->description"
+#~ msgid ""
+#~ "Everything is supported by a totally free and open-source Fedora ecosystem."
+#~ msgstr ""
+#~ "Mindent egy teljesen ingyenes és nyílt forráskódú Fedora ökoszisztéma "
+#~ "támogat."
+
+#~ msgctxt "section->[0]->content->list->[3]->description"
+#~ "section->[0]->content->list->[3]->description"
+#~ msgid "There are a wide variety of supported installation methods."
+#~ msgstr "A támogatott telepítési módszerek széles skálája létezik."
+
+#~ msgctxt "section->[1]->content->list->[0]->description"
+#~ msgid ""
+#~ "Built on the latest technologies and enhancements that open-source has to "
+#~ "offer."
+#~ msgstr ""
+#~ "A nyílt forráskód által kínált legújabb technológiákra és fejlesztésekre "
+#~ "épül."
+
+#~ msgctxt "section->[1]->content->list->[1]->description"
+#~ msgid ""
+#~ "Fedora IoT is a container-based host that runs on your hardware, with a "
+#~ "focus on edge device deployment."
+#~ msgstr ""
+#~ "A Fedora IoT egy konténer alapú gazdagép, amely a hardverén fut, és a "
+#~ "fejlett eszközök telepítésére összpontosít."
+
+#~ msgctxt "section->[1]->content->list->[2]->description"
+#~ msgid ""
+#~ "Everything is supported by a totally free and open-source Fedora ecosystem."
+#~ msgstr ""
+#~ "Mindent egy teljesen ingyenes és nyílt forráskódú Fedora ökoszisztéma "
+#~ "támogat."
+
+#~ msgctxt "section->[1]->content->list->[3]->description"
+#~ msgid "There are a wide variety of supported installation methods."
+#~ msgstr "A támogatott telepítési módszerek széles skálája létezik."
+
+#~ msgid ""
+#~ "The Fedora Project envisions a world where everyone benefits from free and "
+#~ "open source software built by inclusive, welcoming, and open-minded "
+#~ "communities."
+#~ msgstr ""
+#~ "A Fedora Project egy olyan világot képzel el, ahol mindenki részesülhet a "
+#~ "befogadó, barátságos és nyitott közösségek által épített ingyenes és nyílt "
+#~ "forráskódú szoftverekből."
+
+#~ msgid ""
+#~ "Fedora IoT is created by a team in the Fedora community called the IoT "
+#~ "Working Group. It is comprised of official members who have decision making "
+#~ "powers, as well as other contributors. Learn more on the IoT Working Group "
+#~ "website."
+#~ msgstr ""
+#~ "A Fedora IoT-t a Fedora közösségét a IoT Working Group nevű csapata hozza "
+#~ "létre. A szervezet döntéshozatali jogkörrel rendelkező hivatalos tagokból, "
+#~ "valamint egyéb közreműködőkből áll. További információ az IoT Working Group "
+#~ "webhelyén."
+
+#~ msgctxt "section->[2]->content->list->[0]->description"
+#~ msgid ""
+#~ "Built on the latest technologies and enhancements that open-source has to "
+#~ "offer."
+#~ msgstr ""
+#~ "A nyílt forráskód által kínált legújabb technológiákra és fejlesztésekre "
+#~ "épül."
+
+#~ msgctxt "section->[2]->content->list->[1]->description"
+#~ msgid ""
+#~ "Fedora IoT is a container-based host that runs on your hardware, with a "
+#~ "focus on edge device deployment."
+#~ msgstr ""
+#~ "A Fedora IoT egy konténer alapú gazdagép, amely az Ön hardverén fut, és a "
+#~ "fejlett eszközök telepítésére összpontosít."
+
+#~ msgctxt "section->[2]->content->list->[2]->description"
+#~ msgid ""
+#~ "Everything is supported by a totally free and open-source Fedora ecosystem."
+#~ msgstr ""
+#~ "Mindent egy teljesen ingyenes és nyílt forráskódú Fedora ökoszisztéma "
+#~ "támogat."
+
+#~ msgctxt "section->[2]->content->list->[3]->description"
+#~ msgid "There are a wide variety of supported installation methods."
+#~ msgstr "A támogatott telepítési módszerek széles skálája létezik."

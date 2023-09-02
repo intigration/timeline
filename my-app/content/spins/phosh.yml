@@ -1,0 +1,29 @@
+title: Fedora Phosh
+description: >-
+  The Phosh spin provides a mobile friendly, touch based desktop interface. It's
+  built for mobile devices like phones and tablets, but also laptops with
+  touchscreens. 
+
+
+
+  Phosh allows you to use a touch based device to quickly launch and switch applications as well as handy settings like battery level and wan signal strength. 
+
+
+
+  Behind this desktop is the entire Fedora collection of packages which you can install and use as you see fit. Phosh is built on wayland and other modern gnome desktop technologies.
+image:
+  src: https://stg.fedoraproject.org/assets/images/spins/spins-phosh-dark.png
+  alt: Fedora Sway Image
+  width: 200
+  height: 400
+links:
+  - text: Download Now
+    url: /spins/phosh/download/
+screenshot_image:
+  image: public/assets/images/spins/screenshot-phosh.jpg
+  alt_text: Screenshot of Fedora Phosh on mobile
+sections: []
+downloadSection:
+  description: We're so glad you've decided to give Fedora Phosh a try. We
+    know you'll love it.
+  links: []

@@ -1,0 +1,232 @@
+#################
+# Release Data #
+#################
+
+- label: "Release Information"
+  name: "release"
+  files:
+    - label: "Fedora Linux Release Data"
+      name: "releaseData"
+      file: "/content/release.yml"
+      format: yml
+      fields:
+        - label: "Download Base URL"
+          name: "download_baseurl"
+          widget: "string"
+          required: true
+        - label: "General Availability"
+          name: "ga"
+          summary: "Information about GA release"
+          widget: "object"
+          collapsed: false
+          fields:
+            - label: "Major release version"
+              name: "releasever"
+              widget: "number"
+              value_type: "int"
+              required: true
+            - label: "Release Candidate version"
+              name: "rc_version"
+              widget: "string"
+              required: true
+            - label: "Release Date"
+              name: "release_date"
+              widget: "datetime"
+              format: "x"
+              date_format: true
+              time_format: false
+              picker_utc: true
+            - label: "Fedora Magazine announcement post"
+              name: "announcement_url"
+              widget: "string"
+        - label: "Beta Availability"
+          name: "beta"
+          summary: "Information about BETA release"
+          widget: "object"
+          collapsed: false
+          fields:
+            - label: "Display beta download"
+              name: "enabled"
+              widget: "boolean"
+              required: true
+            - label: "Major release version"
+              name: "releasever"
+              widget: "number"
+              value_type: "int"
+              required: true
+            - label: "Release Candidate version"
+              name: "rc_version"
+              widget: "string"
+              required: true
+    # Security data
+    - label: "Security & GPG keys"
+      name: "securityData"
+      file: "/content/security.yml"
+      format: yml
+      fields:
+        - label: "Page Title"
+          name: "title"
+          widget: "string"
+          required: true
+        - label: "Page description"
+          name: "description"
+          widget: "string"
+        - label: "Verify Section"
+          name: "verifySection"
+          widget: "object"
+          collapsed: true
+          fields:
+            - label: "Title"
+              name: "title"
+              widget: "string"
+              required: true
+            - label: "Description"
+              name: "description"
+              widget: "string"
+              required: false
+        - label: "Package signing Section"
+          name: "packageSection"
+          widget: "object"
+          collapsed: true
+          fields:
+            - label: "Title"
+              name: "title"
+              widget: "string"
+              required: true
+            - label: "Description"
+              name: "description"
+              widget: "string"
+              required: false
+            - label: "Section text"
+              name: "content"
+              widget: "text"
+              required: true
+        - label: "Report Bug Section"
+          name: "bugSection"
+          widget: "object"
+          collapsed: true
+          fields:
+            - label: "Title"
+              name: "title"
+              widget: "string"
+              required: true
+            - label: "Description"
+              name: "description"
+              widget: "string"
+              required: false
+        - label: "GPG Keys"
+          name: "gpg_keys"
+          widget: "object"
+          collapsed: true
+          fields:
+            - label: "Current GPG keys"
+              name: "current"
+              widget: "list"
+              collapsed: true
+              fields:
+                - label: "Key Name"
+                  name: "name"
+                - label: "Key ID"
+                  name: "id"
+                - label: "Key Fingerprint"
+                  name: "fingerprint"
+                - label: "DNS OpenPGPKey"
+                  name: "openpgpkey"
+                  required: false
+            - label: "Obsolete GPG keys"
+              name: "obsolete"
+              widget: "list"
+              collapsed: true
+              fields:
+                - label: "Key Name"
+                  name: "name"
+                - label: "Key ID"
+                  name: "id"
+                - label: "Key Fingerprint"
+                  name: "fingerprint"
+                - label: "DNS OpenPGPKey"
+                  name: "openpgpkey"
+                  required: false
+    # Compliance Partial Data
+    - label: "Download Terms and Conditions Partial"
+      name: "compliancePartial"
+      file: "/content/partials/compliance.yml"
+      format: yml
+      fields:
+        - label: "Title"
+          name: "title"
+          required: false
+          hint: "Section title"
+        - label: "Description"
+          name: "description"
+          required: false
+          widget: "text"
+          hint: "Section content"
+    # Become Contributors Partial Data
+    - label: "Become Contributor Partial"
+      name: "becomeContributorPartial"
+      file: "/content/partials/become_contributor.yml"
+      format: yml
+      fields:
+        - label: "Title"
+          name: "sectionTitle"
+          required: false
+          hint: "Section Title"
+        - label: "Description"
+          name: "sectionDescription"
+          required: false
+          hint: "An optional description"
+        - label: "Official Channels"
+          name: "officialChannels"
+          widget: "object"
+          collapsed: true
+          fields:
+            - label: "Section Title"
+              name: "title"
+              required: false
+              hint: "An optional headline"
+            - label: "List of channels"
+              name: "content"
+              required: false
+              widget: "list"
+              collapsed: true
+              fields:
+                - label: "Name"
+                  name: "title"
+                  required: false
+                  hint: "Communication channel name"
+                - label: "Image"
+                  name: "image"
+                  required: false
+                  hint: "An optional image or logo"
+                - label: "Link URL"
+                  name: "link"
+                  required: false
+                  hint: "An optional URL"
+        - label: "Community Channels"
+          name: "communityChannels"
+          widget: "object"
+          collapsed: true
+          fields:
+            - label: "Section Title"
+              name: "title"
+              required: false
+              hint: "An optional headline"
+            - label: "List of channels"
+              name: "content"
+              required: false
+              widget: "list"
+              collapsed: true
+              fields:
+                - label: "Name"
+                  name: "title"
+                  required: false
+                  hint: "Communication channel name"
+                - label: "Image"
+                  name: "image"
+                  required: false
+                  hint: "An optional image or logo"
+                - label: "Link URL"
+                  name: "link"
+                  required: false
+                  hint: "An optional URL"

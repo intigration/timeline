@@ -1,0 +1,6 @@
+{
+  "verify_button_instruction": "Click the verify button {verify_button} to get instructions tailored for your download.",
+  "We take security seriously": "",
+  "Once you have downloaded an image, be sure to verify it for both security and integrity": "",
+  "By calculating the image’s checksum on your own computer and comparing it to the original checksum, you can verify the image has not been tampered with or corrupted. Images are also gpg signed with Fedora keys to demonstrate their integrity": ""
+}

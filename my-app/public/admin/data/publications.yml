@@ -1,0 +1,53 @@
+###################################
+# Publications Pages and partials #
+###################################
+- label: "Publications"
+  name: "publicationPages"
+  files:
+    # Publication Partial Data
+    - label: Publication Partial
+      name: "publicationPartial"
+      file: "/content/events/publication-partial.yml"
+      format: yml
+      fields:
+        - label: "Title"
+          name: "title"
+          required: false
+          hint: "An optional title"
+        - label: "Description"
+          name: "description"
+          required: false
+          hint: "An optional description"
+        - label: "Cards"
+          label_singular: "Card"
+          name: "cards"
+          widget: list
+          summary: "{{fields.title}}"
+          collapsed: true
+          fields:
+            - label: "Card Title"
+              name: "title"
+              widget: "string"
+              required: false
+            - label: "Description"
+              name: "description"
+              widget: "text"
+              required: false
+            - label: "Image"
+              name: "image"
+              widget: "image"
+              hint: "A wider logo will fit best here"
+            - label: "Button"
+              name: "button"
+              widget: "object"
+              hint: "text and url for a button"
+              summary: "{{fields.text}}"
+              fields:
+                - label: "text"
+                  name: "text"
+                  widget: "string"
+                  hint: "visible text for the button"
+                - label: "URL"
+                  name: "url"
+                  widget: "string"
+                  hint: "Endpoint/url for the button"

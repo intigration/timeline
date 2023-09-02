@@ -1,0 +1,20 @@
+{
+  "Attend a meeting": "Attend a meeting",
+  "Chat": "Chat",
+  "Chat Now": "Chat Now",
+  "Communication Channels": "Communication Channels",
+  "Community": "Community",
+  "CoreOS Working Group meetings are open to all current and potential contributors on Wednesdays, 11 AM US Eastern at fedora-meeting@irc.libera.chat.": "CoreOS Working Group meetings are open to all current and potential contributors on Wednesdays, 11 AM US Eastern at fedora-meeting{'@'}irc.libera.chat.",
+  "Description": "Description",
+  "Fedora CoreOS is created by a team in the Fedora Project community called the CoreOS Working Group. It is comprised of official members who have decision-making powers, as well as other contributors. Learn more about this group and how you can get involved on the CoreOS Working Group website.": "Fedora CoreOS is created by a team in the Fedora Project community called the CoreOS Working Group. It is comprised of official members who have decision-making powers, as well as other contributors. Learn more about this group and how you can get involved on the CoreOS Working Group website.",
+  "Forum": "Forum",
+  "Join a community of users and contributors focused on Fedora CoreOS.": "Join a community of users and contributors focused on Fedora CoreOS.",
+  "Mailing List": "Mailing List",
+  "Report & discuss issues": "Report & discuss issues",
+  "The **Fedora CoreOS** tag on Fedora's Discourse-based discussion forum is a great place to connect with other Fedora CoreOS users and contributors.": "The **Fedora CoreOS** tag on Fedora's Discourse-based discussion forum is a great place to connect with other Fedora CoreOS users and contributors.",
+  "The Fedora CoreOS Working Group sends meeting agendas and minutes and has discussions on their mailing list at coreos@lists.fedoraproject.org.": "The Fedora CoreOS Working Group sends meeting agendas and minutes and has discussions on their mailing list at coreos{'@'}lists.fedoraproject.org.",
+  "Visit Now": "Visit Now",
+  "Ways to get involved": "Ways to get involved",
+  "You can chat with the Fedora CoreOS Working Group via either Matrix or IRC: #coreos:fedoraproject.org on Matrix and #fedora-coreos on irc.libera.chat.": "You can chat with the Fedora CoreOS Working Group via either Matrix or IRC: #coreos:fedoraproject.org on Matrix and #fedora-coreos on irc.libera.chat.",
+  "You can view, file, and discuss Fedora CoreOS issues on the [Fedora CoreOS issue tracker](https://pagure.io/fedora-coreos/issues).": "You can view, file, and discuss Fedora CoreOS issues on the [Fedora CoreOS issue tracker](https://pagure.io/fedora-coreos/issues)."
+}

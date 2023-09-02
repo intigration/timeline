@@ -1,0 +1,11 @@
+@import "font-imports/montserrat.css";
+@import "font-imports/open-sans.css";
+@import "font-imports/source-code-pro.css";
+
+/* Default Font Settings */
+@import "fonts.css";
+
+/* Tailwind Essentials */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

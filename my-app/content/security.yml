@@ -1,0 +1,202 @@
+title: Fedora keeps you safe
+description: Learn how to verify your downloads
+verifySection:
+  title: Verify with CHECKSUM files
+  description: If your download comes with a CHECKSUM file, follow these easy steps to verify your image for both security and integrity.
+packageSection:
+  title: Package signing keys
+  description: Learn how Fedora uses package signing to help protect you.
+  content: Each stable RPM package published by the Fedora Project is signed with a GPG signature. By default, `dnf` and the graphical update tools will verify these signatures and refuse to install any packages that are not signed or have bad signatures. You should always verify the signature of a package before you install it. These signatures ensure that the packages you install are what was produced by the Fedora Project and have not been altered (accidentally or maliciously) by any mirror or website that is providing the packages.
+bugSection:
+  title: Found a security bug?
+  description: Please take a moment and let us know. [Learn how on our wiki page](https://fedoraproject.org/wiki/Security_Bugs#Reporting_a_Security_Vulnerability).
+# These all get listed on the security page
+gpg_keys:
+  current:
+    - name: Fedora Rawhide
+      id: rsa4096/18B8E74C 2022-08-09
+      fingerprint: E8F2 3996 F232 1864 0CB4 4CBE 75CF 5AC4 18B8 E74C
+      openpgpkey: 48cb71516f035e33db6249d81d145d8b9198da654fbfbcf16c06104d._openpgpkey.fedoraproject.org
+    - name: Fedora 38
+      id: rsa4096/EB10B464 2022-02-08
+      fingerprint: 6A51 BBAB BA3D 5467 B617 1221 809A 8D7C EB10 B464
+      openpgpkey: 490cba59bda7a7f15781835ffff717f123dd00297312f7a03b74b9a7._openpgpkey.fedoraproject.org
+    - name: Fedora 37
+      id: rsa4096/5323552A 2021-08-10
+      fingerprint: ACB5 EE4E 831C 74BB 7C16 8D27 F55A D3FB 5323 552A
+      openpgpkey: 5dde64bce74cf052cba5361957e81b0fe47a044c63d2a7315cdac7cd._openpgpkey.fedoraproject.org
+    - name: Fedora 36
+      id: rsa4096/38AB71F4 2021-02-10
+      fingerprint: 53DE D2CB 922D 8B8D 9E63 FD18 999F 7CBF 38AB 71F4
+      openpgpkey: 6e5f831105b72f261abfc06974c08b4ed718c650447d0b309b8658dd._openpgpkey.fedoraproject.org
+    - name: Fedora 35
+      id: rsa4096/9867C58F 2021-02-04
+      fingerprint: 787E A6AE 1147 EEE5 6C40 B30C DB46 3971 9867 C58F
+      openpgpkey: e27f1efe21ae589b7796e61af3ac4a4c1c2428615daca70d8f1c9e96._openpgpkey.fedoraproject.org
+    - name: Fedora 34
+      id: rsa4096/45719A39 2020-08-06
+      fingerprint: 8C5B A699 0BDB 26E1 9F2A 1A80 1161 AE69 4571 9A39
+      openpgpkey: 32ad6615edafd4beed53d0bd1ce26a32c38ef7192197ce96507ba1f1._openpgpkey.fedoraproject.org
+    - name: Fedora 33
+      id: rsa4096/9570FF31 2020-01-28
+      fingerprint: 963A 2BEB 0200 9608 FE67 EA42 49FD 7749 9570 FF31
+      openpgpkey: c57a03fcb0ce3e355f68629319df46b263c794e6fe17aed3b112d19c._openpgpkey.fedoraproject.org
+    - name: Fedora IOT
+      id: rsa4096/DBBDCF7C 2018-11-13
+      fingerprint: C2A3 FA9D C67F 68B9 8BB5 43F4 7BB9 0722 DBBD CF7C
+      openpgpkey: 8b6135462c1d8c1a927b1a9eb1f47c2c1cde3429ae60ccd630d057ac._openpgpkey.fedoraproject.org
+    - name: EPEL 9
+      id: rsa4096/3228467C 2021-09-07
+      fingerprint: FF8A D134 4597 106E CE81 3B91 8A38 72BF 3228 467C
+      openpgpkey: 1a355c3f6ac5389917041321fdddee2c0ffc4a38f78adec159a015ec._openpgpkey.fedoraproject.org
+    - name: EPEL 8
+      id: rsa4096/2F86D6A1 2019-06-05
+      fingerprint: 94E2 79EB 8D8F 25B2 1810 ADF1 21EA 45AB 2F86 D6A1
+      openpgpkey: 1a355c3f6ac5389917041321fdddee2c0ffc4a38f78adec159a015ec._openpgpkey.fedoraproject.org
+    - name: EPEL 7
+      id: rsa4096/352C64E5 2013-12-16
+      fingerprint: 91E9 7D7C 4A5E 96F1 7F3E 888F 6A2F AEA2 352C 64E5
+      openpgpkey: 1a355c3f6ac5389917041321fdddee2c0ffc4a38f78adec159a015ec._openpgpkey.fedoraproject.org
+  obsolete:
+    - name: Fedora 9 and Under
+      id: 1024D/4F2A6FD2 2003-10-27
+      fingerprint: CAB4 4B99 6F27 744E 8612 7CDF B442 69D0 4F2A 6FD2
+    - name: Fedora Testing (7 and up)
+      id: 1024D/30C9ECF8 2003-10-27
+      fingerprint: 3166 C14A AE72 30D9 3B7A B2F6 DA84 CBD4 30C9 ECF8
+    - name: Fedora 8 and 9
+      id: 1024D/6DF2196F 2008-08-27
+      fingerprint: 4FFF 1F04 010D EDCA E203 591D 62AE C3DC 6DF2 196F
+    - name: Fedora 8 and 9 Testing
+      id: 1024D/DF9B0AE9 2008-08-27
+      fingerprint: C0E7 128E 9072 96CA AE31 78A2 8E69 3B4D DF9B 0AE9
+    - name: Fedora 10
+      id: 1024D/4EBFC273 2008-08-27
+      fingerprint: 61A8 ABE0 91FF 9FBB F4B0 7709 BF22 6FCC 4EBF C273
+    - name: Fedora 10 Testing
+      id: 1024D/0B86274E 2008-08-27
+      fingerprint: C561 3076 7487 7FDF A36D CA38 92A1 023D 0B86 274E
+    - name: Fedora 11
+      id: rsa4096/D22E77F2 2009-01-19
+      fingerprint: AEE4 0C04 E345 60A7 1F04 3D7C 1DC5 C758 D22E 77F2
+    - name: Fedora 12
+      id: rsa4096/57BBCCBA 2009-07-29
+      fingerprint: 6BF1 78D2 8A78 9C74 AC0D C63B 9D1C C348 57BB CCBA
+    - name: Fedora 13
+      id: rsa4096/E8E40FDE 2010-01-19
+      fingerprint: 8E5F 73FF 2A18 1765 4D35 8FCA 7EDC 6AD6 E8E4 0FDE
+    - name: Fedora 14
+      id: rsa4096/97A1071F 2010-07-23
+      fingerprint: 235C 2936 B4B7 0E61 B373 A020 421C ADDB 97A1 071F
+    - name: Fedora 14 s390x
+      id: 1024D/FDB36B03 2010-12-23
+      fingerprint: CAF6 47A6 9736 3AB6 D91F 68DF 3E72 9CA7 FDB3 6B03
+    - name: Fedora 15
+      id: rsa4096/069C8460 2011-02-07
+      fingerprint: 25DB B54B DED7 0987 F4C1 0042 B4EB F579 069C 8460
+    - name: Fedora 16
+      id: rsa4096/A82BA4B7 2011-07-25
+      fingerprint: 05A9 12AC 7045 7C3D BC82 D352 067F 00B6 A82B A4B7
+    - name: Fedora 16 Secondary
+      id: rsa4096/10D90A9E 2011-08-03
+      fingerprint: 7EF8 DA0A F3C7 D285 C298 8375 77D3 A304 10D9 0A9E
+    - name: Fedora 17
+      id: rsa4096/1ACA3465 2012-01-10
+      fingerprint: CAC4 3FB7 74A4 A673 D81C 5DE7 50E9 4C99 1ACA 3465
+    - name: Fedora 17 Secondary
+      id: rsa4096/F8DF67E6 2012-01-10
+      fingerprint: 2086 1F88 B77B EEC8 5CBC 1069 ED85 FCE3 F8DF 67E6
+    - name: Fedora 18
+      id: rsa4096/DE7F38BD 2012-08-06
+      fingerprint: 7EFB 8811 DD11 E380 B679 FCED FF01 125C DE7F 38BD
+    - name: Fedora 18 Secondary
+      id: rsa4096/A4D647E9 2012-08-06
+      fingerprint: 62D6 986A 2639 CF2E 3790 EE45 68DC D160 A4D6 47E9
+    - name: Fedora 19
+      id: rsa4096/FB4B18E6 2012-12-01
+      fingerprint: CA81 B2C8 5E4F 4D4A 1A3F 7234 0747 7E65 FB4B 18E6
+    - name: Fedora 19 Secondary
+      id: rsa4096/BA094068 2012-12-20
+      fingerprint: E6B0 488A 1773 8126 A310 7577 0562 EB6F BA09 4068
+    - name: Fedora 20
+      id: rsa4096/246110C1 2013-05-16
+      fingerprint: C7C9 A9C8 9153 F201 83CE 7CBA 2EB1 61FA 2461 10C1
+    - name: Fedora 20 Secondary
+      id: rsa4096/EFE550F5 2013-08-30
+      fingerprint: FF64 B402 53FA 5A58 B250 6827 DBEA E2E4 EFE5 50F5
+    - name: Fedora 21
+      id: rsa4096/95A43F54 2013-11-14
+      fingerprint: 6596 B8FB ABDA 5227 A9C5 B59E 89AD 4E87 95A4 3F54
+    - name: Fedora 21 Secondary
+      id: rsa4096/A0A7BADB 2013-11-14
+      fingerprint: 9996 E55F A5D4 18C8 6CEF F750 636D EA19 A0A7 BADB
+    - name: Fedora 22
+      id: rsa4096/8E1431D5 2014-07-09
+      fingerprint: C527 EA07 A934 9B58 9C35 E1BF 11AD C094 8E14 31D5
+    - name: Fedora 22 Secondary
+      id: rsa4096/A29CB19C 2014-07-09
+      fingerprint: B467 FA46 E2CE 5FAC 3499 10C2 D8D1 FA8C A29C B19C
+    - name: Fedora 23
+      id: rsa4096/34EC9CBA 2015-02-17
+      fingerprint: EF45 5106 80FB 0232 6B04 5AFB 3247 4CF8 34EC 9CBA
+    - name: Fedora 23 Secondary
+      id: rsa4096/873529B8 2015-02-17
+      fingerprint: 0108 4DD8 8A5E 6224 F7A6 7B76 B4BB 871C 8735 29B8
+    - name: Fedora 24
+      id: rsa4096/81B46521 2015-07-25
+      fingerprint: 5048 BDBB A5E7 76E5 47B0 9CCC 73BD E983 81B4 6521
+    - name: Fedora 24 Secondary
+      id: rsa4096/030D5AED 2015-07-27
+      fingerprint: 8C6E 5A80 A399 BABE 7919 85BA B863 5EEB 030D 5AED
+    - name: Fedora 25
+      id: rsa4096/FDB19C98 2016-03-31
+      fingerprint: C437 DCCD 558A 66A3 7D6F 4372 4089 D8F2 FDB1 9C98
+    - name: Fedora 25 Secondary
+      id: rsa4096/E372E838 2016-03-31
+      fingerprint: 838B D48E 1B70 069F 4111 BDE9 1A18 5CDD E372 E838
+    - name: Fedora 26
+      id: rsa4096/64DAB85D 2016-09-09
+      fingerprint: E641 850B 77DF 4353 78D1 D7E2 812A 6B4B 64DA B85D
+    - name: Fedora 26 Secondary
+      id: rsa4096/3B921D09 2016-08-08
+      fingerprint: 19AA 0442 2491 9109 8B3D 8035 4560 FD4D 3B92 1D09
+    - name: Fedora 27
+      id: rsa4096/F5282EE4 2017-02-21
+      fingerprint: 860E 19B0 AFA8 00A1 7518 81A6 F55E 7430 F528 2EE4
+      openpgpkey: 2d81eb3c5ebd20d163ff111a2dbcdc7e3336825d7d2331a3ef543aa8._openpgpkey.fedoraproject.org
+    - name: Fedora 28
+      id: rsa4096/9DB62FB1 2017-08-14
+      fingerprint: 128C F232 A937 1991 C8A6 5695 E08E 7E62 9DB6 2FB1
+      openpgpkey: a327f2e5b9b6030b56c7a3e1b2e247d92b794b70d8a86c1c06a6f872._openpgpkey.fedoraproject.org
+    - name: Fedora 29
+      id: rsa4096/429476B4 2018-02-17
+      fingerprint: 5A03 B4DD 8254 ECA0 2FDA 1637 A20A A56B 4294 76B4
+      openpgpkey: 557d8ff0f0f4c6c9fc7140670cc85400dcee5aeb1ac2412e90f41e45._openpgpkey.fedoraproject.org
+    - name: Fedora 30
+      id: rsa4096/CFC659B9 2018-08-11
+      fingerprint: F1D8 EC98 F241 AAF2 0DF6 9420 EF3C 111F CFC6 59B9
+      openpgpkey: 87828749968770353bfa28bd8236ff001e82a4f165ad985e1a01d8d4._openpgpkey.fedoraproject.org
+    - name: Fedora 31
+      id: rsa4096/3C3359C4 2019-02-18
+      fingerprint: 7D22 D586 7F2A 4236 474B F7B8 50CB 390B 3C33 59C4
+      openpgpkey: 338de82b342f11ba08c2ab910514c71edbdc2f4ee15fa6aa5f3f050c._openpgpkey.fedoraproject.org
+    - name: Fedora 32
+      id: rsa4096/12C944D0 2019-08-12
+      fingerprint: 97A1 AE57 C3A2 372C CA3A 4ABA 6C13 026D 12C9 44D0
+      openpgpkey: 256f2e39c430c662bcf78691542f6171caee5d7684c90cec6e221f32._openpgpkey.fedoraproject.org
+    - name: EPEL 6
+      id: rsa4096/0608B895 2010-04-23
+      fingerprint: 8C3B E96A F230 9184 DA5C 0DAE 3B49 DF2A 0608 B895
+      openpgpkey: 1a355c3f6ac5389917041321fdddee2c0ffc4a38f78adec159a015ec._openpgpkey.fedoraproject.org
+    - name: EPEL 5
+      id: "1024D/217521F6 2007-03-02 [expires: 2017-02-27]"
+      fingerprint: B940 BE07 7D71 0A28 7D7F 2DD1 119C C036 2175 21F6
+    - name: EPEL 4
+      id: "1024D/217521F6 2007-03-02 [expires: 2017-02-27]"
+      fingerprint: B940 BE07 7D71 0A28 7D7F 2DD1 119C C036 2175 21F6
+    - name: Fedora Extras
+      id: 1024D/1AC70CE6 2004-12-14
+      fingerprint: 5389 DD00 C5BC 5168 12B4 3272 82ED 9504 1AC7 0CE6
+    - name: Legacy
+      id: 1024D/731002FA 2004-01-19
+      fingerprint: D66D 121F 9784 5E7B 2757 8C46 108C 4512 7310 02FA

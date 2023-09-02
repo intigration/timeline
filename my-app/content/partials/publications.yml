@@ -1,0 +1,27 @@
+- sectionTitle: Fedora Publications
+  content:
+    - title: Fedora Magazine
+      description:
+        Fedora Magazine is a website that hosts promotional articles and
+        short guides contributed from the community about free/libre and
+        open-source software that runs on or works with the Fedora Linux
+        operating system.
+      image: public/assets/images/fedora-magazine.png
+      link:
+        text: Visit now
+        url: https://fedoramagazine.org/
+    - title: Fedora Community Blog
+      description:
+        The Community Blog provides a single source for members of the
+        community to share important news, updates, and information about
+        Fedora with others in the Project community.
+      image: public/assets/images/community-blog.png
+      link:
+        text: Visit Now
+        url: https://communityblog.fedoraproject.org/
+    - title: Become a Fedora contributor
+      description: Both the Fedora Community Blog and Fedora Magazine are always
+        looking for article proposals, writers, and editors.
+      link:
+        text: Learn more
+        url: https://docs.fedoraproject.org/en-US/fedora-magazine/contributing/

@@ -1,0 +1,231 @@
+#. extracted from content/editions/iot/home.fi.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "hakemisto"
+msgstr ""
+
+#: title
+msgid "Vankka perusta IoT-ekosysteemeille"
+msgstr ""
+
+#: description
+msgid "Kevyt mutta tehokas ja skaalautuva käyttöjärjestelmä"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/iot.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/iot_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Lataa nyt"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgid "https://getfedora.org/en/iot/download/"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Arvostellut: TechHut"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Miksi Fedora Iot?"
+msgstr ""
+
+#: sections-%3E[0]-%3Eimages
+msgctxt "sections->[0]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Johtava tekniikka"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgctxt "sections->[0]->content->[0]->description"
+msgid ""
+"Rakennettu käyttäen avoimen lähdekoodin uusimpia teknologioita ja "
+"parannuksia."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Konttipohjainen"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[0]->content->[1]->description"
+msgid ""
+"Fedora IoT on konttipohjainen isäntä, joka toimii laitteistollasi ja joka "
+"keskittyy reunalaitteiden käyttöönottoon."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Avoimen lähdekoodin ekosysteemi"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[0]->content->[2]->description"
+msgid ""
+"Kaikkea tukee täysin ilmainen ja avoimen lähdekoodin Fedora-ekosysteemi."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Joustava"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[0]->content->[3]->description"
+msgid "Tuettuja asennustapoja on laaja valikoima."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Edge-tuki"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Käytä Fedora IoT:tä tukemaan työkuormia, jotka suoritetaan perinteisen "
+"datakeskuksen ulkopuolella."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "Ota kaikki irti laitteestasi"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Fedora tekee yhteistyötä laitteistotoimittajien kanssa tarjotakseen "
+"erinomaista laitteistotukea useille laitteille."
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "IoT:tä vastaan testatut alustat"
+msgstr ""
+
+#: sections-%3E[1]-%3Eimages
+msgctxt "sections->[1]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "arm Systemready"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/iot-platform1.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Pine64"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/iot-platform2.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "SolidRun"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/iot-platform3.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "nVidia"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/iot-platform4.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Sinun rakentamasi"
+msgstr ""
+
+#: sections-%3E[2]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"Fedora-projekti visioi maailmasta, jossa kaikki hyötyvät ilmaisista ja "
+"avoimen lähdekoodin ohjelmistoista, joita ovat rakentaneet osallistavat, "
+"vieraanvaraiset ja ennakkoluulottomat yhteisöt. \n"
+"\n"
+"\n"
+"\n"
+"Fedora IoT:n on luonut Fedora-yhteisön tiimi nimeltä IoT Working Group. Se "
+"koostuu virallisista jäsenistä, joilla on päätöksentekovalta, sekä muista "
+"avustajista. Lue lisää IoT Working Groupin verkkosivuilta."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Raportoi ja keskustele asioista"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgctxt "sections->[2]->content->[0]->description"
+msgid ""
+"Rakennettu käyttäen avoimen lähdekoodin uusimpia teknologioita ja "
+"parannuksia."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Keskustele joukkueen kanssa"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[2]->content->[1]->description"
+msgid ""
+"Fedora IoT on konttipohjainen isäntä, joka toimii laitteistollasi ja joka "
+"keskittyy reunalaitteiden käyttöönottoon."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "Liity postituslistalle"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[2]->content->[2]->description"
+msgid ""
+"Kaikkea tukee täysin ilmainen ja avoimen lähdekoodin Fedora-ekosysteemi."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "Osallistu kokoukseen"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[2]->content->[3]->description"
+msgid "Tuettuja asennustapoja on laaja valikoima."
+msgstr ""

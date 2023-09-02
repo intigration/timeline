@@ -1,0 +1,16 @@
+backend:
+  name: gitlab
+  repo: fedora/websites-apps/fedora-websites/fedora-websites-3.0
+  auth_type: pkce
+  app_id: 758719d1c68529b4acc2f2f3556cad1a8bba916f63094fc377afcb31d25bf349 # Application ID from your GitLab settings
+  branch: develop
+  squash_merges: true
+publish_mode: editorial_workflow
+
+# Deploy Preview Links Docs: https://www.netlifycms.org/docs/deploy-preview-links/
+local_backend: true
+
+# Assets
+media_folder: "public/assets/images"
+public_folder: "public/assets/images"
+collections:

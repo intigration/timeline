@@ -1,0 +1,27 @@
+#. extracted from content/editions/iot/download.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-10-26 11:57+0000\n"
+"Last-Translator: Francois Andrieu <darknao@drkn.ninja>\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsiotdownloads/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "download"
+msgstr "Téléchargement"
+
+#: title
+msgid "IOT Download"
+msgstr "Téléchargement IOT"
+
+#~ msgid "Fedora IoT Downloads"
+#~ msgstr "Téléchargements de Fedora IoT"

@@ -1,0 +1,437 @@
+#. extracted from content/editions/workstation/home.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-11-10 22:19+0000\n"
+"Last-Translator: Fernandez Alonso Alberto Mario <albialonso7@icloud.com>\n"
+"Language-Team: Italian <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsworkstationhome/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr "indice"
+
+#: title
+msgid "The leading Linux desktop"
+msgstr "Il desktop Linux leader nel settore"
+
+#: description
+msgid ""
+"A beautiful, high-quality desktop, built on the latest open source "
+"technology. Trusted, powerful and easy.\n"
+msgstr ""
+"Un desktop bello e di alta qualità, costruito sulla più recente tecnologia "
+"open source. Affidabile, potente e facile.\n"
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_framework.png"
+msgstr ""
+
+#: header_images-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Download now"
+msgstr "Scarica ora"
+
+#: links-%3E[0]-%3Eurl
+#, read-only
+msgid "/workstation/download"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Reviewed By TechHut"
+msgstr "Recensito da TechHut"
+
+#: links-%3E[1]-%3Eurl
+#, read-only
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Why Fedora Workstation?"
+msgstr "Perché Fedora Workstation?"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Reliable"
+msgstr "Affidabile"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Each version is updated for 18 months, and upgrades between versions are "
+"quick and easy."
+msgstr ""
+"Ogni versione è mantenuta aggiornata per 18 mesi e il passaggio da una "
+"versione all'altra è semplice e veloce."
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Free & private"
+msgstr "Libera& privata"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"With Fedora, your desktop is your own. It's free, there are no ads, and your "
+"data belongs to you."
+msgstr ""
+"Con Fedora, il vostro desktop è vostro. È gratuito, non ci sono pubblicità e "
+"i vostri dati appartengono a voi."
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Beautiful"
+msgstr "Bello"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Workstation is carefully curated to deliver a high-quality experience. The "
+"desktop is clean and uncluttered."
+msgstr ""
+"La workstation è curata con impegno per offrire un'esperienza di alta "
+"qualità. Il desktop è pulito e ordinato."
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Trusted"
+msgstr "Affidabile"
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Developed in partnership with upstream projects. Rigorously tested. Backed "
+"by Red Hat."
+msgstr ""
+"Sviluppato in collaborazione con progetti a upstream. Rigorosamente testato. "
+"Sostenuto da Red Hat."
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Leading technology"
+msgstr "Tecnologia all'avanguardia"
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Built on the latest technologies and enhancements that open source has to "
+"offer."
+msgstr ""
+"Costruito sulle più recenti tecnologie e miglioramenti che l'open source ha "
+"da offrire."
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "Makes the most of your device"
+msgstr "Sfrutta al meglio il dispositivo"
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Fedora works with hardware vendors to make excellent hardware support across "
+"a range of devices."
+msgstr ""
+"Fedora collabora con i fornitori di hardware per garantire un eccellente "
+"supporto su una vasta gamma di dispositivi."
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Features for everyone"
+msgstr "Funzioni per tutti"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fantastic app"
+msgstr "App Fantastiche"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Browse a great collection of apps, covering everything you might need. "
+"Includes exciting new open source apps as well as familiar apps from other "
+"platforms."
+msgstr ""
+"Scoprite una grande raccolta di app, che copre tutto ciò di cui potreste "
+"aver bisogno. Include nuove ed entusiasmanti applicazioni open source e "
+"programmi già noti di altre piattaforme."
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_software_center.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Workstation speaks your language"
+msgstr "La workstation parla la vostra lingua"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Thanks to a global community of translators, Workstation is available in "
+"many languages."
+msgstr ""
+"Grazie a una comunità globale di traduttori, Workstation è disponibile in "
+"numerose lingue."
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_languages.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Turn the lights down low"
+msgstr "Turn the lights down low"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Flip a switch to turn on dark mode and give your eyes a break from the day. "
+"Use night light to reduce screen glare and help with sleep."
+msgstr ""
+"Flip a switch to turn on dark mode and give your eyes a break from the day. "
+"Use night light to reduce screen glare and help with sleep."
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_nightlight.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "Calendar integration"
+msgstr "Integrazione Calendario"
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Edescription
+msgid "Bring your online calendar to the desktop with online accounts"
+msgstr ""
+"Porta il tuo calendario online sul tuo computer grazie agli account online"
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_calendar.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Etitle
+msgid "Helpful out of the box"
+msgstr "Helpful out of the box"
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Fedora Workstation includes a great set of utilities, like Clocks, Weather "
+"and Maps."
+msgstr ""
+"Fedora Workstation include un ottimo set di utilità, come orologi, meteo e "
+"mappe."
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_outofthebox.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Great for developers"
+msgstr "Ideale per gli sviluppatori"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Virtualization made easy"
+msgstr "Virtualizzazione semplificata"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid "Boxes takes the guesswork out of using virtual machines."
+msgstr "Box elimina le incognite sull'uso delle macchine virtuali."
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev1.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Productivity-boosting desktop features"
+msgstr "Funzionalità desktop che aumentano la produttività"
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Use performance mode to boost hardware speed when you need it. Turn off "
+"notifications with Do Not Disturb. Press the Super key and just type to "
+"search for what you need."
+msgstr ""
+"Utilizzate la modalità prestazioni per aumentare la velocità dell'hardware "
+"quando ne avete bisogno. Disattivate le notifiche con la funzione Non "
+"disturbare. Premete il tasto Super e digitate per cercare ciò che vi serve."
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev2.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "Containers ready to go"
+msgstr "Container pronti per l'uso"
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Use the latest container tools from the Red Hat ecosystem. Not setup "
+"required. Access the Red Hat container registry."
+msgstr ""
+"Utilizza gli ultimi strumenti per container dell'ecosistema Red Hat. Non è "
+"richiesta la configurazione. Accedere al registro dei container di Red Hat."
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev3.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "All the tools"
+msgstr "Tutti gli strumenti"
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"All the tools you might need, easy to install with a single command. Tools "
+"supplied with high quality, by the people who make them."
+msgstr ""
+"All the tools you might need, easy to install with a single command. Tools "
+"supplied with high quality, by the people who make them."
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev4.png"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Get started developing with Fedora Workstation"
+msgstr "Inizia a sviluppare con Fedora Workstation"
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"The Fedora Developer portal has guides on developing and deploying "
+"applications using Fedora workstation."
+msgstr ""
+"Il portale Fedora Developer contiene guide sullo sviluppo e la distribuzione "
+"di applicazioni utilizzando Fedora workstation."
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eurl
+#, read-only
+msgctxt "sections->[3]->content->[0]->url"
+"sections->[3]->content->[0]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-devs.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"DNF is the Fedora package manager that enables you to install, update and "
+"manage OS components."
+msgstr ""
+"DNF è il gestore di pacchetti di Fedora che consente l'installazione, "
+"l'aggiornamento e la gestione dei componenti del sistema operativo."
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eurl
+#, read-only
+msgctxt "sections->[3]->content->[1]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/logo-dnf.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Podman is a daemonless container engine for creating and managing containers "
+"and container images."
+msgstr ""
+"Podman è un engine per container senza demoni per la creazione e la gestione "
+"di container e immagini di container."
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eurl
+#, read-only
+msgctxt "sections->[3]->content->[2]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/podman.svg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Built by you"
+msgstr "Realizzato da voi"
+
+#: sections-%3E[4]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"The Fedora Project envisions a world where everyone can benefit from free "
+"and open source software built by inclusive, welcoming, and open-minded "
+"communities.\n"
+"Fedora Workstation is created by a team in the Fedora community called the **"
+"Workstation Working Group**. It is comprised of official members who have "
+"decision making powers, as well as other contributors. [Learn more onthe "
+"Workstation Working Group Website](https://docs.fedoraproject.org/en-US/"
+"workstation-working-group/)"
+msgstr ""
+"Il Progetto Fedora immagina un mondo in cui tutti possano beneficiare di "
+"software libero e open source costruito da comunità inclusive, accoglienti e "
+"di mentalità aperta.\n"
+"Fedora Workstation è creata da un team della comunità Fedora chiamato **"
+"Workstation Working Group**. È composto da membri ufficiali che hanno potere "
+"decisionale e da altri collaboratori. [Per saperne di più, consultare il "
+"sito web del Workstation Working Group](https://docs.fedoraproject.org/en-US/"
+"workstation-working-group/)"
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Etitle
+msgid "Report & discuss issues"
+msgstr "Segnalazione e discussione di problemi"
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"You can view, file, and discuss Fedora Workstation issues on [the Fedora "
+"Workstation issue tracker]()."
+msgstr ""
+"È possibile visualizzare, archiviare e discutere i problemi di Fedora "
+"Workstation su [il tracker dei problemi di Fedora Workstation]()."
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chat with the team"
+msgstr "Chatta con il team"
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Visit **#fedora-workstation** on [irc.libera.chat]() and on **#workstation** "
+"[on the Fedora Matrix Chat server]()."
+msgstr ""
+"Visitare **#fedora-workstation** su [irc.libera.chat]() e su **#workstation**"
+" [sul server Fedora Matrix Chat]()."
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Etitle
+msgid "Join the mailing list"
+msgstr "Unisciti alla mailing list"
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Sign up at [desktop@lists.fedoraproject.org]() to receive meeting agendas "
+"and minute ([view archives]().)"
+msgstr ""
+"Iscrivetevi a [desktop@lists.fedoraproject.org]() per ricevere gli ordini "
+"del giorno e i verbali delle riunioni ([visualizza archivio](.)"
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Etitle
+msgid "Attend a meeting"
+msgstr "Partecipare a una riunione"
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Open to all current and potential contributors on **Tuesdays, 10:00 AM US "
+"Eastern** on [Bluejeans]()."
+msgstr ""
+
+#~ msgid ""
+#~ "Open to all current and potential contributors on **Tuesdays, 9:30 AM US "
+#~ "Eastern** on [Bluejeans]()."
+#~ msgstr ""
+#~ "Aperto a tutti i collaboratori attuali e potenziali il **martedì, alle 9:30 "
+#~ "AM US Eastern** su [Bluejeans]()."

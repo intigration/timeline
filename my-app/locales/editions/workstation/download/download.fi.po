@@ -1,0 +1,525 @@
+#. extracted from content/editions/workstation/download.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-12-29 19:20+0000\n"
+"Last-Translator: Jan Kuparinen <copper_fin@hotmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsworkstationdownload/fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15\n"
+
+#: path
+msgid "download"
+msgstr "lataa"
+
+#: title
+msgid "Download Fedora Workstation 37"
+msgstr "Lataa Fedora Workstation 37"
+
+#: description
+msgid ""
+"We're so glad you've decided to give Fedora Workstation a try. We know "
+"you'll love it."
+msgstr ""
+"Olemme iloisia, että päätit antaa Fedora Workstationille mahdollisuuden. "
+"Tiedämme, että tulet pitämään siitä."
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "release"
+msgstr "julkaisu"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "RELEASE DATE"
+msgstr "JULKAISUPÄIVÄ"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "April 19, 2022"
+msgstr "19. huhtikuuta 2022"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "SUPPORTED THROUGH"
+msgstr "TUETTU SAAKKA"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "May 17, 2023"
+msgstr "17. toukokuuta 2023"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Release Notes"
+msgstr "Julkaisutiedot"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgid "https://fedorapeople.org/groups/schedule/f-37/f-37-all-tasks.html"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Installation Guide"
+msgstr "Asennusopas"
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Elink-%3Eurl
+#, read-only
+msgid "https://docs.fedoraproject.org/en-US/fedora/latest/install-guide/"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Community Support"
+msgstr "Yhteisön tuki"
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Elink-%3Eurl
+#, read-only
+msgctxt "sections->[0]->content->[4]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "On Windows or macOS?"
+msgstr "Käytätkö Windowsia tai MacOS:ia?"
+
+#: sections-%3E[1]-%3EsectionDescription
+msgid ""
+"Get started by using Fedora Media Writer, which makes it super easy to give "
+"Fedora a try."
+msgstr ""
+"Käytä Fedora Media Writer -sovellusta, jonka avulla pääset kokeilemaan "
+"Fedoraa vaivatta."
+
+#: sections-%3E[1]-%3Eimages
+msgid "public/assets/images/media-writer-icon.png"
+msgstr "public/assets/images/media-writer-icon.png"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Windows"
+msgstr "Windows"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "fa-windows"
+msgstr "fa-windows"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-win32-latest.exe"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Mac"
+msgstr "Mac"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "fa-apple"
+msgstr "fa-apple"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "On Linux? Or just want an ISO file?"
+msgstr "Käytätkö Linuxia tai haluatko vain ISO-tiedoston?"
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"Not sure how to use these files? [Learn here](https://docs.fedoraproject.org/"
+"en-US/quick-docs/creating-and-using-a-live-installation-image/)"
+msgstr ""
+"Etkö ole varma kuinka näitä tiedostoja käytetään? [Lisätietoja "
+"tästä](https://docs.fedoraproject.org/en-US/quick-docs/"
+"creating-and-using-a-live-installation-image/)"
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Security, Installs"
+msgstr "Turvallisuus, asennukset"
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgid "We take security seriously"
+msgstr "Suhtaudumme vakavasti tietoturvaan"
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Once you have downloaded an image, be sure to verify it for both security "
+"and integrity."
+msgstr "Kun olet ladannut kuvan, muista varmistaa sen turvallisuus ja eheys."
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://getfedora.org/security/"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Verify Your Download"
+msgstr "Tarkista latauksesi"
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgid "But wait! There's more."
+msgstr "Odota, on vielä muutakin."
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Need something a bit different? [Check out our other Fedora Workstation "
+"downloads here](https://alt.fedoraproject.org/), featuring secondary "
+"architectures and network-based installation images."
+msgstr ""
+"Tarvitsetko jotain hieman erilaista? [Katso muut Fedora Workstation -"
+"lataukset täältä](https://alt.fedoraproject.org/), jotka sisältävät "
+"toissijaisia arkkitehtuureja ja verkkopohjaisia asennuslevykuvia."
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://download.fedoraproject.org"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Fedora 37 64-bit network install"
+msgstr "Fedora 37 64-bittinen verkkoasennus"
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Laptops pre-loaded with Fedora"
+msgstr "Kannettavat tietokoneet, joissa on esiasennettu Fedora"
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"We've partnered with companies like Lenovo to bring you laptops pre-loaded "
+"with Fedora that include fully-supported hardware components. "
+msgstr ""
+"Olemme tehneet yhteistyötä Lenovon kaltaisten yritysten kanssa tarjotaksemme "
+"sinulle kannettavia tietokoneita, joissa on esiasennettu Fedora ja jotka "
+"sisältävät täysin tuetut laitteistokomponentit. "
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/lenovo-laptop.png"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://fedoramagazine.org/lenovo-fedora-now-available/"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Explore Fedora Laptops"
+msgstr "Tutustu Fedora-kannettaviin"
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "Learn more about Fedora Media Writer"
+msgstr "Lisätietoja Fedora Media Writer -sovelluksesta"
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+"flash drive, and Fedora Media Writer.\n"
+"Once Fedora Media Writer is installed, it will set up your flash drive to "
+"run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+"from your flash drive and try it out right away without making any permanent "
+"changes to your computer. Once you are hooked, installing it to your hard "
+"drive is a matter of clicking a few buttons*."
+msgstr ""
+"Fedoran käyttäminen on helpompaa kuin koskaan. Tarvitset vain 2 Gt:n USB-"
+"muistitikun ja Fedora Media Writerin.\n"
+"Kun Fedora Media Writer on asennettu, se määrittää muistitikun käyttämään "
+"Fedora työaseman \"live\"-versiota, mikä tarkoittaa, että voit käynnistää "
+"sen muistitikultasi ja kokeilla sitä heti tekemättä pysyviä muutoksia "
+"tietokoneellesi. Kun olet tyytyväinen, sen asentaminen kiintolevyllesi on "
+"vain muutaman napinpainalluksen päässä*."
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+" * Fedora requires a minimum of 20GB disk, 2GB RAM, to install and run "
+"successfully. Double those amounts is recommended. "
+msgstr ""
+" * Fedoran asennus ja käyttö vaatii vähintään 20 gigatavua levytilaa sekä "
+"kaksi gigatavua keskusmuistia. Suositellaan tuplamäärää. "
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/monitor-2.png"
+msgstr "public/assets/images/monitor-2.png"
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Become a Fedora contributor"
+msgstr "Ryhdy Fedora-avustajaksi"
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Once you've got Fedora installed and running, why not join and contribute to "
+"one of our online communities?"
+msgstr ""
+"Kun Fedora on asennettu ja käytössä, miksi et liittyisi ja osallistuisi "
+"johonkin verkkoyhteisöömme?"
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Officially Supported Fedora Community Spaces"
+msgstr "Virallisesti tuetut Fedora-yhteisötilat"
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fedora Discussion"
+msgstr "Fedora-keskustelu"
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-discussion-plus-icon.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://discussion.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Fedora Chat"
+msgstr "Fedora Chat"
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://matrix.to/#/#matrix-meta-chat:fedoraproject.org"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-chat-plus-element.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Ask Fedora"
+msgstr "Kysy Fedorasta"
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/ask-fedora.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgctxt "sections->[7]->content->[2]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[8]-%3EsectionTitle
+msgid "Community-Maintained Spaces"
+msgstr "Yhteisön ylläpitämät tilat"
+
+#: sections-%3E[8]-%3Econtent-%3E[0]-%3Etitle
+msgid "Reddit"
+msgstr "Reddit"
+
+#: sections-%3E[8]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://www.reddit.com/r/Fedora/"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/reddit-brands-3.png"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[1]-%3Etitle
+msgid "Discord"
+msgstr "Discord"
+
+#: sections-%3E[8]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://discord.com/invite/fedora"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/discord-brands-2.png"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[2]-%3Etitle
+msgid "Telegram"
+msgstr "Telegram"
+
+#: sections-%3E[8]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/telegram-brands.png"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgid "https://fedoraproject.org/wiki/Telegram"
+msgstr ""
+
+#: sections-%3E[9]-%3EsectionTitle
+msgid ""
+"By clicking on and downloading Fedora, you agree to comply with the "
+"following terms and conditions."
+msgstr "Klikkaamalla ja lataamalla Fedoran, hyväksyt seuraavat käyttöehdot."
+
+#: sections-%3E[9]-%3EsectionDescription
+msgid ""
+"By downloading Fedora software, you acknowledge that you understand all of "
+"the following: Fedora software and technical information may be subject to "
+"the U.S. Export Administration Regulations (the “EAR”) and other U.S. and "
+"foreign laws and may not be exported, re-exported or transferred (a) to any "
+"country listed in Country Group E:1 in Supplement No. 1 to part 740 of the "
+"EAR (currently, Cuba, Iran, North Korea, Sudan & Syria); (b) to any "
+"prohibited destination or to any end user who has been prohibited from "
+"participating in U.S. export transactions by any federal agency of the U.S. "
+"government; or (c) for use in connection with the design, development or "
+"production of nuclear, chemical or biological weapons, or rocket systems, "
+"space launch vehicles, or sounding rockets, or unmanned air vehicle systems. "
+"You may not download Fedora software or technical information if you are "
+"located in one of these countries or otherwise subject to these "
+"restrictions. You may not provide Fedora software or technical information "
+"to individuals or entities located in one of these countries or otherwise "
+"subject to these restrictions. You are also responsible for compliance with "
+"foreign law requirements applicable to the import, export and use of Fedora "
+"software and technical information."
+msgstr ""
+"Lataamalla Fedora-ohjelmiston vahvistat, että ymmärrät kaikki seuraavat "
+"asiat: Fedora-ohjelmisto ja tekniset tiedot saattavat olla Yhdysvaltain "
+"vientihallinnon määräysten (”EAR”) ja muiden Yhdysvaltojen ja ulkomaiden "
+"lakien alaisia, eikä niitä saa viedä, välittää tai siirtää (a) mihinkään EAR:"
+"n osan 740 täydennysosassa 1 lueteltuun maaryhmään E:1 kuuluvaan maahan ("
+"tällä hetkellä Kuuba, Iran, Pohjois-Korea, Sudan ja Syyria); (b) mihin "
+"tahansa kiellettyyn määränpäähän tai loppukäyttäjälle, joille Yhdysvaltain "
+"hallituksen liittovaltion virasto on kieltänyt osallistumasta Yhdysvaltojen "
+"vientitapahtumiin; tai c) käytettäväksi ydinaseiden, kemiallisten tai "
+"biologisten aseiden tai rakettijärjestelmien, avaruusalusten kantorakettien, "
+"luotainrakettien tai miehittämättömien ilma-alusjärjestelmien "
+"suunnittelussa, kehittämisessä tai tuotannossa. Et saa ladata Fedora-"
+"ohjelmistoa tai teknisiä tietoja, jos olet jossakin näistä maista tai muuten "
+"näiden rajoitusten alainen. Et saa toimittaa Fedora-ohjelmistoa tai teknisiä "
+"tietoja henkilöille tai yhteisöille, jotka sijaitsevat jossakin näistä "
+"maista tai joihin muutoin sovelletaan näitä rajoituksia. Olet myös vastuussa "
+"ulkomaisten lakivaatimusten noudattamisesta, joita sovelletaan Fedora-"
+"ohjelmistojen ja teknisten tietojen tuontiin, vientiin ja käyttöön."
+
+#~ msgctxt "sections->[1]->content->[0]->link->text"
+#~ msgid "Download Now"
+#~ msgstr "Lataa nyt"
+
+#~ msgctxt "sections->[1]->content->[1]->link->text"
+#~ msgid "Download Now"
+#~ msgstr "Lataa nyt"
+
+#~ msgctxt "sections->[2]->content->[0]->title"
+#~ "sections->[2]->content->[0]->title"
+#~ msgid "Fedora Workstation 37"
+#~ msgstr "Fedora työasema 37"
+
+#~ msgid "x86_64 DVD ISO"
+#~ msgstr "x86_64 DVD ISO"
+
+#~ msgid "For Intel and AMD systems"
+#~ msgstr "Intel- ja AMD-järjestelmille"
+
+#~ msgctxt "sections->[2]->content->[1]->title"
+#~ msgid "Fedora Workstation 37"
+#~ msgstr "Fedora työasema 37"
+
+#~ msgid "aarch64 Live ISO"
+#~ msgstr "aarch64 Live ISO"
+
+#~ msgctxt "sections->[2]->content->[1]->description"
+#~ msgid "For ARM® aarch64"
+#~ msgstr "ARM® aarch64:lle"
+
+#~ msgctxt "sections->[2]->content->[2]->title"
+#~ msgid "Fedora Workstation 37"
+#~ msgstr "Fedora työasema 37"
+
+#~ msgid "aarch64 raw image"
+#~ msgstr "aarch64 käsittelemätön levykuva"
+
+#~ msgctxt "sections->[2]->content->[2]->description"
+#~ msgid "For ARM® aarch64"
+#~ msgstr "ARM® aarch64:lle"
+
+#~ msgid "Security, Installs, Laptops Preloaded"
+#~ msgstr "Turvallisuus, asennukset, esiladatut kannettavat tietokoneet"
+
+#~ msgid "Officially-Supported Fedora Community Spaces"
+#~ msgstr "Virallisesti tuetut Fedora-yhteisötilat"
+
+#~ msgid "Download Fedora Workstation 37."
+#~ msgstr "Lataa Fedora Workstation 37."
+
+#~ msgid "Download Options"
+#~ msgstr "Latausvaihtoehdot"
+
+#~ msgid ""
+#~ "Not sure how to use these files? [Learn More](https://docs.fedoraproject.org/"
+#~ "en-US/quick-docs/creating-and-using-a-live-installation-image/)"
+#~ msgstr ""
+#~ "Etkö ole varma kuinka näitä tiedostoja käytetään? [Lisätietoja](https://docs."
+#~ "fedoraproject.org/en-US/quick-docs/"
+#~ "creating-and-using-a-live-installation-image/)"
+
+#~ msgid ""
+#~ "Once you have downloaded an image, be sure to verify it for both security "
+#~ "and integrity. "
+#~ msgstr ""
+#~ "Kun olet ladannut levykuvan, vahvista sen sisältö varmistuaksesi "
+#~ "turvallisuudesta ja eheydestä. "
+
+#~ msgid "Verify your download"
+#~ msgstr "Vahvista latauksesi"
+
+#~ msgid "Explore Fedora laptops"
+#~ msgstr "Tutustu Fedoran kannettaviin tietokoneisiin"
+
+#~ msgid ""
+#~ "Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+#~ "flash drive, and Fedora Media Writer.\n"
+#~ "\n"
+#~ "Once Fedora Media Writer is installed, it will set up your flash drive to "
+#~ "run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+#~ "from your flash drive and try it out right away without making any permanent "
+#~ "changes to your computer. Once you are hooked, installing it to your hard "
+#~ "drive is a matter of clicking a few buttons*."
+#~ msgstr ""
+#~ "Fedoran käyttäminen on helpompaa kuin koskaan aiemmin. Tarvitset vain 2 Gt:n "
+#~ "USB-muistitikun ja Fedora Media Writerin.\n"
+#~ "\n"
+#~ "Kun Fedora Media Writer on asennettu, se määrittää flash-asemasi käyttämään "
+#~ "Fedora Workstationin \"live\"-versiota, mikä tarkoittaa, että voit "
+#~ "käynnistää sen flash-asemaltasi ja kokeilla sitä heti tekemättä pysyviä "
+#~ "muutoksia tietokoneellesi. Kun olet valmis, sen asentaminen kiintolevyllesi "
+#~ "on vain muutaman hiiren painalluksen päässä*."
+
+#~ msgid "/r/fedora"
+#~ msgstr "/r/fedora"
+
+#~ msgid "Fedora Discord"
+#~ msgstr "Fedora Discord"
+
+#~ msgctxt "sections->[4]->content->[2]->title"
+#~ msgid "Telegram"
+#~ msgstr "Telegram"
+
+#~ msgctxt "sections->[4]->content->[2]->link->text"
+#~ msgid "Telegram"
+#~ msgstr "Telegram"
+
+#~ msgid ""
+#~ "Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+#~ "flash drive, and Fedora Media Writer.\n"
+#~ "\n"
+#~ "Once Fedora Media Writer is installed, it will set up your flash drive to "
+#~ "run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+#~ "from your flash drive and try it out right away without making any permanent "
+#~ "changes to your computer. Once you are hooked, installing it to your hard "
+#~ "drive is a matter of clicking a few buttons*. "
+#~ msgstr ""
+#~ "Fedoran käyttäminen on helpompaa kuin koskaan. Tarvitset vain 2 Gt:n USB-"
+#~ "muistitikun ja Fedora Media Writerin.\n"
+#~ "\n"
+#~ "Kun Fedora Media Writer on asennettu, se määrittää flash-asemasi käyttämään "
+#~ "Fedora Workstationin \"live\"-versiota, mikä tarkoittaa, että voit "
+#~ "käynnistää sen flash-asemaltasi ja kokeilla sitä heti tekemättä pysyviä "
+#~ "muutoksia tietokoneellesi. Kun olet valmis, sen asentaminen kiintolevyllesi "
+#~ "vaatii vain muutaman painikkeen napsauttamisen*. "

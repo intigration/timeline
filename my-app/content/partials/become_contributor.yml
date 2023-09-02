@@ -1,0 +1,27 @@
+sectionTitle: Become a Fedora contributor
+sectionDescription: Once you've got Fedora installed and running, why not join and contribute to one of our online communities?
+officialChannels:
+  title: Officially-supported Fedora community spaces
+  content:
+    - title: Fedora Discussion
+      image: public/assets/images/fedora-discussion-plus-icon.png
+      link: https://discussion.fedoraproject.org/c/project
+    - title: Fedora Chat
+      link: https://chat.fedoraproject.org/#/welcome
+      image: public/assets/images/fedora-chat-plus-element.png
+    - title: Ask Fedora
+      image: public/assets/images/ask-fedora.png
+      link: https://discussion.fedoraproject.org/c/ask
+
+communityChannels:
+  title: Community-maintained spaces
+  content:
+    - title: /r/fedora
+      link: https://www.reddit.com/r/Fedora/
+      image: public/assets/images/reddit-brands-3.png
+    - title: Fedora Discord
+      link: https://discord.com/invite/fedora
+      image: public/assets/images/discord-brands-2.png
+    - title: Telegram
+      image: public/assets/images/telegram-brands.png
+      link: https://fedoraproject.org/wiki/Telegram

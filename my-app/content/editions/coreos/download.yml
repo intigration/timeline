@@ -1,0 +1,34 @@
+title: Fedora CoreOS
+description: ""
+header_images:
+  - image: public/assets/images/workstation_background.jpg
+sections:
+  - sectionTitle: release
+    content:
+      - title: Documentation
+        link:
+          url: https://docs.fedoraproject.org/en-US/fedora-coreos/
+      - title: Release Notes
+        link:
+          url: /coreos/release-notes/
+      - title: Community Support
+        link:
+          url: https://discussion.fedoraproject.org/tag/coreos
+  - sectionTitle: Streams
+    sectionDescription: Fedora CoreOS is available across 3 different release streams
+    content:
+      - title: Stable
+        description: The Stable stream is the most reliable version of Fedora CoreOS. Releases are battle-tested within the Testing stream before being promoted.
+      - title: Testing
+        description: The Testing stream contains the next Stable release. Mix a few Testing machines into your cluster to catch any bugs specific to your hardware or configuration.
+      - title: Next
+        description: The Next stream represents the future. It provides early access to new features and to the next major version of Fedora. Run a few Next machines in your cluster, or in staging, to help find problems.
+  - sectionTitle: Pick your architecture
+    sectionDescription: Fedora CoreOS can be deployed on 3 different CPU architecture.
+    content:
+      - title: x86_64
+        description: Most computers with Intel and AMD processors.
+      - title: aarch64
+        description: Also known as armv8. For most processors other than Intel and AMD like Raspberry Pi or other comparable devices.
+      - title: s390x
+        description: For IBM Cloud and zSystems.

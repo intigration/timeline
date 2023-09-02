@@ -1,0 +1,50 @@
+path: community
+title: Community
+description: Join a community of users and contributors focused on Fedora CoreOS.
+sections:
+  - sectionTitle: Description
+    sectionDescription: Fedora CoreOS is created by a team in the Fedora Project
+      community called the CoreOS Working Group. It is comprised of official
+      members who have decision-making powers, as well as other contributors.
+      Learn more about this group and how you can get involved on the [CoreOS
+      Working Group](https://github.com/coreos/fedora-coreos-tracker#readme) website.
+    content: []
+  - sectionTitle: Communication Channels
+    content:
+      - title: Forum
+        description:
+          The **Fedora CoreOS** tag on Fedora's Discourse-based discussion forum
+          is a great place to connect with other Fedora CoreOS users and
+          contributors.
+        image: public/assets/images/fedora-discussion-plus-icon.png
+        link:
+          text: Visit Now
+          url: https://discussion.fedoraproject.org/tag/coreos
+      - title: Chat
+        description:
+          "You can chat with the Fedora CoreOS Working Group via either Matrix
+          or IRC: #coreos:fedoraproject.org on Matrix and #fedora-coreos on
+          irc.libera.chat."
+        image: public/assets/images/fedora-chat-plus-element.png
+        link:
+          text: Chat Now
+          url: https://chat.fedoraproject.org/#/welcome
+      - title: Mailing List
+        description:
+          The Fedora CoreOS Working Group sends meeting agendas and minutes and
+          has discussions on their mailing list at coreos@lists.fedoraproject.org.
+        link:
+          text: Visit Now
+          url: https://lists.fedoraproject.org/archives/list/coreos@lists.fedoraproject.org/
+        image: public/assets/images/hyperkitty-plus-logo.png
+  - sectionTitle: Ways to get involved
+    content:
+      - title: Report & discuss issues
+        description:
+          You can view, file, and discuss Fedora CoreOS issues on the [Fedora
+          CoreOS issue tracker](https://pagure.io/fedora-coreos/issues).
+      - title: Attend a meeting
+        description:
+          CoreOS Working Group meetings are open to all current and potential
+          contributors on Wednesdays, 11 AM US Eastern at
+          fedora-meeting@irc.libera.chat.

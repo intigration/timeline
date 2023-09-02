@@ -1,0 +1,76 @@
+path: index
+title: A Community Server OS
+description: Run server workloads on bare metal or virtual machines with the
+  latest open source technologies curated by the Fedora Community
+image:
+  src: https://stg.fedoraproject.org/assets/images/server-header.jpg
+  alt: Fedora Server Image
+  width: 400
+  height: 300
+header_images:
+  - images:
+      light: public/assets/images/server_rack_light.png
+      dark: public/assets/images/server_rack_dark.png
+  - image: public/assets/images/server_hero_bg.jpg
+    images:
+      dark: public/assets/images/server_hero_bg.jpg
+      light: public/assets/images/server_hero_bg.jpg
+links:
+  - text: Download Now
+    url: /server/download/
+  - text: Documentation
+    url: https://docs.fedoraproject.org/en-US/fedora-server/
+sections:
+  - sectionTitle: Features for everyone
+    content:
+      - title: Latest Technologies
+        description: Run virtual machines and containers with
+          [libvirt](https://libvirt.org/) and [podman](https://podman.io/) or
+          build amazing applications on top of the
+          [WildFly](https://www.wildfly.org) application runtime
+        image: public/assets/images/feature-1v3.png
+      - title: Sensible Defaults
+        description:
+          Quickly deploy a server with the tools you need to spin up your
+          workloads
+        image: public/assets/images/feature-2.png
+      - title: Stable Ecosystem
+        description: Enables a variety of server workloads
+        image: public/assets/images/feature-3.png
+      - title: Cockpit
+        description:
+          A built-in remote server administration tool is ready to use on
+          first boot
+        image: public/assets/images/feature-4v2.png
+      - title: " From the Data Center to your Raspberry Pi"
+        description:
+          Serving the needs of small to medium businesses, home labs, and
+          enterprise workloads
+        image: public/assets/images/features-5.png
+    images: ""
+  - sectionTitle: Built by you
+    images: public/assets/images/flock-budapest-2019-bg.jpg
+    sectionDescription: >-
+      The Fedora Project envisions a world where everyone can benefit from free
+      and open source software built by inclusive, welcoming, and open-minded
+      communities.
+
+      Fedora Server is created by a team in the Fedora community called the **Server Working Group**. It is comprised of official members who have decision making powers, as well as other contributors. Learn more on the [Server Working Group website](https://docs.fedoraproject.org/en-US/server-working-group/).
+    content:
+      - title: Report & discuss issues
+        description:
+          You can view, file, and discuss Fedora Server issues on the [Fedora
+          Server issue tracker](https://pagure.io/fedora-server/issues).
+      - title: Chat with the team
+        description: Visit \#fedora-server on irc.libera.chat or visit
+          [chat​.​fedoraproject​.​org​/​#​/​room​/​#​server​:​fedoraproject​.​org](https://chat.fedoraproject.org/#/room/#server:fedoraproject.org)
+      - title: Join the mailing list
+        description: Sign up at
+          [server@lists.fedoraproject.org](https://lists.fedoraproject.org/admin/lists/server.lists.fedoraproject.org/)
+          to receive meeting agendas and minutes [view
+          archives](https://lists.fedoraproject.org/archives/list/server@lists.fedoraproject.org/)
+      - title: Attend a meeting
+        description:
+          Open to all current and potential contributors **every 1st and 3rd
+          Wednesday at 18:00 UTC**
+          on  [​chat​.​fedoraproject​.​org​/​#​/​room​/​#​meeting​:​fedoraproject​.​org](https://chat.fedoraproject.org/#/room/#meeting:fedoraproject.org).

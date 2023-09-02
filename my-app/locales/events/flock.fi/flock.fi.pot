@@ -1,0 +1,586 @@
+#. extracted from content/events/flock.fi.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "flock"
+msgstr ""
+
+#: title
+msgid "Fedora-projektin konferenssi"
+msgstr ""
+
+#: description
+msgid "5.–7. elokuuta 2023\n"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_barcelona.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Rekisteröidy"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgctxt "links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+msgid "#"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Kalenteri"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgctxt "links->[1]->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Tapahtumat"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_nest_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Virtuaalinen"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "Hopin.io-sivustolla isännöity 3 päivän konferenssi"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_hatch_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Yhteisö"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "Yhteisötapahtumia järjestetään ympäri maailmaa"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Tutustu avoimen lähdekoodin uusimpiin tapahtumiin"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Työpajat"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Työpajat ja hackfestit tarjoavat mahdollisuuksia aktiiviseen oppimiseen ja "
+"yhteistyöhön."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_workshops_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Näytä projektit"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[0]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Istunnot"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_sessions_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Esityksiä, jotka esittelevät Fedorassa tehtyä työtä ja tulevaisuuden "
+"suunnittelua."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Näytä aiheet"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[1]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Sosiaaliset tapahtumat"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/flock_socialevents_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Rento, avustettu ja interaktiivinen tapahtuma fedoralaisten tapaamiseen ja "
+"seurustelua varten."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgid "Näytä yhteistilaisuudet"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[2]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Katso videomateriaalia menneistä tapahtumista"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Mitä odottaa"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+msgid "https://www.youtube.com/embed/LqBVHz76Wxc"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock on vuotuinen konferenssi Fedora Linuxin edistäjille. Siellä yhteisö "
+"suunnittelee ja esittelee strategiaa ja työtä projektin parissa. Katso "
+"tallenteet Flockin ja Nestin aiemmilta vuosilta."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Vieraile Fedora Youtubessa"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://www.youtube.com/fedoraproject"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Hybridikokemus"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionDescription
+msgid ""
+"Flockin sijainti vaihtuu vuosittain Euroopan ja Pohjois-Amerikan välillä. "
+"Vuonna 2020 Fedora siirtyi virtuaaliseksi Nestin kanssa, nyt tarjoamme "
+"Flockin hybridiversion, jotta se olisi helpommin saatavilla yhteisöllemme."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgctxt "sections->[3]->content->[0]->title"
+msgid "1.–31.7.2023"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_mini.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock tarjoaa mukaansatempaavan henkilökohtaisen kokemuksen. Osallistu "
+"istuntoihin, tee yhteistyötä muiden kanssa, tutustu ja tapaa uusia ihmisiä. "
+"Lisäksi Flock on ilmainen!"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgctxt "sections->[3]->content->[1]->title"
+msgid "1.–31.7.2023"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/nest-dual-colour-navy.png.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Covid-19-pandemian aikana loimme Nestin virtuaaliseksi vaihtoehdoksi "
+"Flockille. Nyt se on olemassa virtuaalisena vaihtoehtona niille, jotka eivät "
+"voi osallistua henkilökohtaisesti, avaten Flockin kaikkien ulottuville!"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Kiinnostaako oman tapahtumasi järjestäminen?"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"1.–31.7.2023\n"
+"Flockia edeltävänä kuukautena fedoralaisia kannustetaan järjestämään "
+"paikallisia yhteisötapahtumia. Aseta haluamasi tapa ja aihe. Fedora Council "
+"auttaa tukemaan aloitettasi taloudellisella ja organisatorisella tuella. "
+"Napsauta alapuolelta ja aseta luukku! Hakuaika päättyy 29. toukokuuta."
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "Olemme Fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Eimage
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionDescription
+msgid ""
+"Fedora-projekti visioi maailmasta, jossa kaikki hyötyvät ilmaisista ja "
+"avoimen lähdekoodin ohjelmistoista, jotka osallistavat, vieraanvaraiset ja "
+"ennakkoluulottomat yhteisöt ovat rakentaneet. Pysy yhteydessä Flockin aikana "
+"seuraavien kanavien kautta."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Etitle
+msgid "Keskustelut"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/discussions_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Käytä viestialustaamme Fedora-keskusteluja pysyäksesi ajan tasalla Flock-"
+"ilmoituksista. <b><a href=\"https://discussion.fedoraproject.org/\">Teksti "
+"on täällä</a></b>."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Etitle
+msgid "Twitter"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/twitter_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Käytä <b>#NestWithFedora</b>-hashtagia haluamillasi sosiaalisen median "
+"alustoilla. Seuraa <b><a href=\"https://twitter.com/fedora\">@fedora</a></b> "
+"Twitterissä saadaksesi päivityksiä."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Etitle
+msgid "Matrix & IRC"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/matrix_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Tapahtuman pää IRC-kanavamme on <b>#fedora-flock</b> osoitteessa <b>libera."
+"chat</b>. Liity <b><a href=\"https://web.libera.chat/?channels=#fedora-"
+"flock\">#fedora-flockiin</a></b> keskustellaksesi Matrixissa tai IRC:ssä."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Etitle
+msgid "Kysy Fedorasta"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/ask_fedora_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Uusi Fedorassa? Katso <b><a href=\"https://ask.fedoraproject.org/\">yhteisön "
+"keskusteluryhmästämme</a></b> tukea ja apua usein kysyttyihin kysymyksiin."
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Sponsorimme"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Kiitos sponsoreillemme, tämän tapahtuman tukeminen on yksi tavoista, joilla "
+"he osallistuvat avoimen lähdekoodin projekteihin."
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Ename
+msgid "Red Hat"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/sponsors/Red_Hat_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Edescription
+msgid "platina"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Ename
+msgid "Lenovo"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/sponsors/Lenovo_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[6]->content->[1]->description"
+msgid "kulta"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Ename
+msgid "AlmaLinux"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/sponsors/AlmaLinux_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[6]->content->[2]->description"
+msgid "kulta"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Ename
+msgid "openSuse"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/sponsors/opensuse_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[6]->content->[3]->description"
+msgid "hopea"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Ename
+msgid "muita sponsoreita"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Eimage
+msgctxt "sections->[6]->content->[4]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Edescription
+msgctxt "sections->[6]->content->[4]->description"
+msgid "hopea"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Ename
+msgid "toinen hieno sponsori"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Eimage
+msgctxt "sections->[6]->content->[5]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Edescription
+msgctxt "sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+msgid "pronssi"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Ename
+msgid "GitLab"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Eimage
+msgid "public/assets/images/sponsors/Gitlab_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Edescription
+msgctxt "sections->[6]->content->[6]->description"
+msgid "pronssi"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Ename
+msgid "datto"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Eimage
+msgid "public/assets/images/sponsors/datto_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Edescription
+msgctxt "sections->[6]->content->[7]->description"
+msgid "pronssi"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Ename
+msgid "das-näppäimistö"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Eimage
+msgid "public/assets/images/sponsors/daskeyboard_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Edescription
+msgctxt "sections->[6]->content->[8]->description"
+msgid "pronssi"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Ename
+msgid "Gnome"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Eimage
+msgid "public/assets/images/sponsors/Gnome_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Edescription
+msgctxt "sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Ename
+msgid "TuxDigital"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Eimage
+msgid "public/assets/images/sponsors/TuxDigital_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Edescription
+msgctxt "sections->[6]->content->[10]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Ename
+msgid "KDE"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Eimage
+msgid "public/assets/images/sponsors/KDE_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Edescription
+msgctxt "sections->[6]->content->[11]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Ename
+msgid "opensource.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Eimage
+msgid "public/assets/images/sponsors/opensource.com_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Edescription
+msgctxt "sections->[6]->content->[12]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Ename
+msgid "ei mitään"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Edescription
+msgid "paikanpitäjä"
+msgstr ""
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Flockin sponsoroinnin hyödyt"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Brändin tunnettavuus"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Sponsoreja mainostetaan useissa paikoissa Flockissa. Julkaisemme tietoa "
+"sponsoreista myös sosiaalisessa mediassa. Brändiäsi jaetaan "
+"maailmanlaajuisesti swag bag -pussissamme."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Valokeila"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Sponsorointitasomme antavat sinulle loistavan näkyvyyden Flockissa. "
+"Näyttelyosastosi esitellään Expo-sivulla osallistumisen maksimoimiseksi."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Verkostoituminen"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Flock houkuttelee satoja uskomattomia avoimen lähdekoodin yhteisön jäseniä, "
+"jotka työskentelevät ja käyttävät ohjelmistoja päivittäin. Ota yhteyttä "
+"eloisaan yhteisöömme istunnoissa ja sosiaalisten tuntien aikana."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Etitle
+msgid "Näyttelytilat"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Kaikki sponsorikopit sisältävät videon, mukautettavan kokemuksen, chatin ja "
+"sosiaalisen median käyttämisen. Napsauta alapuolelta saadaksesi lisätietoja."
+msgstr ""

@@ -1,0 +1,95 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./index.html",
+    "./pages/**/*.vue",
+    "./components/**/*.vue",
+    "./public/assets/js/*.js",
+  ],
+  darkMode: "class",
+  theme: {
+    fontFamily: {
+      display: ["Montserrat", "ui-sans-serif", "system-ui", "sans-serif"],
+      sans: ['"Open Sans"', "ui-sans-serif", "system-ui", "sans-serif"],
+      serif: ["ui-serif", "serif"],
+      mono: ['"Source Code Pro"', "ui-monospace", "monospace"],
+    },
+    extend: {
+      colors: {
+        fp: {
+          gray: {
+            lightest: "#eff0f1",
+            lighter: "#dfe0e3",
+            200: "#dedede",
+            light: "#c5c7cc",
+            400: "#8c8c8c",
+            DEFAULT: "#9a9fa6",
+            dark: "#79818b",
+            darkest: "#535961",
+            600: "#4c4c4c",
+            800: "#1d252e",
+          },
+          darkblue: {
+            100: "#d8e1ee",
+            300: "#6f81a6",
+            500: "#294172",
+            DEFAULT: "#294172",
+            700: "#1f3156",
+            900: "#152139",
+          },
+          blue: {
+            100: "#e8eff8",
+            300: "#8faed9",
+            500: "#3c6eb4",
+            DEFAULT: "#3c6eb4",
+            700: "#2d5387",
+            900: "#1e3762",
+          },
+          newblue: {
+            100: "#dcebf8",
+            300: "#aad0ee",
+            500: "#51a2da",
+            DEFAULT: "#51a2da",
+            700: "#3d7aa8",
+            900: "#295178",
+          },
+          green: {
+            100: "#e9f9dd",
+            300: "#bbed97",
+            500: "#79db32",
+            DEFAULT: "#79db32",
+            700: "#589f25",
+            900: "#3d6f1d",
+          },
+          magenta: {
+            100: "#f9dde9",
+            300: "#ed97bb",
+            DEFAULT: "#db3279",
+            500: "#db3279",
+            700: "#b32963",
+            900: "#72193b",
+          },
+          orange: {
+            100: "#fbeedb",
+            300: "#f2ca92",
+            DEFAULT: "#e59728",
+            500: "#e59728",
+            700: "#ac721e",
+            900: "#784c14",
+          },
+          purple: {
+            100: "#ece5f1",
+            300: "#cfbddd",
+            500: "#a07cbc",
+            DEFAULT: "#a07cbc",
+            700: "#6e5685",
+            900: "#503e68",
+          },
+        },
+      },
+      textUnderlineOffset: {
+        1: "0.15em",
+      },
+    },
+  },
+};

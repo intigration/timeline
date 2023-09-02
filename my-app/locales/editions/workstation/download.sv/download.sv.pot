@@ -1,0 +1,354 @@
+#. extracted from content/editions/workstation/download.sv.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "ladda ner"
+msgstr ""
+
+#: title
+msgid "Download Fedora Workstation 37"
+msgstr ""
+
+#: description
+msgid ""
+"Vi är så glada att du har bestämt dig för att ge Fedora Workstation ett "
+"försök. Vi vet att du kommer att älska det."
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "release"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "RELEASE DATE"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "April 19, 2022"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "SUPPORTED THROUGH"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "May 17, 2023"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Release Notes"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgid "https://fedorapeople.org/groups/schedule/f-37/f-37-all-tasks.html"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Installationsguide"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Elink-%3Eurl
+msgid "https://docs.fedoraproject.org/en-US/fedora/latest/install-guide/"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Gemenskaps Support"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Elink-%3Eurl
+msgctxt "sections->[0]->content->[4]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "På Windows eller macOS?"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionDescription
+msgid ""
+"Kom igång genom att använda Fedora MediaSkrivare, vilket gör det superenkelt "
+"att ge Fedora ett försök."
+msgstr ""
+
+#: sections-%3E[1]-%3Eimages
+msgid "public/assets/images/media-writer-icon.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Windows"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[0]->link->text"
+msgid "Download Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-win32-latest.exe"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Mac"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[1]->link->text"
+msgid "Download Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "På Linux? Eller bara vill ha en ISO fil?"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"Not sure how to use these files? [Learn here](https://docs.fedoraproject.org/"
+"en-US/quick-docs/creating-and-using-a-live-installation-image/)"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Security, Installs"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgid "Vi tar säkerhet seriöst"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Once you have downloaded an image, be sure to verify it for both security "
+"and integrity."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://getfedora.org/security/"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Verify Your Download"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgid "Men vänta! Det finns mer."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Behöver du något lite annorlunda? [Kolla in våra andra Fedora Workstation-"
+"nedladdningar här](https://alt.fedoraproject.org/), för sekundära "
+"arkitekturer och nätverksbaserade installationsavbilder."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://download.fedoraproject.org"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Fedora 37 64-bit network install"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Bärbara datorer förinstallerade med Fedora"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"Vi har samarbetat med företag som Lenovo för att ge dig bärbara datorer "
+"förinstallerade med Fedora som inkluderar fullt stödda hårdvarukomponenter. "
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/lenovo-laptop.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://fedoramagazine.org/lenovo-fedora-now-available/"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Explore Fedora Laptops"
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "Lär dig mer om Fedora MediaSkrivare"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+"flash drive, and Fedora Media Writer.\n"
+"Once Fedora Media Writer is installed, it will set up your flash drive to "
+"run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+"from your flash drive and try it out right away without making any permanent "
+"changes to your computer. Once you are hooked, installing it to your hard "
+"drive is a matter of clicking a few buttons*."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+" * Fedora kräver minst 20 GB disk, 2 GB RAM, för att installera och köra "
+"framgångsrikt. Dubbla dessa mängder rekommenderas. "
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/monitor-2.png"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Become a Fedora contributor"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Once you've got Fedora installed and running, why not join and contribute to "
+"one of our online communities?"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fedora diskussion"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/fedora-discussion-plus-icon.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://discussion.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Etitle
+msgid "Fedora Chatt"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://matrix.to/#/#matrix-meta-chat:fedoraproject.org"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/fedora-chat-plus-element.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Etitle
+msgid "Fråga Fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/ask-fedora.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgctxt "sections->[6]->content->[2]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Community-Maintained Spaces"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Reddit"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://www.reddit.com/r/Fedora/"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/reddit-brands-3.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Discord"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://discord.com/invite/fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/discord-brands-2.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Telegram"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/telegram-brands.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgid "https://fedoraproject.org/wiki/Telegram"
+msgstr ""
+
+#: sections-%3E[8]-%3EsectionTitle
+msgid ""
+"Genom att klicka på nedladdningslänken och hämta hem Fedora till din dator, "
+"går du med på att uppfylla följande krav och villkor."
+msgstr ""
+
+#: sections-%3E[8]-%3EsectionDescription
+msgid ""
+"Genom att hämta Fedoras programvara bekräftar du att du förstår följande: "
+"Fedoras programvara och tekniska information kan vara föremål för U.S. "
+"Export Administration Regulations (”EAR”) och andra av USA:s och andra "
+"länders lagar och får inte exporteras, återexporteras eller överföras (a) "
+"till något land uppräknat i Country Group E:1 i Supplement No. 1 till del "
+"740 av EAR (för närvarande, Kuba, Iran, Nordkorea, Sudan & Syrien); (b) till "
+"någon förbjuden destination eller till någon slutanvändare som har "
+"förbjudits från att delta i USA:s exporttransaktioner av någon federal "
+"myndighet hos USA:s regering; eller (c) för användning i samband med "
+"designen, utvecklingen eller produktionen av nukleära, kemiska eller "
+"biologiska vapen, eller raketsystem, rymdfarkoster eller sondraketer, eller "
+"obemannade luftfarkost system. Du får inte hämta Fedoras programvara eller "
+"tekniska information om du befinner dig i ett av dessa länder eller på annat "
+"sätt är föremål för dessa begränsningar. Du får inte tillhandahålla Fedoras "
+"programvara eller tekniska information till individer eller organisationer "
+"som befinner sig i ett av dessa länder eller på annat sätt är föremål för "
+"dessa restriktioner. Du är även ansvarig för att följa andra länders lagkrav "
+"som är tillämpliga på importen, exporten och användningen av Fedoras "
+"programvara och tekniska information."
+msgstr ""

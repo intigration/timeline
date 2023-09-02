@@ -1,0 +1,589 @@
+#. extracted from content/events/flock.hu.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "flock"
+msgstr ""
+
+#: title
+msgid "A Fedora Projekt Konferencia"
+msgstr ""
+
+#: description
+msgid "August 5 - 7, 2023\n"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_barcelona.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Regisztráljon"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgctxt "links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+msgid "#"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Naptár"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgctxt "links->[1]->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Events"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_nest_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Virtuális"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "3 napos konferencia a Hopin.io rendszeren működtetve"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_hatch_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Közösség"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "Közösségi rendezvények szerte a világban"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Fedezze fel a legújabb dolgokat az Open Source világában"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Workshop-ok, előadások"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"A workshopok és a hackfestek lehetőséget kínálnak az aktív tanulásra és "
+"együttműködésre."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_workshops_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Projektek megtekintése"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[0]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Gyűlések"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_sessions_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Előadások, amelyek bemutatják a Fedorában végzett munkát és a jövő "
+"tervezését."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Témák megtekintése"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[1]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Közösségi Események"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/flock_socialevents_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Alkalmi, könnyített és interaktív események a más közösségbeli tagokkal való "
+"találkozáshoz és ismerkedéshez."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgid "Közösségi oldalak megtekintése"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[2]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Nézze meg a múltbeli események felvételeit"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Elkövetkezendő"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+msgid "https://www.youtube.com/embed/LqBVHz76Wxc"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"A Flock egy éves konferencia a Fedora Linux közreműködői számára. Ez az a "
+"hely, ahol a közösség megtervezi és bemutatja a stratégiáit és a projekten "
+"végzett munkát. Nézd meg a Flock and Nest korábbi évek felvételeit."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Látogassa meg a Fedora Youtube csatornáját"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://www.youtube.com/fedoraproject"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Hibrid Élmény"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionDescription
+msgid ""
+"The location of Flock changes each year between Europe and North America. In "
+"2020 Fedorans went virtual with Nest, now we offer a hybrid version of Flock "
+"to make it more accessible to our community."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgctxt "sections->[3]->content->[0]->title"
+msgid "July 1 - 31 2023"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_mini.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock offers an immersive in person experience. Attend sessions, collaborate "
+"with others, explore and meet new people. Plus, Flock is free to attend!"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgctxt "sections->[3]->content->[1]->title"
+msgid "July 1 - 31 2023"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/nest-dual-colour-navy.png.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"A Covid-19 világjárvány idején létrehoztuk a Nest a Flock virtuális "
+"alternatívájaként. Most virtuális lehetőségként létezik azok számára, akik "
+"nem tudnak személyesen részt venni. Így a Flock mindenki számára elérhetővé "
+"vált!"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Érdekelné egy saját rendezvény megtartása?"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"July 1 - 31 2023\n"
+"In the month leading up to Flock, Fedorans are encouraged to organize local "
+"community events. Set the format and topic of your choice. The Fedora "
+"Council will help support your initiative with financial and organizating "
+"aid. Click below to set up a Hatch! Deadline for submissions is May 29."
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "Mi vagyunk a Fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Eimage
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionDescription
+msgid ""
+"A Fedora Project egy olyan világot képzel el, ahol mindenki részesül a "
+"befogadó, barátságos és nyitott közösségek által épített ingyenes és nyílt "
+"forráskódú szoftverekből. Maradjon kapcsolatban a Flock alatt a következő "
+"csatornákon keresztül."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Etitle
+msgid "Megbeszélések"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/discussions_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Használja üzenőfalunk Fedora Discussions oldalát, hogy naprakész legyen a "
+"Flock Értesítésekről. <b><a href=\"https://discussion.fedoraproject.org/\""
+">Az ellenőrzés itt található</a></b>"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Etitle
+msgid "Twitter"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/twitter_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Használja a <b>#NestWithFedora</b> hashtageket kedvenc közösségi média "
+"platformjain. A frissítésekért kövesse a <a href=\"https://twitter.com/"
+"fedora\">@fedora</a></b> címet a Twitteren."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Etitle
+msgid "Mátrix & IRC"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/matrix_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Az esemény fő IRC csatornája a <b>#fedora-flock</b> a <b>libera.chat</b> "
+"oldalon. Csatlakozzon a <b><a href=\"https://web.libera.chat/?channels"
+"=#fedora-flock\">#fedora-flock</a></b> oldalhoz, hogy Mátrixon vagy IRC-n "
+"cseveghess."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Etitle
+msgid "Ask Fedora – Kérdezz a Fedorától"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/ask_fedora_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Új a Fedorában? Nézze meg a <b><a href=\"https://ask.fedoraproject.org/\""
+">közösségi fórum</a></b> oldalunkat, ahol támogatást és segítséget talál a "
+"gyakran ismételt kérdésekkel kapcsolatban."
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Támogatóink"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Köszönjük szponzorainknak, hogy az esemény támogatásával hozzájárulnak a "
+"nyílt forráskódhoz."
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Ename
+msgid "Red Hat"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/sponsors/Red_Hat_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Edescription
+msgid "Platina"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Ename
+msgid "Lenovo"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/sponsors/Lenovo_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[6]->content->[1]->description"
+msgid "gold"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Ename
+msgid "AlmaLinux"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/sponsors/AlmaLinux_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[6]->content->[2]->description"
+msgid "gold"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Ename
+msgid "OpenSuse"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/sponsors/opensuse_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[6]->content->[3]->description"
+msgid "silver"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Ename
+msgid "egyéb további Támogatók"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Eimage
+msgctxt "sections->[6]->content->[4]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Edescription
+msgctxt "sections->[6]->content->[4]->description"
+msgid "silver"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Ename
+msgid "további szuper Támogató"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Eimage
+msgctxt "sections->[6]->content->[5]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Edescription
+msgctxt "sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Ename
+msgid "GitLab"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Eimage
+msgid "public/assets/images/sponsors/Gitlab_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Edescription
+msgctxt "sections->[6]->content->[6]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Ename
+msgid "datto"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Eimage
+msgid "public/assets/images/sponsors/datto_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Edescription
+msgctxt "sections->[6]->content->[7]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Ename
+msgid "daskeyboard"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Eimage
+msgid "public/assets/images/sponsors/daskeyboard_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Edescription
+msgctxt "sections->[6]->content->[8]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Ename
+msgid "Gnome"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Eimage
+msgid "public/assets/images/sponsors/Gnome_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Edescription
+msgctxt "sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Ename
+msgid "TuxDigital"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Eimage
+msgid "public/assets/images/sponsors/TuxDigital_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Edescription
+msgctxt "sections->[6]->content->[10]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Ename
+msgid "KDE"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Eimage
+msgid "public/assets/images/sponsors/KDE_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Edescription
+msgctxt "sections->[6]->content->[11]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Ename
+msgid "Opensource.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Eimage
+msgid "public/assets/images/sponsors/opensource.com_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Edescription
+msgctxt "sections->[6]->content->[12]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Ename
+msgid "none"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Edescription
+msgid "placeholder"
+msgstr ""
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "A Flock szponzorálásának előnyei"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Márka expozíció"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"A Flockban több helyen is hirdetnek szponzorokat. A szponzorokról a "
+"közösségi oldalakon is posztolunk. Márkáját világszerte terjesztjük "
+"szóróanyagaink közt."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Reflektorfény"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Szponzori szintjeink nagyszerű láthatóságot biztosítanak a Flockban. A "
+"standja az Expo oldalán lesz látható, hogy maximalizálja az elköteleződést."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Hálózat építés"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"A Flock több száz csodálatos nyílt forráskódú közösségi tagot vonz, akik "
+"naponta dolgoznak és használnak szoftvereket. Vegyen részt élénk "
+"közösségünkkel foglalkozásokon és társasági órákon."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Etitle
+msgid "Kiállítóhelyek"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Minden szponzori stand tartalmaz egy videót, testreszabható élményt, chat-et "
+"és közösségi média elkötelezettséget. További információért kattintson az "
+"alábbiakra."
+msgstr ""

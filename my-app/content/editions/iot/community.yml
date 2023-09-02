@@ -1,0 +1,49 @@
+path: community
+title: Community
+description: Join a community of users and contributors focused on Fedora IoT.
+sections:
+  - sectionTitle: Header Second Half
+    sectionDescription: Fedora IoT is created by a team in the Fedora Project
+      community called the IoT Working Group. It is comprised of official
+      members who have decision-making powers, as well as other contributors.
+      Learn more about this group and how you can get involved on the IoT
+      Working Group website.
+  - sectionTitle: Communication Channels
+    content:
+      - title: Forum
+        description:
+          The **Fedora IoT** tag on Fedora's Discourse-based discussion forum
+          is a great place to connect with other Fedora IoT users and
+          contributors.
+        image: public/assets/images/fedora-discussion-plus-icon.png
+        link:
+          text: Visit Now
+          url: https://discussion.fedoraproject.org/tag/iot
+      - title: Chat
+        description:
+          "You can chat with the Fedora IoT Working Group via either Matrix
+          or IRC: #iot:fedoraproject.org on Matrix and #fedora-iot on
+          irc.libera.chat."
+        image: public/assets/images/fedora-chat-plus-element.png
+        link:
+          text: Chat Now
+          url: https://chat.fedoraproject.org/#/welcome
+      - title: Mailing List
+        description:
+          The Fedora IoT Working Group sends meeting agendas and minutes and
+          has discussions on their mailing list at iot@lists.fedoraproject.org.
+        link:
+          text: Visit Now
+          url: https://lists.fedoraproject.org/archives/list/iot@lists.fedoraproject.org/
+        image: public/assets/images/hyperkitty-plus-logo.png
+  - sectionTitle: Ways to get involved
+    content:
+      - title: Report & discuss issues
+        description:
+          You can view, file, and discuss Fedora IoT issues on the [Fedora
+          IoT issue tracker](https://pagure.io/fedora-iot/issues).
+      - title: Attend a meeting
+        description:
+          IoT Working Group meetings are open to all current and potential
+          contributors on Wednesdays, 11 AM US Eastern at
+          fedora-meeting@irc.libera.chat.

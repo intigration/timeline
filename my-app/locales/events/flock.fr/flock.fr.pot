@@ -1,0 +1,585 @@
+#. extracted from content/events/flock.fr.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "flock"
+msgstr ""
+
+#: title
+msgid "La conférence du Projet Fedora"
+msgstr ""
+
+#: description
+msgid "August 5 - 7, 2023\n"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_barcelona.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "S'enregistrer"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgctxt "links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+msgid "#"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Calendrier"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgctxt "links->[1]->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Événements"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_nest_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Virtuel"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "Une conférence de 3 jours hébergée sur Hopin.io"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_hatch_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Communauté"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "Événements communautaires organisés dans le monde entier"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Explorez les dernières nouveautés Open Source"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Ateliers"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Les ateliers et hackfests offrent des opportunités pour l'apprentissage "
+"actif et la collaboration."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_workshops_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "View Projects"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[0]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Sessions"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_sessions_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Presentations that showcase the work done in Fedora and planning for the "
+"future."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "View Topics"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[1]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Social Events"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/flock_socialevents_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Casual, facilitated, and interactive events for meeting and socializing with "
+"Fedorans."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgid "View Socials"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[2]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Watch Footage from Past Events"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "What to expect"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+msgid "https://www.youtube.com/embed/LqBVHz76Wxc"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock is an annual conference for contributors of Fedora Linux. It is where "
+"the community plans and showcases the strategy and work on the project. "
+"Check out the recordings from previous years of Flock and Nest."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Visit Fedora Youtube"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://www.youtube.com/fedoraproject"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "A Hybrid Experience"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionDescription
+msgid ""
+"The location of Flock changes each year between Europe and North America. In "
+"2020 Fedorans went virtual with Nest, now we offer a hybrid version of Flock "
+"to make it more accessible to our community."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgctxt "sections->[3]->content->[0]->title"
+msgid "July 1 - 31 2023"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_mini.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock offers an immersive in person experience. Attend sessions, collaborate "
+"with others, explore and meet new people. Plus, Flock is free to attend!"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgctxt "sections->[3]->content->[1]->title"
+msgid "July 1 - 31 2023"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/nest-dual-colour-navy.png.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"During the Covid-19 pandemic, we created Nest as a virtual alternative to "
+"Flock. Now it exists as a virtual option for those who cannot attend in "
+"person. Making Flock accessible for everyone!"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Interested in hosting your own event?"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"July 1 - 31 2023\n"
+"In the month leading up to Flock, Fedorans are encouraged to organize local "
+"community events. Set the format and topic of your choice. The Fedora "
+"Council will help support your initiative with financial and organizating "
+"aid. Click below to set up a Hatch! Deadline for submissions is May 29."
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "We are Fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Eimage
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionDescription
+msgid ""
+"The Fedora Project envisions a world where everyone benefits from free and "
+"open source software built by inclusive, welcoming, and open-minded "
+"communities. Stay connected during Flock through the following channels."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Etitle
+msgid "Discussions"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/discussions_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Use our messaging board Fedora Discussions to stay up to date on Flock "
+"Notifications. <b><a href=\"https://discussion.fedoraproject.org/\">Check is "
+"out here</a></b>."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Etitle
+msgid "Twitter"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/twitter_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Use the <b>#NestWithFedora</b> hashtags on your preferred social media "
+"platforms. Follow <b><a href=\"https://twitter.com/fedora\">@fedora</a></b> "
+"on Twitter for updates."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Etitle
+msgid "Matrix & IRC"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/matrix_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Our main IRC channel for the event is <b>#fedora-flock</b> on <b>libera."
+"chat</b>. Join <b><a href=\"https://web.libera.chat/?channels=#fedora-flock\""
+">#fedora-flock</a></b> to chat on Matrix or IRC."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Etitle
+msgid "Ask Fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/ask_fedora_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"New to Fedora? Check our <b><a href=\"https://ask.fedoraproject.org/\""
+">community forum</a></b> for support and help with frequently asked "
+"questions."
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Our Sponsors"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Thank you to our sponsors, supporting this event is one of the ways that "
+"they contribute to open source."
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Ename
+msgid "Red Hat"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/sponsors/Red_Hat_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Edescription
+msgid "platinium"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Ename
+msgid "Lenovo"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/sponsors/Lenovo_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[6]->content->[1]->description"
+msgid "gold"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Ename
+msgid "AlmaLinux"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/sponsors/AlmaLinux_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[6]->content->[2]->description"
+msgid "gold"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Ename
+msgid "openSuse"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/sponsors/opensuse_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[6]->content->[3]->description"
+msgid "silver"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Ename
+msgid "some Other Sponsor"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Eimage
+msgctxt "sections->[6]->content->[4]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Edescription
+msgctxt "sections->[6]->content->[4]->description"
+msgid "silver"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Ename
+msgid "another Cool Sponsor"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Eimage
+msgctxt "sections->[6]->content->[5]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Edescription
+msgctxt "sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Ename
+msgid "GitLab"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Eimage
+msgid "public/assets/images/sponsors/Gitlab_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Edescription
+msgctxt "sections->[6]->content->[6]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Ename
+msgid "datto"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Eimage
+msgid "public/assets/images/sponsors/datto_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Edescription
+msgctxt "sections->[6]->content->[7]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Ename
+msgid "daskeyboard"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Eimage
+msgid "public/assets/images/sponsors/daskeyboard_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Edescription
+msgctxt "sections->[6]->content->[8]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Ename
+msgid "Gnome"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Eimage
+msgid "public/assets/images/sponsors/Gnome_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Edescription
+msgctxt "sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Ename
+msgid "TuxDigital"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Eimage
+msgid "public/assets/images/sponsors/TuxDigital_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Edescription
+msgctxt "sections->[6]->content->[10]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Ename
+msgid "KDE"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Eimage
+msgid "public/assets/images/sponsors/KDE_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Edescription
+msgctxt "sections->[6]->content->[11]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Ename
+msgid "opensource.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Eimage
+msgid "public/assets/images/sponsors/opensource.com_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Edescription
+msgctxt "sections->[6]->content->[12]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Ename
+msgid "none"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Edescription
+msgid "placeholder"
+msgstr ""
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Benefits of Sponsoring Flock"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Brand Exposure"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Sponsors are advertised in several places at Flock. We also post about "
+"sponsors on social media. Your brand will be distributed globally in our "
+"swag bag."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Spotlight"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Our tierd sponsorship levels will all give you great visibility at Flock. "
+"Your booth will be showcased on the Expo page to maximize engagement."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Réseau"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Flock attracts hundreds of amazing open source community members who work on "
+"and use software daily. Engage with our vibrant community in sessions and "
+"social hours."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Etitle
+msgid "Booths"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"All sponsor booths include a video, customizable experience, chat, and "
+"social media engagement. Click below to learn more."
+msgstr ""

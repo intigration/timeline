@@ -1,0 +1,767 @@
+#. extracted from content/events/flock.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-09-21 11:46+0000\n"
+"Last-Translator: Hoppár Zoltán <hopparz@gmail.com>\n"
+"Language-Team: Hungarian <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/eventsflock/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "flock"
+msgstr ""
+
+#: title
+msgid "The Fedora Project Conference"
+msgstr "A Fedora Projekt Konferencia"
+
+#: description
+msgid "August 5 - 7, 2023\n"
+msgstr ""
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/flock_logo_barcelona.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: header_images-%3E[1]-%3Eimage
+#, read-only
+#, fuzzy
+msgid "public/assets/images/flock_background.jpg"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: links-%3E[0]-%3Etext
+msgid "Register"
+msgstr "Regisztráljon"
+
+#: links-%3E[0]-%3Eurl
+#, read-only
+msgctxt "links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+msgid "#"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Calendar"
+msgstr "Naptár"
+
+#: links-%3E[1]-%3Eurl
+#, read-only
+msgctxt "links->[1]->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Events"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+#, fuzzy, read-only
+msgid "public/assets/images/flock_nest_logo.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Virtual"
+msgstr "Virtuális"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "A 3 day conference hosted on Hopin.io"
+msgstr "3 napos konferencia a Hopin.io rendszeren működtetve"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+#, fuzzy, read-only
+msgid "public/assets/images/flock_hatch_logo.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Community"
+msgstr "Közösség"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "Community events hosted around the world"
+msgstr "Közösségi rendezvények szerte a világban"
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Explore the latest in Open Source"
+msgstr "Fedezze fel a legújabb dolgokat az Open Source világában"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Workshops"
+msgstr "Workshop-ok, előadások"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Workshops and hackfests offer opportunities for active learning and "
+"collaboration."
+msgstr ""
+"A workshopok és a hackfestek lehetőséget kínálnak az aktív tanulásra és "
+"együttműködésre."
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+#, fuzzy, read-only
+msgid "public/assets/images/flock_workshops_logo.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "View Projects"
+msgstr "Projektek megtekintése"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgctxt "sections->[1]->content->[0]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Sessions"
+msgstr "Gyűlések"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+#, fuzzy
+msgid "public/assets/images/flock_sessions_logo.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Presentations that showcase the work done in Fedora and planning for the "
+"future."
+msgstr ""
+"Előadások, amelyek bemutatják a Fedorában végzett munkát és a jövő "
+"tervezését."
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "View Topics"
+msgstr "Témák megtekintése"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgctxt "sections->[1]->content->[1]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Social Events"
+msgstr "Közösségi Események"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+#, fuzzy
+msgid "public/assets/images/flock_socialevents_logo.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Casual, facilitated, and interactive events for meeting and socializing with "
+"Fedorans."
+msgstr ""
+"Alkalmi, könnyített és interaktív események a más közösségbeli tagokkal való "
+"találkozáshoz és ismerkedéshez."
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgid "View Socials"
+msgstr "Közösségi oldalak megtekintése"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgctxt "sections->[1]->content->[2]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Watch Footage from Past Events"
+msgstr "Nézze meg a múltbeli események felvételeit"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "What to expect"
+msgstr "Elkövetkezendő"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "https://www.youtube.com/embed/LqBVHz76Wxc"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock is an annual conference for contributors of Fedora Linux. It is where "
+"the community plans and showcases the strategy and work on the project. "
+"Check out the recordings from previous years of Flock and Nest."
+msgstr ""
+"A Flock egy éves konferencia a Fedora Linux közreműködői számára. Ez az a "
+"hely, ahol a közösség megtervezi és bemutatja a stratégiáit és a projekten "
+"végzett munkát. Nézd meg a Flock and Nest korábbi évek felvételeit."
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Visit Fedora Youtube"
+msgstr "Látogassa meg a Fedora Youtube csatornáját"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://www.youtube.com/fedoraproject"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "A Hybrid Experience"
+msgstr "Hibrid Élmény"
+
+#: sections-%3E[3]-%3EsectionDescription
+msgid ""
+"The location of Flock changes each year between Europe and North America. In "
+"2020 Fedorans went virtual with Nest, now we offer a hybrid version of Flock "
+"to make it more accessible to our community."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgctxt "sections->[3]->content->[0]->title"
+msgid "July 1 - 31 2023"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+#, fuzzy, read-only
+msgid "public/assets/images/flock_logo_mini.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock offers an immersive in person experience. Attend sessions, collaborate "
+"with others, explore and meet new people. Plus, Flock is free to attend!"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgctxt "sections->[3]->content->[1]->title"
+msgid "July 1 - 31 2023"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/nest-dual-colour-navy.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"During the Covid-19 pandemic, we created Nest as a virtual alternative to "
+"Flock. Now it exists as a virtual option for those who cannot attend in "
+"person. Making Flock accessible for everyone!"
+msgstr ""
+"A Covid-19 világjárvány idején létrehoztuk a Nest a Flock virtuális "
+"alternatívájaként. Most virtuális lehetőségként létezik azok számára, akik "
+"nem tudnak személyesen részt venni. Így a Flock mindenki számára elérhetővé "
+"vált!"
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Interested in hosting your own event?"
+msgstr "Érdekelné egy saját rendezvény megtartása?"
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"July 1 - 31 2023\n"
+"In the month leading up to Flock, Fedorans are encouraged to organize local "
+"community events. Set the format and topic of your choice. The Fedora "
+"Council will help support your initiative with financial and organizating "
+"aid. Click below to set up a Hatch! Deadline for submissions is May 29."
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "We are Fedora"
+msgstr "Mi vagyunk a Fedora"
+
+#: sections-%3E[5]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionDescription
+msgid ""
+"The Fedora Project envisions a world where everyone benefits from free and "
+"open source software built by inclusive, welcoming, and open-minded "
+"communities. Stay connected during Flock through the following channels."
+msgstr ""
+"A Fedora Project egy olyan világot képzel el, ahol mindenki részesül a "
+"befogadó, barátságos és nyitott közösségek által épített ingyenes és nyílt "
+"forráskódú szoftverekből. Maradjon kapcsolatban a Flock alatt a következő "
+"csatornákon keresztül."
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Etitle
+msgid "Discussions"
+msgstr "Megbeszélések"
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/discussions_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Use our messaging board Fedora Discussions to stay up to date on Flock "
+"Notifications. <b><a href=\"https://discussion.fedoraproject.org/\">Check is "
+"out here</a></b>."
+msgstr ""
+"Használja üzenőfalunk Fedora Discussions oldalát, hogy naprakész legyen a "
+"Flock Értesítésekről. <b><a href=\"https://discussion.fedoraproject.org/\""
+">Az ellenőrzés itt található</a></b>"
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Etitle
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/twitter_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Use the <b>#NestWithFedora</b> hashtags on your preferred social media "
+"platforms. Follow <b><a href=\"https://twitter.com/fedora\">@fedora</a></b> "
+"on Twitter for updates."
+msgstr ""
+"Használja a <b>#NestWithFedora</b> hashtageket kedvenc közösségi média "
+"platformjain. A frissítésekért kövesse a <a href=\"https://twitter.com/"
+"fedora\">@fedora</a></b> címet a Twitteren."
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Etitle
+msgid "Matrix & IRC"
+msgstr "Mátrix & IRC"
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/matrix_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Our main IRC channel for the event is <b>#fedora-flock</b> on <b>libera."
+"chat</b>. Join <b><a href=\"https://web.libera.chat/?channels=#fedora-flock\""
+">#fedora-flock</a></b> to chat on Matrix or IRC."
+msgstr ""
+"Az esemény fő IRC csatornája a <b>#fedora-flock</b> a <b>libera.chat</b> "
+"oldalon. Csatlakozzon a <b><a href=\"https://web.libera.chat/?channels"
+"=#fedora-flock\">#fedora-flock</a></b> oldalhoz, hogy Mátrixon vagy IRC-n "
+"cseveghess."
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Etitle
+msgid "Ask Fedora"
+msgstr "Ask Fedora – Kérdezz a Fedorától"
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/ask_fedora_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"New to Fedora? Check our <b><a href=\"https://ask.fedoraproject.org/\""
+">community forum</a></b> for support and help with frequently asked "
+"questions."
+msgstr ""
+"Új a Fedorában? Nézze meg a <b><a href=\"https://ask.fedoraproject.org/\""
+">közösségi fórum</a></b> oldalunkat, ahol támogatást és segítséget talál a "
+"gyakran ismételt kérdésekkel kapcsolatban."
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Our Sponsors"
+msgstr "Támogatóink"
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Thank you to our sponsors, supporting this event is one of the ways that "
+"they contribute to open source."
+msgstr ""
+"Köszönjük szponzorainknak, hogy az esemény támogatásával hozzájárulnak a "
+"nyílt forráskódhoz."
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Ename
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/Red_Hat_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Edescription
+msgid "platinium"
+msgstr "Platina"
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Ename
+msgid "Lenovo"
+msgstr "Lenovo"
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/Lenovo_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[6]->content->[1]->description"
+msgid "gold"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Ename
+msgid "AlmaLinux"
+msgstr "AlmaLinux"
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/AlmaLinux_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[6]->content->[2]->description"
+msgid "gold"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Ename
+msgid "openSuse"
+msgstr "OpenSuse"
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/opensuse_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[6]->content->[3]->description"
+msgid "silver"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Ename
+msgid "some Other Sponsor"
+msgstr "egyéb további Támogatók"
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Eimage
+#, read-only
+msgctxt "sections->[6]->content->[4]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Edescription
+msgctxt "sections->[6]->content->[4]->description"
+msgid "silver"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Ename
+msgid "another Cool Sponsor"
+msgstr "további szuper Támogató"
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Eimage
+#, read-only
+msgctxt "sections->[6]->content->[5]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Edescription
+msgctxt "sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Ename
+msgid "GitLab"
+msgstr "GitLab"
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/Gitlab_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Edescription
+msgctxt "sections->[6]->content->[6]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Ename
+msgid "datto"
+msgstr "datto"
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Eimage
+#, read-only
+#, fuzzy
+msgid "public/assets/images/sponsors/datto_logo.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Edescription
+msgctxt "sections->[6]->content->[7]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Ename
+msgid "daskeyboard"
+msgstr "daskeyboard"
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/daskeyboard_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Edescription
+msgctxt "sections->[6]->content->[8]->description"
+msgid "bronze"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Ename
+msgid "Gnome"
+msgstr "Gnome"
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/Gnome_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Edescription
+msgctxt "sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Ename
+msgid "TuxDigital"
+msgstr "TuxDigital"
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/TuxDigital_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Edescription
+msgctxt "sections->[6]->content->[10]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Ename
+msgid "KDE"
+msgstr "KDE"
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Eimage
+#, read-only
+#, fuzzy
+msgid "public/assets/images/sponsors/KDE_logo.png"
+msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Edescription
+msgctxt "sections->[6]->content->[11]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Ename
+msgid "opensource.com"
+msgstr "Opensource.com"
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Eimage
+#, read-only
+msgid "public/assets/images/sponsors/opensource.com_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Edescription
+msgctxt "sections->[6]->content->[12]->description"
+msgid "media"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Ename
+msgid "none"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Edescription
+msgid "placeholder"
+msgstr "placeholder"
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Benefits of Sponsoring Flock"
+msgstr "A Flock szponzorálásának előnyei"
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Brand Exposure"
+msgstr "Márka expozíció"
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Sponsors are advertised in several places at Flock. We also post about "
+"sponsors on social media. Your brand will be distributed globally in our "
+"swag bag."
+msgstr ""
+"A Flockban több helyen is hirdetnek szponzorokat. A szponzorokról a "
+"közösségi oldalakon is posztolunk. Márkáját világszerte terjesztjük "
+"szóróanyagaink közt."
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Spotlight"
+msgstr "Reflektorfény"
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Our tierd sponsorship levels will all give you great visibility at Flock. "
+"Your booth will be showcased on the Expo page to maximize engagement."
+msgstr ""
+"Szponzori szintjeink nagyszerű láthatóságot biztosítanak a Flockban. A "
+"standja az Expo oldalán lesz látható, hogy maximalizálja az elköteleződést."
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Networking"
+msgstr "Hálózat építés"
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Flock attracts hundreds of amazing open source community members who work on "
+"and use software daily. Engage with our vibrant community in sessions and "
+"social hours."
+msgstr ""
+"A Flock több száz csodálatos nyílt forráskódú közösségi tagot vonz, akik "
+"naponta dolgoznak és használnak szoftvereket. Vegyen részt élénk "
+"közösségünkkel foglalkozásokon és társasági órákon."
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Etitle
+msgid "Booths"
+msgstr "Kiállítóhelyek"
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"All sponsor booths include a video, customizable experience, chat, and "
+"social media engagement. Click below to learn more."
+msgstr ""
+"Minden szponzori stand tartalmaz egy videót, testreszabható élményt, chat-et "
+"és közösségi média elkötelezettséget. További információért kattintson az "
+"alábbiakra."
+
+#, read-only
+#, fuzzy
+#~ msgid "public/assets/images/flock_nest_logo_mini.png"
+#~ msgstr "public/assets/images/flock_logo_barcelona.png"
+
+#~ msgid "Flock To Fedora"
+#~ msgstr "Flock to Fedora"
+
+#~ msgid ""
+#~ "Flock to Fedora is the annual contributor conference for the Fedora Project. "
+#~ "It has a virtual version called Nest."
+#~ msgstr ""
+#~ "A Flock to Fedora a Fedora Project éves közreműködői konferenciája. Van egy "
+#~ "virtuális verziója, amit Nest-nek hívunk."
+
+#~ msgid "August 5 - 7, 2023"
+#~ msgstr "2023. Augusztus 5-7"
+
+#~ msgctxt "hybridSection->header->subtitle1"
+#~ msgid ""
+#~ "The location of Flock changes each year between Europe and North America. In "
+#~ "2020 Fedorans went virtual with Nest, now we offer a hybrid version of Flock "
+#~ "to make it more accessible to our community."
+#~ msgstr ""
+#~ "Flock elhelyezkedése évente változik Európa és Észak-Amerika között. 2020-"
+#~ "ban a Fedora virtuális lett a Nesttel, most pedig a Flock hibrid változatát "
+#~ "kínáljuk, hogy könnyebben elérhető legyen közösségünk számára."
+
+#~ msgctxt "hybridSection->cards->[0]->title"
+#~ "hybridSection->cards->[0]->title"
+#~ msgid "July 1 - 31 2023"
+#~ msgstr "2023. Július 1-31"
+
+#~ msgctxt "hybridSection->cards->[0]->description"
+#~ msgid ""
+#~ "The location of Flock changes each year between Europe and North America. In "
+#~ "2020 Fedorans went virtual with Nest, now we offer a hybrid version of Flock "
+#~ "to make it more accessible to our community."
+#~ msgstr ""
+#~ "Flock elhelyezkedése évente változik Európa és Észak-Amerika között. 2020-"
+#~ "ban a Fedora virtuális lett a Nesttel, most pedig a Flock hibrid változatát "
+#~ "kínáljuk, hogy könnyebben elérhető legyen közösségünk számára."
+
+#~ msgctxt "hybridSection->cards->[0]->link->text"
+#~ "hybridSection->cards->[0]->link->text"
+#~ msgid "Learn More"
+#~ msgstr "Megtekintés"
+
+#~ msgctxt "hybridSection->cards->[1]->title"
+#~ msgid "July 1 - 31 2023"
+#~ msgstr "2023. Július 1-31"
+
+#~ msgctxt "hybridSection->cards->[1]->link->text"
+#~ msgid "Learn More"
+#~ msgstr "Megtekintés"
+
+#~ msgctxt "hybridSection->hatchSubsection->card->title"
+#~ msgid "July 1 - 31 2023"
+#~ msgstr "2023. Július 1-31"
+
+#~ msgid ""
+#~ "In the month leading up to Flock, Fedorans are encouraged to organize local "
+#~ "community events. Set the format and topic of your choice. The Fedora "
+#~ "Council will help support your initiative with financial and organizating "
+#~ "aid. Click below to set up a Hatch! Deadline for submissions is May 29."
+#~ msgstr ""
+#~ "A Flockot megelőző hónapban a Fedora közösség tagjait arra ösztönzik, hogy "
+#~ "szervezzenek helyi közösségi eseményeket. Állítsa be a választott formátumot "
+#~ "és témát. A Fedora Tanács pénzügyi és szervezési támogatással segíti az Ön "
+#~ "kezdeményezését. Kattints az alábbi linkre a Hatch! határidő beállításához. "
+#~ "A beküldési határidő: Május 29."
+
+#~ msgctxt "hybridSection->hatchSubsection->card->link->text"
+#~ msgid "Learn More"
+#~ msgstr "Megtekintés"
+
+#~ msgctxt "sponsorSection->sponsors->[1]->level"
+#~ msgid "gold"
+#~ msgstr "Arany"
+
+#~ msgctxt "sponsorSection->sponsors->[2]->level"
+#~ msgid "gold"
+#~ msgstr "Arany"
+
+#~ msgctxt "sponsorSection->sponsors->[3]->level"
+#~ msgid "silver"
+#~ msgstr "Ezüst"
+
+#~ msgctxt "sponsorSection->sponsors->[4]->level"
+#~ msgid "silver"
+#~ msgstr "Ezüst"
+
+#~ msgctxt "sponsorSection->sponsors->[5]->level"
+#~ "sponsorSection->sponsors->[5]->level"
+#~ "sponsorSection->sponsors->[5]->level"
+#~ msgid "bronze"
+#~ msgstr "Bronz"
+
+#~ msgctxt "sponsorSection->sponsors->[6]->level"
+#~ msgid "bronze"
+#~ msgstr "Bronz"
+
+#~ msgctxt "sponsorSection->sponsors->[7]->level"
+#~ msgid "bronze"
+#~ msgstr "Bronz"
+
+#~ msgctxt "sponsorSection->sponsors->[8]->level"
+#~ msgid "bronze"
+#~ msgstr "Bronz"
+
+#~ msgctxt "sponsorSection->sponsors->[9]->level"
+#~ "sponsorSection->sponsors->[9]->level"
+#~ "sponsorSection->sponsors->[9]->level"
+#~ msgid "media"
+#~ msgstr "Média"
+
+#~ msgctxt "sponsorSection->sponsors->[10]->level"
+#~ msgid "media"
+#~ msgstr "Média"
+
+#~ msgctxt "sponsorSection->sponsors->[11]->level"
+#~ msgid "media"
+#~ msgstr "Média"
+
+#~ msgctxt "sponsorSection->sponsors->[12]->level"
+#~ msgid "media"
+#~ msgstr "Média"

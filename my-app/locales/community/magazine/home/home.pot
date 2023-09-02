@@ -1,0 +1,33 @@
+#. extracted from content/community/magazine/home.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-20 15:46-1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr ""
+
+#: title
+msgid "Fedora Magazine"
+msgstr ""
+
+#: description
+msgid ""
+"Fedora Magazine is a website that hosts promotional articles and short "
+"guides contributed from the community about free/libre and open-source "
+"software that runs on or works with the Fedora Linux operating system.\n"
+msgstr ""
+
+#: api
+msgid "https://fedoramagazine.org/wp-json/wp/v2"
+msgstr ""

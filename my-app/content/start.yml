@@ -1,0 +1,39 @@
+path: start
+title: Fedora Start
+sections:
+  - sectionTitle: User Documentation
+    content:
+      - link:
+          url: https://docs.fedoraproject.org/en-US/workstation-docs/
+          text: Fedora Workstation
+      - link:
+          text: Fedora Server
+          url: https://docs.fedoraproject.org/en-US/fedora-server/
+      - link:
+          url: https://fedoracloud.readthedocs.io/en/latest/
+          text: Fedora Cloud
+      - link:
+          text: Fedora CoreOS
+          url: https://docs.fedoraproject.org/en-US/fedora-coreos/
+      - link:
+          text: Fedora IoT
+          url: https://docs.fedoraproject.org/en-US/iot/
+      - link:
+          text: Immutable Desktops
+          url: https://docs.fedoraproject.org/en-US/emerging/
+  - sectionTitle: Communication channels
+    content:
+      - title: Fedora Discussion
+        description: Fedora's Discourse-based discussion forum is a great place to
+          connect with other Fedora Project users and contributors.
+        image: public/assets/images/fedora-discussion-plus-icon.png
+        link:
+          text: Visit Now
+          url: https://discussion.fedoraproject.org/
+      - title: Fedora Chat
+        description: Fedora's Matrix-powered chat server is a great place to chat in
+          real time with other Fedora Project users and contributors.
+        image: public/assets/images/fedora-chat-plus-element.png
+        link:
+          text: Chat Now
+          url: https://chat.fedoraproject.org/#/welcome

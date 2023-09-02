@@ -1,0 +1,76 @@
+path: index
+title: The solid foundation for IoT ecosystems
+description: A lightweight yet powerful and scalable OS
+image:
+  src: https://stg.fedoraproject.org/assets/images/iot.png
+  alt: Fedora IoT Image
+  width: 400
+  height: 300
+header_images:
+  - image: public/assets/images/iot.png
+  - image: public/assets/images/iot_background.jpg
+links:
+  - text: Download Now
+    url: /iot/download/
+  - text: Documentation
+    url: https://docs.fedoraproject.org/en-US/iot/
+sections:
+  - sectionTitle: Why Fedora Iot?
+    images: ""
+    content:
+      - title: Leading Technology
+        description:
+          Built on the latest technologies and enhancements that open-source
+          has to offer.
+      - title: Container Based
+        description:
+          Fedora IoT is a container-based host that runs on your hardware,
+          with a focus on edge device deployment.
+      - title: Open-source Ecosystem
+        description:
+          Everything is supported by a totally free and open-source Fedora
+          ecosystem.
+      - title: Flexible
+        description: There are a wide variety of supported installation methods.
+      - title: Edge Support
+        description:
+          Use Fedora IoT to support your workloads that are computed outside
+          of the traditional datacenter.
+      - title: Makes the most of your device
+        description:
+          Fedora works with hardware vendors to make excellent hardware
+          support across a range of devices.
+  - sectionTitle: Platforms Tested against IoT
+    images: ""
+    content:
+      - title: ""
+        image: public/assets/images/iot-platform1.png
+      - title: ""
+        image: public/assets/images/iot-platform2.png
+      - title: ""
+        image: public/assets/images/iot-platform3.png
+      - title: ""
+        image: public/assets/images/iot-platform4.png
+  - sectionTitle: Built By You
+    images: public/assets/images/flock-budapest-2019-bg.jpg
+    sectionDescription: >-
+      The Fedora Project envisions a world where everyone benefits from free and
+      open source software built by inclusive, welcoming, and open-minded
+      communities.
+
+
+      Fedora IoT is created by a team in the Fedora community called the **IoT Working Group**. It is comprised of official members who have decision making powers, as well as other contributors. Learn more on the [IoT Working Group website](https://docs.fedoraproject.org/en-US/iot-wg/).
+    content:
+      - title: Report & discuss issues
+        description:
+          You can view, file, and discuss Fedora IoT issues on the [Fedora
+          IoT issue tracker](https://pagure.io/fedora-iot/issues)
+      - title: Chat with the team
+        description: Visit \#fedora-iot on irc.libera.chat or visit
+          [chat​.​fedoraproject​.​org​/​#​/​room​/​#​iot​:​fedoraproject​.​org](https://chat.fedoraproject.org/#/room/#iot:fedoraproject.org).
+      - title: Join the mailing list
+        description:
+          Sign up at [iot@lists.fedoraproject.org](https://lists.fedoraproject.org/admin/lists/iot.lists.fedoraproject.org/) to receive meeting
+          agendas and minutes [view archives](https://lists.fedoraproject.org/archives/list/iot@lists.fedoraproject.org/)
+      - title: Attend a meeting
+        description: Open to all current and potential contributors **every Wednesday at 16:00 UTC** on [chat​.​fedoraproject​.​org​/​#​/​room​/​#​meeting​:​fedoraproject​.​org](https://chat.fedoraproject.org/#/room/#meeting:fedoraproject.org).

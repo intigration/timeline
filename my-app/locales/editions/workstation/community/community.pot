@@ -1,0 +1,370 @@
+#. extracted from content/editions/workstation/community.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "community"
+msgstr ""
+
+#: title
+msgid "Community"
+msgstr ""
+
+#: description
+msgid ""
+"Join a community of users and contributors focused on Fedora Workstation."
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Description"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionDescription
+msgid ""
+"Fedora Workstation is created by a team in the Fedora Project community "
+"called the **Workstation Working Group**. It is comprised of official "
+"members who have decision-making powers, as well as other contributors. "
+"Learn more about this group and how you can get involved on the [Workstation "
+"Working Group website](https://docs.fedoraproject.org/en-US/"
+"workstation-working-group/)."
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Communication channels"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Forum"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"The **Fedora Workstation** tag on Fedora's Discourse-based discussion forum "
+"is a great place to connect with other Fedora Workstation users and "
+"contributors."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/fedora-discussion-plus-icon.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[0]->link->text"
+"sections->[1]->content->[0]->link->text"
+msgid "Visit Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://discussion.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chat"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"You can chat with the Fedora Workstation Working Group via either Matrix or "
+"IRC: **#workstation:fedoraproject.org** on Matrix and **#fedora-workstation**"
+" on irc.libera.chat."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/fedora-chat-plus-element.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Chat Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://chat.fedoraproject.org/#/welcome"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Mailing List"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"The Fedora Workstation Working Group sends meeting agendas and minutes and "
+"has discussions on their mailing list at **desktop@lists.fedoraproject.org**."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/hyperkitty-plus-logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[2]->link->text"
+msgid "Visit Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgid ""
+"https://lists.fedorahosted.org/archives/list/hyperkitty-devel@lists."
+"fedorahosted.org/"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Ways to get involved"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Report & discuss issues"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"You can view, file, and discuss Fedora Workstation issues on [the Fedora "
+"Workstation issue tracker](https://fedoraproject.org/wiki/Bugzilla)."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Attend a meeting"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Workstation Working Group meetings are open to all current and potential "
+"contributors on **Tuesdays, 9:30 AM US Eastern** on "
+"[Bluejeans](https://bluejeans.com/395383051)."
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Events"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionDescription
+msgid ""
+"Fedora has events throughout the year that you can attend, typically in-"
+"person or virtually, to learn more about Fedora Workstation as well as meet "
+"other users and contributors."
+msgstr ""
+
+#: sections-%3E[3]-%3Eimages
+msgctxt "sections->[3]->images"
+msgid ""
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgid "The Annual Fedora Project Conference"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock is the Fedora Project's annual multi-day **in-person** conference "
+"focused on our contributors. It typically alternates between European and "
+"North American locations. The conference provides a venue for face-to-face "
+"meetings and conversations. It is also a place to celebrate our community. \n"
+"\n"
+"**Flock typically takes place every August.**"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock-two-colour-gradient-navy.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid ""
+"In-person Flock events are currently on-hold due to the ongoing COVID "
+"pandemic."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgid "Colúr"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid "Colúr (cuh-loohr) is our Flock mascot."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/colur-sign.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Etitle
+msgid "Recap"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/presentation-thumbnail.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Edescription
+msgid "Check out the recap from our latest event, the Fedora 36 release party!"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[3]-%3Etitle
+msgid "The Virtual Fedora Project Conference"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Nest is our at-home, virtual Flock that has been running since the global "
+"outbreak of COVID-19.  It takes place over 3 days and includes talks, "
+"workshops, hackfests, and social events."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/nest-dual-colour-navy.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[4]-%3Etitle
+msgid "Worldwide & Local Fedora Meetups"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Hatch is a series of small-scale, in-person global meetups organized in the "
+"weeks preceding the Flock / Nest conference enabling Fedorans local to each "
+"other to meet."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[4]-%3Eimage
+msgid "public/assets/images/hatch.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[5]-%3Etitle
+msgid "Fedora Release Parties"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Twice a year, in coordination with the release of each new version of Fedora "
+"Linux, we hold global virtual release parties. These are typically a 1.5 day "
+"\"mini-conference\" with talks and social events. "
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[6]-%3Etitle
+msgid "We want you to be part of Nest 2022"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[6]-%3Edescription
+msgid ""
+"We have a **currently-open call for proposals and sponsors** for this year's "
+"Nest virtual Fedora annual conference! We have a rolling deadline process "
+"with acceptance dates of **July 1st and July 8th, 2022**.\n"
+"\n"
+"[Read more about the call for proposals and propose your "
+"own](https://communityblog.fedoraproject.org/nest-2022-cfp/)!."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[6]-%3Eimage
+msgid "public/assets/images/colur-point.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[6]-%3Elink-%3Etext
+msgid "Make a proposal"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[6]-%3Elink-%3Eurl
+msgid "#   "
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[7]-%3Etitle
+msgctxt "sections->[3]->content->[7]->title"
+msgid "Become a Fedora contributor"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[7]-%3Edescription
+msgid ""
+"There's a Fedora release party every six months and a Flock event every "
+"year. Make a plan to attend and even propose a talk!"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[7]-%3Eimage
+msgid "public/assets/images/door-open-solid.png"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Fedora Publications"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fedora Community Blog"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"The Community Blog provides a single source for members of the community to "
+"share important news, updates, and information about Fedora with others in "
+"the Project community."
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/community-blog.png"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgctxt "sections->[4]->content->[0]->link->text"
+msgid "Visit Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://communityblog.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Etitle
+msgid "Fedora Magazine"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Fedora Magazine is a website that hosts promotional articles and short "
+"guides contributed from the community about free/libre and open-source "
+"software that runs on or works with the Fedora Linux operating system."
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/fedora-magazine.png"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Visit now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://fedoramagazine.org/"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Etitle
+msgctxt "sections->[4]->content->[2]->title"
+msgid "Become a Fedora contributor"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Both the Fedora Community Blog and Fedora Magazine are always [looking for "
+"article proposals, writers, and editors](https://docs.fedoraproject.org/"
+"en-US/fedora-magazine/contributing/). "
+msgstr ""

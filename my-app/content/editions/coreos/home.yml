@@ -1,0 +1,100 @@
+path: index
+title: The container optimized OS
+description: A minimal OS with automatic updates. Scalable and secure.
+image:
+  src: https://stg.fedoraproject.org/assets/images/coreos-header.jpg
+  alt: Fedora CoreOS Image
+  width: 400
+  height: 300
+header_images:
+  - image: public/assets/images/hack.png
+  - image: public/assets/images/coreos-header.jpg
+links:
+  - text: Download Now
+    url: /coreos/download/
+  - text: Documentation
+    url: https://docs.fedoraproject.org/en-US/fedora-coreos/
+  - text: Release Notes
+    url: /coreos/release-notes/
+sections:
+  - sectionTitle: Why Fedora CoreOS?
+    images: ""
+    content:
+      - title: Container-based
+        description: The optimal container host will be offered in order to run
+          containerized applications.
+      - title: Secure
+        description:
+          Our goal is to provide the best container host to run workloads
+          securely and at scale.
+      - title: Open-source Ecosystem
+        description:
+          Everything is supported by a totally free and open-source Fedora
+          ecosystem.
+      - title: Open to everyone
+        description:
+          CoreOS is currently available on multiple platforms, with more
+          coming soon.
+      - title: Minimal
+        description: The Fedora CoreOS image is kept minimal by design.
+      - title: Flexible
+        description: There are a wide variety of supported installation methods.
+  - sectionTitle: Platforms Tested against CoreOS
+    images: ""
+    content:
+      - images:
+          light: public/assets/images/alibabacloud-ar21.svg
+          dark: public/assets/images/alibabacloud-white.png
+      - images:
+          light: public/assets/images/aws.png
+          dark: public/assets/images/aws-white.png
+      - image: public/assets/images/do_logo_horizontal_blue.svg
+      - images:
+          light: public/assets/images/qemu-logo.png
+          dark: public/assets/images/qemu-white.svg
+      - images:
+          light: public/assets/images/exoscale-ar21.svg
+          dark: public/assets/images/exoscale-white.svg
+      - image: public/assets/images/google_cloud-ar21.svg
+      - images:
+          light: public/assets/images/ibm_cloud_logo-2048x793.png
+          dark: public/assets/images/ibm_cloud_logo-white.png
+      - image: public/assets/images/kubevirt-horizontal-color.png
+      - image: public/assets/images/microsoftazure_2021.svg
+      - image: public/assets/images/nutanix_logo_blue.png
+      - images:
+          light: public/assets/images/openstack-logo-horizontal.svg
+          dark: public/assets/images/openstack-logo-white.svg
+      - image: public/assets/images/virtualbox_logo.png
+      - images:
+          light: public/assets/images/logo__on-white.svg
+          dark: public/assets/images/logo__on-dark.svg
+      - image: public/assets/images/vmware.svg.png
+  - sectionTitle: Built By You
+    images: public/assets/images/flock-budapest-2019-bg.jpg
+    sectionDescription: >-
+      The Fedora Project envisions a world where everyone benefits from free and
+      open source software built by inclusive, welcoming, and open-minded
+      communities.
+
+
+      Fedora CoreOS is created by a team in the Fedora community called the CoreOS Working Group. It is comprised of official members who have decision making powers, as well as other contributors. Learn more on the CoreOS Working Group website.
+    content:
+      - title: Report & discuss issues
+        description:
+          You can view, file, and discuss Fedore CoreOS issues on the Fedora
+          CoreOS issue tracker.
+      - title: Chat with the team
+        description: Visit \#fedora-coreos on irc.libera.chat.
+      - title: Join the mailing list
+        description:
+          Sign up at [coreos-status@lists.fedoraproject.org](https://lists.fedoraproject.org/admin/lists/coreos-status.lists.fedoraproject.org/) to receive meeting
+          agendas and minutes.
+      - title: Attend a meeting
+        description:
+          Open to all current and potential contributors on Wednesday 11 AM
+          Eastern on [fedora-meeting@irc.libera.chat](https://chat.fedoraproject.org/#/room/#meeting:fedoraproject.org).
+  - content:
+      - image: public/assets/images/backdrop-blue-circle.png
+      - image: public/assets/images/core-os-logo.png
+    sectionTitle: Try it now

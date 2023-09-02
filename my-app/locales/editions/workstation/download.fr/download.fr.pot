@@ -1,0 +1,356 @@
+#. extracted from content/editions/workstation/download.fr.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "Téléchargement"
+msgstr ""
+
+#: title
+msgid "Download Fedora Workstation 37"
+msgstr ""
+
+#: description
+msgid ""
+"Nous sommes ravis que vous ayez décidé d’essayer Fedora Workstation. Vous "
+"allez l’adorer, nous en sommes convaincus."
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "release"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "RELEASE DATE"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "April 19, 2022"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "SUPPORTED THROUGH"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "May 17, 2023"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Notes de version"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgid "https://fedorapeople.org/groups/schedule/f-37/f-37-all-tasks.html"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Guide d’installation"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Elink-%3Eurl
+msgid "https://docs.fedoraproject.org/en-US/fedora/latest/install-guide/"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Support de la communauté"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Elink-%3Eurl
+msgctxt "sections->[0]->content->[4]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Sur Windows ou MacOS ?"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionDescription
+msgid ""
+"Commencez en utilisant Fedora Media Writer, qui permet facilement d’essayer "
+"Fedora."
+msgstr ""
+
+#: sections-%3E[1]-%3Eimages
+msgid "public/assets/images/media-writer-icon.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Windows"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[0]->link->text"
+msgid "Download Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-win32-latest.exe"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Mac"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[1]->link->text"
+msgid "Download Now"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Sur Linux ou vous voulez un fichier ISO ?"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"Not sure how to use these files? [Learn here](https://docs.fedoraproject.org/"
+"en-US/quick-docs/creating-and-using-a-live-installation-image/)"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Security, Installs"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgid "Nous prenons au sérieux la sécurité"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Once you have downloaded an image, be sure to verify it for both security "
+"and integrity."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://getfedora.org/security/"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Verify Your Download"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgid "Mais attendez ! Il y a plus."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Besoin de quelque chose d’un peu différent ? [Allez voir les autres "
+"téléchargements de Fedora Workstation](https://alt.fedoraproject.org/), avec "
+"des architectures secondaires et des images d’installation réseau."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://download.fedoraproject.org"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Fedora 37 64-bit network install"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Laptops pre-loaded with Fedora"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"We've partnered with companies like Lenovo to bring you laptops pre-loaded "
+"with Fedora that include fully-supported hardware components. "
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/lenovo-laptop.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://fedoramagazine.org/lenovo-fedora-now-available/"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Explore Fedora Laptops"
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "En savoir plus sur Fedora Media Writer"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+"flash drive, and Fedora Media Writer.\n"
+"Once Fedora Media Writer is installed, it will set up your flash drive to "
+"run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+"from your flash drive and try it out right away without making any permanent "
+"changes to your computer. Once you are hooked, installing it to your hard "
+"drive is a matter of clicking a few buttons*."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+" * Fedora nécessite un minimum de 20GB de disque et 2GB de RAM pour s’"
+"installer et s’exécuter correctement. Le double de ces valeurs est "
+"recommandé. "
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/monitor-2.png"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Become a Fedora contributor"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Once you've got Fedora installed and running, why not join and contribute to "
+"one of our online communities?"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fedora Discussion"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/fedora-discussion-plus-icon.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://discussion.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Etitle
+msgid "Fedora Chat"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://matrix.to/#/#matrix-meta-chat:fedoraproject.org"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/fedora-chat-plus-element.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Etitle
+msgid "Ask Fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/ask-fedora.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgctxt "sections->[6]->content->[2]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Community-Maintained Spaces"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Reddit"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://www.reddit.com/r/Fedora/"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/reddit-brands-3.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Discord"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://discord.com/invite/fedora"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/discord-brands-2.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Telegram"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/telegram-brands.png"
+msgstr ""
+
+#, read-only
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgid "https://fedoraproject.org/wiki/Telegram"
+msgstr ""
+
+#: sections-%3E[8]-%3EsectionTitle
+msgid ""
+"En cliquant et en téléchargeant Fedora, vous acceptez de respecter les "
+"modalités suivantes."
+msgstr ""
+
+#: sections-%3E[8]-%3EsectionDescription
+msgid ""
+"En téléchargeant le logiciel Fedora, vous reconnaissez avoir compris tout ce "
+"qui suit : le logiciel Fedora et les informations techniques peuvent être "
+"assujettis à l’U.S. Export Administration Regulations (EAR) et d’autres lois "
+"américaines et étrangères et ne peuvent pas être exportés, réexportés ou "
+"transférés (a) dans les pays listés dans le groupe de pays E:1 dans le "
+"supplément n° 1 à 740 de l’EAR (actuellement, Cuba, l’Iran, la Corée du "
+"Nord, le Soudan et la Syrie) ; (b) dans les destinations interdites ou à un "
+"utilisateur final qui s’est vu interdit de participer aux transactions d’"
+"export américaines par une agence fédérale du gouvernement des États-Unis ; "
+"ou (c) pour un usage en rapport avec la conception, la fabrication ou la "
+"production d’armes nucléaires, chimiques ou biologiques, de systèmes de "
+"missiles, d’engins de lancement spatial, de missiles soniques, ou de "
+"systèmes de véhicules aériens sans pilotes. Vous ne pourrez pas télécharger "
+"le logiciel Fedora ou ses informations techniques si vous vous situez dans "
+"un de ces pays ou êtes sujets à ces restrictions. Vous ne pourrez pas "
+"fournir le logiciel Fedora ou ses informations techniques à des individus ou "
+"des entités qui se situent dans ces pays ou sujettes à ces restrictions. "
+"Vous êtes aussi responsable du respect des lois étrangères qui s’appliquent "
+"à l’import, l’export et l’utilisation du logiciel Fedora et ses informations "
+"techniques."
+msgstr ""

@@ -1,0 +1,111 @@
+#################
+# Spins Pages #
+#################
+- name: "spins" # Used in routes, e.g., /admin/collections/blog
+  label: "Spin Pages" # Used in the UI
+  label_singular: "Spin Page"
+  folder: "/content/spins" # The path to the folder where the documents are stored
+  media_folder: "/public/assets/images/spins"
+  public_folder: "public/assets/images/spins"
+  format: "yml"
+  slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  identifier_field: path
+  create: true
+  editor:
+    preview: true
+  nested:
+    depth: 5
+  fields: # The fields for each document, usually in front matter
+    - label: "Header Title"
+      name: "title"
+      widget: "string"
+      hint: "Main headline and h1 tag on the web page"
+    - label: "Header Description"
+      name: "description"
+      widget: "markdown"
+      hint: "Page header description text"
+      required: false
+    - label: "Header Links & Buttons"
+      label_singular: "Link"
+      name: "links"
+      widget: "list"
+      summary: "{{fields.text}}"
+      hint: "Add buttons or links to the page header"
+      collapsed: true
+      minimized_collapsed: true
+      fields:
+        - label: "Link Text"
+          name: "text"
+          widget: "string"
+        - label: "Link URL"
+          name: "url"
+          widget: "string"
+          required: false
+    - label: "Screenshot Section"
+      name: "screenshot_image"
+      widget: "object"
+      collapsed: true
+      fields:
+        - label: "Screenshot"
+          name: "image"
+          widget: "image"
+          required: false
+        - label: "Alt Text"
+          name: "alt_text"
+          widget: "string"
+          required: false
+    - label: "Page Sections"
+      label_singular: "Page Section"
+      name: "sections"
+      hint: "Main sections of page content, generally grouped by h2 headings"
+      summary: "{{fields.sectionTitle}}"
+      widget: "list"
+      collapsed: true
+      fields:
+        - label: "Section Title"
+          name: "sectionTitle"
+          widget: "string"
+          hint: "A headline title for a section of content (probably an h2)"
+        - label: "Section Content"
+          name: "content"
+          widget: "list"
+          hint: "Add sub sections, cards, and lists of content here."
+          collapsed: false
+          fields:
+            - label: "Title"
+              name: "title"
+              widget: "string"
+              required: false
+            - label: "description"
+              name: "description"
+              widget: "markdown"
+              required: false
+            - label: "Image"
+              name: "image"
+              widget: "image"
+              required: false
+    - label: "Download Section"
+      name: "downloadSection"
+      widget: "object"
+      collapsed: true
+      fields:
+        - label: "Download Description"
+          name: "description"
+          hint: "Download page description text"
+          required: true
+        - label: "Links"
+          label_singular: "Link"
+          name: "links"
+          widget: "list"
+          summary: "Documentation & other links"
+          hint: "Add links to the download page header"
+          collapsed: true
+          minimized_collapsed: true
+          fields:
+            - label: "Link Text"
+              name: "text"
+              widget: "string"
+            - label: "Link URL"
+              name: "url"
+              widget: "string"
+              required: false

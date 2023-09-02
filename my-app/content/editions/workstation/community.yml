@@ -1,0 +1,140 @@
+path: community
+title: Community
+description: Join a community of users and contributors focused on Fedora Workstation.
+sections:
+  - sectionTitle: Description
+    sectionDescription: Fedora Workstation is created by a team in the Fedora
+      Project community called the **Workstation Working Group**. It is
+      comprised of official members who have decision-making powers, as well as
+      other contributors. Learn more about this group and how you can get
+      involved on the [Workstation Working Group
+      website](https://docs.fedoraproject.org/en-US/workstation-working-group/).
+    content: []
+  - sectionTitle: Communication channels
+    content:
+      - title: Forum
+        description: The **Fedora Workstation** tag on Fedora's Discourse-based
+          discussion forum is a great place to connect with other Fedora
+          Workstation users and contributors.
+        image: public/assets/images/fedora-discussion-plus-icon.png
+        link:
+          text: Visit Now
+          url: https://discussion.fedoraproject.org/tag/workstation
+      - title: Chat
+        description:
+          "You can chat with the Fedora Workstation Working Group via either
+          Matrix or IRC: **#workstation:fedoraproject.org** on Matrix or
+          #fedora-workstation on irc.libera.chat."
+        image: public/assets/images/fedora-chat-plus-element.png
+        link:
+          text: Chat Now
+          url: https://chat.fedoraproject.org/#/welcome
+      - title: Mailing List
+        description:
+          The Fedora Workstation Working Group sends meeting agendas and
+          minutes and has discussions on their mailing list at
+          **desktop@lists.fedoraproject.org**.
+        image: public/assets/images/hyperkitty-plus-logo.png
+        link:
+          text: Visit Now
+          url: https://lists.fedorahosted.org/archives/list/hyperkitty-devel@lists.fedorahosted.org/
+  - sectionTitle: Ways to get involved
+    content:
+      - title: Report & discuss issues
+        description:
+          You can view, file, and discuss Fedora Workstation issues on [the
+          Fedora Workstation issue
+          tracker](https://fedoraproject.org/wiki/Bugzilla).
+      - title: Attend a meeting
+        description:
+          Workstation Working Group meetings are open to all current and
+          potential contributors on **Tuesdays, 9:30 AM US Eastern** on
+          [bluejeans.com/395383051](https://bluejeans.com/395383051).
+  - sectionTitle: Events
+    sectionDescription:
+      Fedora has events throughout the year that you can attend,
+      typically in-person or virtually, to learn more about Fedora Workstation
+      as well as meet other users and contributors.
+    images: ""
+    content:
+      - title: The Annual Fedora Project Conference
+        description: >-
+          Flock is the Fedora Project's annual multi-day **in-person**
+          conference focused on our contributors. It typically alternates
+          between European and North American locations. The conference provides
+          a venue for face-to-face meetings and conversations. It is also a
+          place to celebrate our community. 
+
+
+          **Flock typically takes place every August.**
+        image: public/assets/images/flock-two-colour-gradient-navy.png
+        link:
+          text:
+            In-person Flock events are currently on-hold due to the ongoing COVID
+            pandemic.
+      - title: Colúr
+        description: Colúr (cuh-loohr) is our Flock mascot.
+        image: public/assets/images/colur-sign.png
+      - title: Recap
+        image: public/assets/images/presentation-thumbnail.png
+        description: Check out the recap from our latest event, the Fedora 36 release party!
+      - title: The Virtual Fedora Project Conference
+        description:
+          Nest is our at-home, virtual Flock that has been running since the
+          global outbreak of COVID-19.  It takes place over 3 days and includes
+          talks, workshops, hackfests, and social events.
+        image: public/assets/images/nest-dual-colour-navy.png
+      - title: Worldwide & Local Fedora Meetups
+        description: Hatch is a series of small-scale, in-person global meetups
+          organized in the weeks preceding the Flock / Nest conference enabling
+          Fedorans local to each other to meet.
+        image: public/assets/images/hatch.png
+      - title: Fedora Release Parties
+        description:
+          'Twice a year, in coordination with the release of each new version
+          of Fedora Linux, we hold global virtual release parties. These are
+          typically a 1.5 day "mini-conference" with talks and social events. '
+      - title: We want you to be part of Nest 2022
+        description: >-
+          We have a **currently-open call for proposals and sponsors** for this
+          year's Nest virtual Fedora annual conference! We have a rolling
+          deadline process with acceptance dates of **July 1st and July 8th,
+          2022**.
+
+          [Read more about the call for proposals and propose your own](https://communityblog.fedoraproject.org/nest-2022-cfp/)!.
+        image: public/assets/images/colur-point.png
+        link:
+          text: Make a proposal
+          url: "#   "
+      - title: Become a Fedora contributor
+        description:
+          There's a Fedora release party every six months and a Flock event
+          every year. Make a plan to attend and even propose a talk!
+        image: public/assets/images/door-open-solid.png
+  - sectionTitle: Fedora Publications
+    content:
+      - title: Fedora Community Blog
+        description:
+          The Community Blog provides a single source for members of the
+          community to share important news, updates, and information about
+          Fedora with others in the Project community.
+        image: public/assets/images/community-blog.png
+        link:
+          text: Visit Now
+          url: https://communityblog.fedoraproject.org/
+      - title: Fedora Magazine
+        description:
+          Fedora Magazine is a website that hosts promotional articles and
+          short guides contributed from the community about free/libre and
+          open-source software that runs on or works with the Fedora Linux
+          operating system.
+        image: public/assets/images/fedora-magazine.png
+        link:
+          text: Visit now
+          url: https://fedoramagazine.org/
+      - title: Become a Fedora contributor
+        description:
+          "Both the Fedora Community Blog and Fedora Magazine are always
+          [looking for article proposals, writers, and
+          editors](https://docs.fedoraproject.org/en-US/fedora-magazine/contrib\
+          uting/). "

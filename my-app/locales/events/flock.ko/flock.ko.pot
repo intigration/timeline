@@ -1,0 +1,579 @@
+#. extracted from content/events/flock.ko.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "flock"
+msgstr ""
+
+#: title
+msgid "페도라 프로젝트 회의"
+msgstr ""
+
+#: description
+msgid "2023년 8월 5일 - 7일\n"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_barcelona.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "등록"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgctxt "links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+"links->[0]->url"
+msgid "#"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "달력"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgctxt "links->[1]->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "사건"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_nest_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "가상"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "Hopin.io에서 주최한 3일간의 회의"
+msgstr ""
+
+#, read-only
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_hatch_logo.png"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "커뮤니티"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "전세계에서 주최되는 커뮤니티 이벤트"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "최신 개방형 원천에서 살펴보기"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "워크샵"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid "워크샵과 핵페스트는 능동적인 학습과 협업을 위한 기회를 제공합니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_workshops_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "프로젝트 보기"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[0]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "세션"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/flock_sessions_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid "페도라에서 수행한 작업과 미래를 위한 계획을 보여주는 발표."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "주제 보기"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[1]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "사교 행사"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/flock_socialevents_logo.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid "페도라인과 함께하는 모임과 사교를 위해 일상적이고, 편리하며 , 상호작용하는 "
+"행사."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgid "사회적 보기"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgctxt "sections->[1]->content->[2]->link->url"
+msgid "#"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "지난 모임 영상 보기"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "당신이 기대 할 수 있는 것"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+msgid "https://www.youtube.com/embed/LqBVHz76Wxc"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock은 페도라 리눅스의 공헌자를 위한 연례회의입니다. 이는 커뮤니티가 "
+"프로젝트에서 전략과 작업을 계획하고 보여주는 곳입니다. Flock과 Nest의 이전 "
+"해의 녹음을 확인하세요."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "페도라 유튜브 방문"
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://www.youtube.com/fedoraproject"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "복합 경험"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionDescription
+msgid ""
+"Flock의 위치는 유럽과 북미 사이에서 매년 변경됩니다. 2020년에는 페도라인은 "
+"Nest와 함께 가상으로 옮겼으며, 이제 우리는 우리의 커뮤니티에 보다 쉽게 접근 "
+"할 수 있도록 Flock의 복합 버전을 제공합니다."
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgctxt "sections->[3]->content->[0]->title"
+msgid "2023년 7월 1일~31일"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/flock_logo_mini.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock은 개인 경험에 몰입하도록 제공합니다. 세션에 참석하고, 다른 사람들과 "
+"협력하며, 새로운 사람을 탐색하고 만나보세요. 추가적으로, Flock은 자유롭게 "
+"참석 할 수 있습니다!"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgctxt "sections->[3]->content->[1]->title"
+msgid "2023년 7월 1일~31일"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/nest-dual-colour-navy.png.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"코로나-19 대유행 기간 동안, 우리는 Flock에 가상 대안으로 Nest를 "
+"생성하였습니다. 이제 이는 개인적으로 참석 할 수 없는 이들을 위한 가상 "
+"옵션으로 존재합니다. 모두를 위해 Flock에 접근 할 수 있도록 만듭니다!"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "자신의 이벤트를 주최하는 데 관심이 있나요?"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"2023년 7월 1일~31일 \n"
+"Flock으로 이끄는 달에, 페도라인는 지역 사회 행사를 조직하도록 권장됩니다. "
+"자신이 선택하는 형식과 주제를 설정합니다. 페도라 이사회는 재정과 조직 지원을 "
+"통해 자신의 발의를 지원하도록 돕습니다. 창구를 설정하려면 아래를 눌러주세요! "
+"제출 마감일은 5월 29일입니다."
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "우리는 페도라입니다"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Eimage
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[5]-%3EsectionDescription
+msgid ""
+"페도라 프로젝트는 누구에게나 포용적이고, 환영하며, 열린-마음인 커뮤니티에 "
+"의해 구축된 자유롭고 개방형 원천인 소프트웨에서 혜택을 받는 세상을 마음에 "
+"그립니다. 다음 채널을 통하는 Flock 중일 때 연결된 상태를 유지합니다."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Etitle
+msgid "토의"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/discussions_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Flock 알림에 대한 최신 정보를 유지하려면 우리의 메시징 보드 페도라 토론을 "
+"사용하세요. <b><a href=\"https://discussion.fedoraproject.org/\">여기에서 "
+"확인하세요</a></b>."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Etitle
+msgid "트위터"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/twitter_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"자신이 선호하는 소셜 미디어 기술환경에서 해쉬태그 <b>#NestWithFedora</b>를 "
+"사용하세요. 최신화를 위해 트위터에서 <b><a href=\"https://twitter.com/"
+"fedora\">@fedora</a></b>를 따릅니다."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Etitle
+msgid "매트릭스 & IRC"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/matrix_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"행사를 위한 우리의 주요 IRC 채널은 <b>#fedora-flock</b> (<b>libera."
+"chat</b>에서)입니다. <b><a href=\"https://web.libera.chat/?channels=#fedora-"
+"flock\">#fedora-flock</a></b>을 매트릭스 또는 IRC에서 대화로 참여하세요."
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Etitle
+msgid "페도라 질문(Ask)"
+msgstr ""
+
+#, read-only
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/ask_fedora_icon.png"
+msgstr ""
+
+#: sections-%3E[5]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"페도라가 처음인가요? 자주 질문하는 문제에 대해 지원과 도움이 필요한 경우 "
+"<b><a href=\"https://ask.fedoraproject.org/\">페도라 질문(ask)</a></b>을 "
+"확인하세요."
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "우리 후원사"
+msgstr ""
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid "우리의 후원사에게 감사를 전하고, 이 행사를 지원은 개방형 원천에 공헌하는 "
+"방식 중의 하나입니다."
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Ename
+msgid "Red Hat"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/sponsors/Red_Hat_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[0]-%3Edescription
+msgid "플래티넘"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Ename
+msgid "레노버"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/sponsors/Lenovo_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[6]->content->[1]->description"
+msgid "골드"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Ename
+msgid "AlmaLinux"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/sponsors/AlmaLinux_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[6]->content->[2]->description"
+msgid "골드"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Ename
+msgid "오픈수세"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/sponsors/opensuse_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[6]->content->[3]->description"
+msgid "실버"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Ename
+msgid "기타 후원사"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Eimage
+msgctxt "sections->[6]->content->[4]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[4]-%3Edescription
+msgctxt "sections->[6]->content->[4]->description"
+msgid "실버"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Ename
+msgid "다른 훌륭한 후원사"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Eimage
+msgctxt "sections->[6]->content->[5]->image"
+msgid ""
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[5]-%3Edescription
+msgctxt "sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+"sections->[6]->content->[5]->description"
+msgid "브론즈"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Ename
+msgid "깃랩"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Eimage
+msgid "public/assets/images/sponsors/Gitlab_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[6]-%3Edescription
+msgctxt "sections->[6]->content->[6]->description"
+msgid "브론즈"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Ename
+msgid "datto"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Eimage
+msgid "public/assets/images/sponsors/datto_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[7]-%3Edescription
+msgctxt "sections->[6]->content->[7]->description"
+msgid "브론즈"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Ename
+msgid "다스키보드"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Eimage
+msgid "public/assets/images/sponsors/daskeyboard_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[8]-%3Edescription
+msgctxt "sections->[6]->content->[8]->description"
+msgid "브론즈"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Ename
+msgid "그놈"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Eimage
+msgid "public/assets/images/sponsors/Gnome_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[9]-%3Edescription
+msgctxt "sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+"sections->[6]->content->[9]->description"
+msgid "미디어"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Ename
+msgid "TuxDigital"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Eimage
+msgid "public/assets/images/sponsors/TuxDigital_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[10]-%3Edescription
+msgctxt "sections->[6]->content->[10]->description"
+msgid "미디어"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Ename
+msgid "KDE"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Eimage
+msgid "public/assets/images/sponsors/KDE_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[11]-%3Edescription
+msgctxt "sections->[6]->content->[11]->description"
+msgid "미디어"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Ename
+msgid "opensource.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Eimage
+msgid "public/assets/images/sponsors/opensource.com_logo.png"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[12]-%3Edescription
+msgctxt "sections->[6]->content->[12]->description"
+msgid "미디어"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Ename
+msgid "없음"
+msgstr ""
+
+#: sections-%3E[6]-%3Econtent-%3E[13]-%3Edescription
+msgid "placeholder"
+msgstr ""
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Flock 후원의 이점"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "상표 노출"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"후원사는 Flock의 여러 장소에서 광고되었습니다. 우리는 또한 소셜 미디어에서 "
+"후원사에 대해서도 게시합니다. 당신의 상표는 우리의 보따리 가방에 담겨 "
+"전세계적으로 배포될 것입니다."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "주목"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"우리의 단계적 후원 수준은 모두에게 Flock의 뛰어난 가시성을 제공합니다. "
+"당신의 전시관은 참여를 극대화하도록 엑스포 부분에 전시될 것입니다."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "네트워킹"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Flock은 매일 소프트웨어를 작업하고 사용하는 수백 명의 놀라운 개방형 원천 "
+"커뮤니티 구성원을 끌어들입니다. 세션 및 사교 시간에 활기찬 커뮤니티에 "
+"참여하세요."
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Etitle
+msgid "전시장"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[3]-%3Edescription
+msgid "비디오, 맞춤 경험, 대화, 그리고 소셜미디어 참여를 포함한 모든 후원사 전시관. "
+"아래를 눌러서 더 알아보세요."
+msgstr ""

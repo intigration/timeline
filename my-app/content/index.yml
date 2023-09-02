@@ -1,0 +1,148 @@
+title: Fedora Linux
+description: Genislab hardware, clouds, and containers, built
+  with love by you.
+image:
+  src: https://fedora.gitlab.io/websites-apps/fedora-websites/fedora-websites-3.0/assets/images/fedora-default-meta-image.jpg
+  alt: Fedora Index Image
+  width: 400
+  height: 300
+links:
+  - text: Release Notes
+sections:
+  - sectionTitle: 🎉 [Fedora Linux 38 released!](https://fedoramagazine.org/announcing-fedora-38)
+    sectionDescription: active
+  - sectionTitle: Next upcoming event
+    sectionDescription: ""
+    url: ""
+  - sectionTitle: Digital Public Good Logo
+    content:
+      - title: A Registered Digital Public Good
+        url: https://digitalpublicgoods.net/
+        image: public/assets/images/digital-public-goods.svg
+  - sectionTitle: Editions
+    content:
+      - title: The leading Linux desktop
+        url: /workstation
+        description:
+          Fedora Workstation is a polished, easy to use operating system for
+          laptop and desktop computers, with a complete set of tools for
+          developers and makers of all kinds.
+        image:
+          light: public/assets/images/workstation-logo-light.png
+          dark: public/assets/images/workstation-logo-dark.png
+        link:
+          text: Download Now
+      - title: A Community Server OS
+        url: /server
+        description: Fedora Server is a powerful, flexible operating system that
+          includes the best and latest datacenter technologies.
+        image:
+          light: public/assets/images/server-logo-light.png
+          dark: public/assets/images/server-logo-dark.png
+        link:
+          text: Download Now
+      - title: The solid edge foundation
+        url: /iot
+        description:
+          Fedora IoT provides a trusted open source platform as a strong
+          foundation for IoT ecosystems.
+        image:
+          light: public/assets/images/IoT-logo-light.png
+          dark: public/assets/images/IoT-logo-dark.png
+        link:
+          text: Download Now
+      - title: The lightweight VM environment
+        url: /cloud
+        description:
+          Fedora Cloud edition is a powerful and minimal base operating
+          system image with tailored images available for both public and many
+          private cloud uses.
+        image:
+          light: public/assets/images/cloud-logo-light.png
+          dark: public/assets/images/cloud-logo-dark.png
+        link:
+          text: Download Now
+      - title: The container optimized OS
+        url: /coreos
+        description: Fedora CoreOS is an automatically updating, minimal,
+          container-focused operating system.
+        image:
+          light: public/assets/images/coreos-logo-light.png
+          dark: public/assets/images/coreos-logo-dark.png
+        link:
+          text: Download Now
+  - sectionTitle: Want more Fedora options?
+    content:
+      - title: Fedora Spins
+        description:
+          If you prefer an alternative desktop environment such as KDE Plasma
+          Desktop or Xfce, you can download a Fedora Spin for your preferred
+          desktop environment and use that to install Fedora, pre-configured for
+          the desktop environment of your choice.
+        link:
+          text: Learn more
+          url: https://spins.fedoraproject.org/
+        image: public/assets/images/fedora-spins-logo.png
+      - title: Fedora Labs
+        description:
+          Fedora Labs is a selection of curated bundles of purpose-driven
+          software and content as curated and maintained by members of the
+          Fedora Community. These may be installed as standalone full versions
+          of Fedora or as add-ons to existing Fedora installations.
+        image: public/assets/images/fedora-labs-logo.png
+        link:
+          text: Learn more
+          url: https://labs.fedoraproject.org/
+      - title: Fedora ALT Downloads
+        description:
+          The Fedora Alternative Downloads are either special-purpose - for
+          testing, for specific architectures - or are more standard versions of
+          Fedora in alternative formats such as network installer format or
+          formatted for BitTorrent download.
+        image: public/assets/images/fedora-alt-logo.png
+        link:
+          text: Learn more
+          url: https://alt.fedoraproject.org/
+  - sectionTitle: Support Resources
+    content:
+      - title: Documentation
+        description: Extensive documentation is available at the Fedora documentation page.
+        link:
+          text: Fedora Docs
+          url: https://docs.fedoraproject.org/en-US/
+      - title: Support
+        description: Get support from our the community on the Fedora Discussion Forum.
+        link:
+          text: Fedora Discussion
+          url: https://discussion.fedoraproject.org/c/ask
+      - title: Chat
+        description: "Users and developers are available in the #fedora
+          channel on Fedora Chat."
+        link:
+          text: Fedora Chat
+          url: https://chat.fedoraproject.org/#/room/#fedora:fedoraproject.org
+  - sectionTitle: Fedora Magazine
+    sectionDescription: Make the most of using Fedora.
+    images: public/assets/images/fedora-magazine.png
+    content:
+      - title: Call to action
+        description: View more articles on [Fedora Magazine](https://fedoramagazine.org/)
+        link:
+          text: Fedora Magazine
+          url: https://fedoramagazine.org/
+  - sectionTitle: Mission Statement
+    sectionDescription: Fedora is always free for anyone to **use, modify, and
+      distribute**. It is built and used by people across the globe who work
+      together as a community.
+    images: public/assets/images/fedora-blue.png
+    content:
+      - title: License Details
+        description:
+          It is a compilation of software packages, each under its own
+          license. Images that can be downloaded here are available under the
+          combination of licenses of the constituent software packages and the
+          license of the Fedora Linux distribution itself. [View
+          License](https://fedoraproject.org/wiki/Legal:Licenses/LicenseAgreement#License)
+        link:
+          text: License
+          url: https://fedoraproject.org/wiki/Legal:Licenses/LicenseAgreement#License

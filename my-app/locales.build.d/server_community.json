@@ -1,0 +1,20 @@
+{
+  "Attend a meeting": "Attend a meeting",
+  "Chat": "Chat",
+  "Chat Now": "Chat Now",
+  "Communication Channels": "Communication Channels",
+  "Community": "Community",
+  "Fedora Server is created by a team in the Fedora Project community called the Server Working Group. It is comprised of official members who have decision-making powers, as well as other contributors. Learn more about this group and how you can get involved on the Server Working Group website.": "Fedora Server is created by a team in the Fedora Project community called the Server Working Group. It is comprised of official members who have decision-making powers, as well as other contributors. Learn more about this group and how you can get involved on the Server Working Group website.",
+  "Forum": "Forum",
+  "Header Second Half": "Header Second Half",
+  "Join a community of users and contributors focused on Fedora Server.": "Join a community of users and contributors focused on Fedora Server.",
+  "Mailing List": "Mailing List",
+  "Report & discuss issues": "Report & discuss issues",
+  "Server Working Group meetings are open to all current and potential contributors on Wednesdays, 11 AM US Eastern at fedora-meeting@irc.libera.chat.": "Server Working Group meetings are open to all current and potential contributors on Wednesdays, 11 AM US Eastern at fedora-meeting{'@'}irc.libera.chat.",
+  "The **Fedora Server** tag on Fedora's Discourse-based discussion forum is a great place to connect with other Fedora Server users and contributors.": "The **Fedora Server** tag on Fedora's Discourse-based discussion forum is a great place to connect with other Fedora Server users and contributors.",
+  "The Fedora Server Working Group sends meeting agendas and minutes and has discussions on their mailing list at server@lists.fedoraproject.org.": "The Fedora Server Working Group sends meeting agendas and minutes and has discussions on their mailing list at server{'@'}lists.fedoraproject.org.",
+  "Visit Now": "Visit Now",
+  "Ways to get involved": "Ways to get involved",
+  "You can chat with the Fedora Server Working Group via either Matrix or IRC: #server:fedoraproject.org on Matrix and #fedora-server on irc.libera.chat.": "You can chat with the Fedora Server Working Group via either Matrix or IRC: #server:fedoraproject.org on Matrix and #fedora-server on irc.libera.chat.",
+  "You can view, file, and discuss Fedora Server issues on the [Fedora Server issue tracker](https://pagure.io/fedora-server/issues).": "You can view, file, and discuss Fedora Server issues on the [Fedora Server issue tracker](https://pagure.io/fedora-server/issues)."
+}

@@ -1,0 +1,50 @@
+#. extracted from content/editions/server/home.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr ""
+
+#: title
+msgid "The leading edge server"
+msgstr ""
+
+#: description
+msgid ""
+"Run applications on bare metal or the cloud with a Linux server OS packed "
+"with the latest open source technology\n"
+msgstr ""
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/server_main.png"
+msgstr ""
+
+#: header_images-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Download Now"
+msgstr ""
+
+#: links-%3E[0]-%3Eurl
+#, read-only
+msgid "https://getfedora.org/en/server/download/"
+msgstr ""
+
+#~ msgid "Fedora Server Index"
+#~ msgstr "فیڈورا سرور انڈیکس"
