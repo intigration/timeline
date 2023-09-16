@@ -1,0 +1,10 @@
+title: Fedora Sericea
+description:
+  We're so glad you've decided to give Fedora Sericea a try. We know you'll
+  love it.
+sections:
+  - sectionTitle: release
+    content:
+      - title: Documentation
+        link:
+          url: "https://docs.fedoraproject.org/en-US/fedora-sericea/"

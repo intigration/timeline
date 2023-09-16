@@ -1,0 +1,47 @@
+path: community
+title: Community
+description: Join a community of users and contributors focused on Fedora Cloud.
+sections:
+  - sectionTitle: Description
+    sectionDescription: Fedora Cloud is created by a team in the Fedora Project
+      community called the Cloud Working Group. It is comprised of official
+      members who have decision-making powers, as well as other contributors.
+      Learn more about this group and how you can get involved on the Cloud
+      Working Group website.
+    content: []
+  - sectionTitle: Communication Channels
+    content:
+      - title: Forum
+        description:
+          The **Fedora Cloud** tag on Fedora's Discourse-based discussion forum
+          is a great place to connect with other Fedora Cloud users and
+          contributors.
+        image: public/assets/images/fedora-discussion-plus-icon.png
+        link:
+          text: Visit Now
+          url: https://discussion.fedoraproject.org/tag/cloud
+      - title: Chat
+        description: "You can chat with the Fedora Cloud Working Group via Matrix: #cloud:fedoraproject.org."
+        image: public/assets/images/fedora-chat-plus-element.png
+        link:
+          text: Chat Now
+          url: https://chat.fedoraproject.org/#/welcome
+      - title: Mailing List
+        description:
+          The Fedora Cloud Working Group sends meeting agendas and minutes and
+          has discussions on their mailing list at cloud@lists.fedoraproject.org.
+        link:
+          text: Visit Now
+          url: https://lists.fedoraproject.org/archives/list/cloud@lists.fedoraproject.org/
+        image: public/assets/images/hyperkitty-plus-logo.png
+  - sectionTitle: Ways to get involved
+    content:
+      - title: Report & discuss issues
+        description:
+          You can view, file, and discuss Fedora Cloud issues on the [Fedora
+          Cloud issue tracker](https://pagure.io/fedora-cloud/issues).
+      - title: Attend a meeting
+        description:
+          Cloud Working Group meetings are open to all current and potential
+          contributors on Wednesdays, 11 AM US Eastern at
+          fedora-meeting@irc.libera.chat.

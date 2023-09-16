@@ -1,0 +1,86 @@
+/* --------------------- */
+/* Global Font Settings */
+/* --------------------- */
+@layer base {
+  /* Heading Text Family */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  button {
+    @apply font-display;
+  }
+  /* Body Text Family */
+  a,
+  p,
+  dl,
+  dt,
+  dd,
+  ul,
+  ol,
+  li,
+  figcaption,
+  blockquote {
+    @apply font-sans;
+  }
+  /* Code Text Family */
+  code,
+  pre {
+    @apply font-mono;
+  }
+
+  /* --------- */
+  /* Font Sizes */
+  /* --------- */
+  h1 {
+    @apply text-4xl lg:text-5xl xl:text-7xl;
+  }
+  h2 {
+    @apply text-3xl lg:text-4xl;
+  }
+  h3 {
+    @apply text-2xl lg:text-3xl;
+  }
+  h4 {
+    @apply text-xl lg:text-2xl;
+  }
+  h5 {
+    @apply text-lg lg:text-xl;
+  }
+
+  p,
+  a,
+  li {
+    @apply sm:text-base lg:text-lg;
+  }
+  code {
+    @apply font-mono;
+  }
+  /* List Styles */
+
+  /* TODO: change disc size and color to correspond to the design system */
+  ul {
+    @apply list-inside list-disc;
+  }
+  ol {
+    @apply list-inside list-decimal;
+  }
+  dt {
+    @apply font-semibold;
+  }
+  dd {
+    @apply indent-4;
+  }
+  /* Nav special case fallback */
+  nav ul {
+    @apply list-none;
+  }
+
+  /* Indirect Text */
+
+  pre {
+    @apply max-w-fit whitespace-pre-line rounded bg-gray-800 px-8 text-white sm:text-lg;
+  }
+}

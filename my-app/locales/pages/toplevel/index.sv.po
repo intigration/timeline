@@ -1,0 +1,30 @@
+#. extracted from content/pages/toplevel/index.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 20:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.2\n"
+
+#: title
+msgid "Top Level Fedora Page"
+msgstr "Toppnivå Fedora sida"
+
+#: header-%3Etitle
+msgid "It's your OS"
+msgstr "Det är ditt OS"
+
+#: header-%3Esubtitle
+msgid ""
+"An innovative platform for hardware, clouds, and containers, built with love "
+"by you."
+msgstr ""
+"En innovativ plattform för hårdvara, moln och behållare, byggd med kärlek av "
+"dig."

@@ -1,0 +1,11 @@
+{
+  "Each stable RPM package published by the Fedora Project is signed with a GPG signature. By default, `dnf` and the graphical update tools will verify these signatures and refuse to install any packages that are not signed or have bad signatures. You should always verify the signature of a package before you install it. These signatures ensure that the packages you install are what was produced by the Fedora Project and have not been altered (accidentally or maliciously) by any mirror or website that is providing the packages.": "Each stable RPM package published by the Fedora Project is signed with a GPG signature. By default, `dnf` and the graphical update tools will verify these signatures and refuse to install any packages that are not signed or have bad signatures. You should always verify the signature of a package before you install it. These signatures ensure that the packages you install are what was produced by the Fedora Project and have not been altered (accidentally or maliciously) by any mirror or website that is providing the packages.",
+  "Fedora keeps you safe": "Fedora keeps you safe",
+  "Found a security bug?": "Found a security bug?",
+  "If your download comes with a CHECKSUM file, follow these easy steps to verify your image for both security and integrity.": "If your download comes with a CHECKSUM file, follow these easy steps to verify your image for both security and integrity.",
+  "Learn how Fedora uses package signing to help protect you.": "Learn how Fedora uses package signing to help protect you.",
+  "Learn how to verify your downloads": "Learn how to verify your downloads",
+  "Package signing keys": "Package signing keys",
+  "Please take a moment and let us know. [Learn how on our wiki page](https://fedoraproject.org/wiki/Security_Bugs#Reporting_a_Security_Vulnerability).": "Please take a moment and let us know. [Learn how on our wiki page](https://fedoraproject.org/wiki/Security_Bugs#Reporting_a_Security_Vulnerability).",
+  "Verify with CHECKSUM files": "Verify with CHECKSUM files"
+}

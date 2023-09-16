@@ -1,0 +1,51 @@
+title: Fedora Silverblue
+description:
+  Fedora Silverblue provides the GNOME desktop experience you know and love in
+  an immutable fashion.  It looks, feels and behaves like a regular desktop operating system,
+  and the experience is similar to what you find with using a standard Fedora Workstation.
+  Silverblue's immutable design is intended to make it more stable, less prone to bugs,
+  and easier to test and develop. Its also an excellent platform
+  for containerized applications, as well as container-based software development. Your apps
+  are kept separate from the host system, improving stability and reliability.
+image:
+  src: https://stg.fedoraproject.org/assets/images/spins/screenshot-silverblue.png
+  alt: Fedora Silverblue Image
+  width: 400
+  height: 300
+links:
+  - text: Download Now
+    url: /silverblue/download/
+  - text: Documentation
+    url: "https://docs.fedoraproject.org/en-US/fedora-silverblue/"
+screenshot_image:
+  image: public/assets/images/spins/screenshot-silverblue.png
+  alt_text: Screenshot of Fedora Silverblue
+sections:
+  - sectionTitle: Built on top of the best
+    content:
+      - title: GNOME Desktop
+        description: A beautiful, high-quality desktop, built on the latest open source technology.
+        image: public/assets/images/workstation_framework_f38_screenshot.png
+      - title: rpm-ostree
+        description: rpm-ostree is a hybrid image/package system. It combines libostree and libdnf to provide atomic and safe upgrades with local RPM package layering.
+        image: public/assets/images/immutable/rpm-ostree.png
+      - title: Applications as Flatpaks
+        description: Download thousands of open-source and proprietary, containerized applications thanks to Flatpak.
+        image: public/assets/images/immutable/flatpak-apps-faded.png
+      - title: Podman for development
+        description: Podman is a daemonless container engine for developing, managing and running Open Container Initiative (OCI) containers and container images on your Linux system.
+        image: public/assets/images/immutable/podman.png
+      - title: Fedora Community & Support
+        description: Fedora creates an innovative, free and open source platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.
+        image: public/assets/images/immutable/fedora-circle.png
+  - sectionTitle: Related Projects
+    content:
+      - title:
+        description: An immutable desktop operating system featuring the modern and modular Plasma Desktop
+        image: public/assets/images/immutable/fedora-kinoite-logo.png
+      - title:
+        description: An immutable desktop operating system featuring the keyboard-driven Sway window manager.
+        image: public/assets/images/fedora-sericea-light.png
+      - title:
+        description: Fedora IoT provides a strong foundation for IoT ecosystems - a project at home, industrial gateways, smart cities or analytics with AI/ML.
+        image: public/assets/images/IoT-logo-light.png

@@ -1,0 +1,20 @@
+#. extracted from content/pages/editions/server/downloads/index.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 20:55+0000\n"
+"PO-Revision-Date: 2022-09-21 10:26+0000\n"
+"Last-Translator: Hoppár Zoltán <hopparz@gmail.com>\n"
+"Language-Team: Hungarian <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsserverdownloads/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 3.6.2\n"
+
+#: title
+msgid "Fedora Server Downloads"
+msgstr "Fedora Server letöltések"

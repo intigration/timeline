@@ -1,0 +1,275 @@
+###############
+# Event Pages #
+###############
+- label: "Event Pages"
+  name: "eventPages"
+  files:
+    # Flock to Fedora #
+    - label: "Flock to Fedora"
+      name: "flock"
+      file: "/content/events/flock.yml"
+      format: yml
+      fields:
+        - label: "Path"
+          name: "path"
+          widget: "string"
+          hint: "url page name ie: index or community"
+        - label: "Header Title"
+          name: "title"
+          widget: "string"
+          hint: "Main headline and h1 tag on the web page"
+        - label: "Header Description"
+          name: "description"
+          widget: "text"
+          hint: "Page header description text"
+          required: false
+        - label: "Event location"
+          name: "location"
+          widget: "text"
+          hint: "Location of the event, if any"
+          required: false
+        - label: "Header Images"
+          name: "header_images"
+          widget: "list"
+          hint: "Add background and foreground images to the header"
+          required: false
+          fields:
+            - label: "Image"
+              name: "image"
+              widget: "image"
+        - label: "Header Links & Buttons"
+          label_singular: "Link"
+          name: "links"
+          widget: "list"
+          max: 3
+          summary: "{{fields.text}}"
+          hint: "Add buttons or links to the page header"
+          collapsed: true
+          minimized_collapsed: true
+          fields:
+            - label: "Link Text"
+              name: "text"
+              widget: "string"
+            - label: "Link URL"
+              name: "url"
+              widget: "string"
+              required: false
+        - label: "Page Sections"
+          label_singular: "Page Section"
+          name: "sections"
+          hint: "Main sections of page content, generally grouped by h2 headings"
+          summary: "{{fields.sectionTitle}}"
+          widget: "list"
+          collapsed: true
+          fields:
+            - label: "Section Title"
+              name: "sectionTitle"
+              widget: "string"
+              hint: "A headline title for a section of content (probably an h2)"
+            - label: "Section Description"
+              name: "sectionDescription"
+              widget: "markdown"
+              hint: "Longer text that accompanies the title"
+              required: false
+            - label: "Section Images"
+              singular_label: "image"
+              name: "images"
+              widget: "image"
+              required: false
+            - label: "Section Content"
+              name: "content"
+              widget: "list"
+              hint: "Add sub sections, cards, and lists of content here."
+              collapsed: false
+              fields:
+                - label: "Title"
+                  name: "title"
+                  widget: "string"
+                  required: false
+                - label: "description"
+                  name: "description"
+                  widget: "markdown"
+                  required: false
+                - label: "Image"
+                  name: "image"
+                  widget: "image"
+                  required: false
+                - label: "Link"
+                  name: "link"
+                  widget: "object"
+                  fields:
+                    - label: "Link Text"
+                      name: "text"
+                      widget: "string"
+                      hint: "Visible text for a link or button"
+                      required: false
+                    - label: "Link URL"
+                      name: "url"
+                      widget: "string"
+                      hint: "URL path for the link or button"
+                      required: false
+        - label: "Important Dates"
+          name: "importantDates"
+          hint: "List of important dates related to the event"
+          summary: "{{fields.title}}"
+          widget: "object"
+          collapsed: true
+          fields:
+            - name: "title"
+              label: "Section Title"
+              widget: "string"
+            - name: "description"
+              label: "Section Description"
+              widget: "string"
+            - name: "footerText"
+              label: "Footer Text"
+              widget: "string"
+            - name: "content"
+              label: "dates"
+              widget: "list"
+              fields:
+                - name: "name"
+                  label: "event name"
+                  widget: "string"
+                - name: "description"
+                  label: "event description"
+                  widget: "string"
+                  required: false
+                - name: "startDate"
+                  label: "Start Date"
+                  widget: "datetime"
+                  time_format: false
+                  format: "YYYY-MM-DD"
+                - name: "endDate"
+                  label: "End Date"
+                  widget: "datetime"
+                  time_format: false
+                  format: "YYYY-MM-DD"
+                  required: false
+                - name: "color"
+                  label: "event status"
+                  widget: "select"
+                  options:
+                    - { label: "not started", value: "#b9daf0" }
+                    - { label: "ongoing", value: "#c5eac0" }
+                    - { label: "ended", value: "#dedede" }
+                - name: "link"
+                  label: "Links"
+                  widget: "list"
+                  fields:
+                    - name: "text"
+                      label: "URL Text"
+                      widget: "string"
+                      required: false
+                    - name: "url"
+                      label: "URL Link"
+                      widget: "string"
+                      required: false
+        - label: "Sponsors"
+          name: "sponsors"
+          hint: "List of Sponsors"
+          summary: "{{fields.title}}"
+          widget: "object"
+          collapsed: true
+          fields:
+            - name: "title"
+              label: "Section Title"
+              widget: "string"
+            - name: "description"
+              label: "Section Description"
+              widget: "string"
+            - name: "content"
+              label: "sponsors"
+              widget: "list"
+              fields:
+                - name: "name"
+                  label: "Sponsor Name"
+                  widget: "string"
+                  required: false
+                - name: "image"
+                  label: "Sponsor Image or Logo"
+                  widget: "string"
+                  required: false
+                - name: "level"
+                  label: "Sponsor Level"
+                  widget: "select"
+                  options:
+                    - { label: "Platinium", value: "platinium" }
+                    - { label: "Gold", value: "gold" }
+                    - { label: "Silver", value: "silver" }
+                    - { label: "Bronze", value: "bronze" }
+                    - { label: "Media", value: "media" }
+                    - { label: "Placeholder", value: "placeholder" }
+
+    # Events Partial Data
+    - label: "Events Partial"
+      name: "events-partial"
+      file: "/content/partials/events.yml"
+      format: yml
+      fields:
+        - label: "Parital title"
+          name: "title"
+          widget: "string"
+          hint: "title for this section (h2)"
+        - label: "Description"
+          name: "description"
+          widget: "markdown"
+          hint: "brief overview of the type of events in this partial"
+        - label: "Notification"
+          name: "Notification"
+          hint: "Use when necessary, for general event updates"
+          widget: "string"
+          required: false
+        - label: "Events Logo"
+          name: "logo"
+          widget: "object"
+          hint: "Colur or other character"
+          fields:
+            - label: "Image"
+              name: "image"
+              widget: "image"
+            - label: "Caption or Alt Text"
+              name: "text"
+              widget: "string"
+        - label: "Media"
+          name: "media"
+          widget: "object"
+          required: false
+          fields:
+            - label: "Image"
+              name: "image"
+              widget: "image"
+              required: false
+            - label: "Text"
+              name: "text"
+              widget: "string"
+              hint: "Caption for image"
+              required: false
+            - label: "Link or URL"
+              name: "url"
+              widget: "string"
+              required: false
+
+        - label: "Cards"
+          label_singular: "card"
+          name: "cards"
+          hint: "Main fedora events"
+          summary: "{{fields.eventTitle}}"
+          widget: list
+          collapsed: true
+          fields:
+            - label: "Event Title"
+              name: "eventTitle"
+              widget: "string"
+              hint: "name of the event"
+            - label: "Event Description"
+              name: "eventDescription"
+              widget: "markdown"
+            - label: "Event Logo"
+              name: "logo"
+              widget: "image"
+            - label: "URL"
+              name: "url"
+              widget: "string"
+              hint: "An optional link to an event page"
+              required: false

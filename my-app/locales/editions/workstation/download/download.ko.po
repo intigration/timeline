@@ -1,0 +1,530 @@
+#. extracted from content/editions/workstation/download.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-12-29 19:20+0000\n"
+"Last-Translator: 김인수 <simmon@nplob.com>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsworkstationdownload/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15\n"
+
+#: path
+msgid "download"
+msgstr "내려받기"
+
+#: title
+msgid "Download Fedora Workstation 37"
+msgstr "페도라 웍스테이션 37 내려받기"
+
+#: description
+msgid ""
+"We're so glad you've decided to give Fedora Workstation a try. We know "
+"you'll love it."
+msgstr "페도라 웍스테이션을 시도하기로 결정해주어 기쁘게 생각합니다. 우리는 당신이 "
+"페도라 매력에 푹 빠질 것이라고 생각합니다."
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "release"
+msgstr "출시"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "RELEASE DATE"
+msgstr "출시일"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "April 19, 2022"
+msgstr "2022년 4월 19일"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "SUPPORTED THROUGH"
+msgstr "지원 범위"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid "May 17, 2023"
+msgstr "2023년 5월 17일"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Release Notes"
+msgstr "출시 기록"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgid "https://fedorapeople.org/groups/schedule/f-37/f-37-all-tasks.html"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Installation Guide"
+msgstr "설치 안내"
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Elink-%3Eurl
+#, read-only
+msgid "https://docs.fedoraproject.org/en-US/fedora/latest/install-guide/"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Community Support"
+msgstr "커뮤니티 지원"
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Elink-%3Eurl
+#, read-only
+msgctxt "sections->[0]->content->[4]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "On Windows or macOS?"
+msgstr "윈도우 또는 맥OS에서?"
+
+#: sections-%3E[1]-%3EsectionDescription
+msgid ""
+"Get started by using Fedora Media Writer, which makes it super easy to give "
+"Fedora a try."
+msgstr "페도라를 보다 쉽게 사용 할 수 있게 하는 페도라 미디어 작성기를 사용하여 "
+"시작하세요."
+
+#: sections-%3E[1]-%3Eimages
+msgid "public/assets/images/media-writer-icon.png"
+msgstr "public/assets/images/media-writer-icon.png"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Windows"
+msgstr "윈도우즈"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "fa-windows"
+msgstr "fa-윈도우즈"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-win32-latest.exe"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Mac"
+msgstr "맥"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "fa-apple"
+msgstr "fa-애플"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "On Linux? Or just want an ISO file?"
+msgstr "리눅스에서? 또는 ISO 파일만 원하나요?"
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"Not sure how to use these files? [Learn here](https://docs.fedoraproject.org/"
+"en-US/quick-docs/creating-and-using-a-live-installation-image/)"
+msgstr ""
+"이들 파일을 사용하는 방법이 확실하지 않나요? [여기서 알아보기](https://docs."
+"fedoraproject.org/ko/quick-docs/creating-and-using-a-live-installation-image/"
+")"
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Security, Installs"
+msgstr "보안, 설치"
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Etitle
+msgid "We take security seriously"
+msgstr "우리는 보안을 중요하게 생각합니다"
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Once you have downloaded an image, be sure to verify it for both security "
+"and integrity."
+msgstr "일단 당신이 이미지를 내려 받았으면, 보안과 무결성 모두를 확인하세요."
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://getfedora.org/security/"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Verify Your Download"
+msgstr "자신의 내려받기를 확인합니다"
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Etitle
+msgid "But wait! There's more."
+msgstr "하지만 기다립니다! 더 있습니다."
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Need something a bit different? [Check out our other Fedora Workstation "
+"downloads here](https://alt.fedoraproject.org/), featuring secondary "
+"architectures and network-based installation images."
+msgstr ""
+"약간 다른 것이 필요한가요? [이 곳에서 다른 페도라 웍스테이션 내려받기를 "
+"확인하세요](https://alt.fedoraproject.org/), 이차적인 구조와 네트워키-기반 "
+"설치를 특징으로 하는 이미지."
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://download.fedoraproject.org"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Fedora 37 64-bit network install"
+msgstr "페도라 37 64-비트 네트워크 설치"
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Laptops pre-loaded with Fedora"
+msgstr "페도라가 사전-탑재된 랩탑"
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"We've partnered with companies like Lenovo to bring you laptops pre-loaded "
+"with Fedora that include fully-supported hardware components. "
+msgstr ""
+"우리는 당신이 완전하게-지원되는 하드웨어 구성요소를 포함하는 페도라가 사전-"
+"탑재된 랩탑을 가져오도록 레노버와 같은 회사와 파트너가 되었습니다. "
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/lenovo-laptop.png"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://fedoramagazine.org/lenovo-fedora-now-available/"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Explore Fedora Laptops"
+msgstr "페도라 랩탑 탐구하기"
+
+#: sections-%3E[5]-%3EsectionTitle
+msgid "Learn more about Fedora Media Writer"
+msgstr "페도라 미디어 작성기에 대허 더 알아보기"
+
+#: sections-%3E[5]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+"flash drive, and Fedora Media Writer.\n"
+"Once Fedora Media Writer is installed, it will set up your flash drive to "
+"run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+"from your flash drive and try it out right away without making any permanent "
+"changes to your computer. Once you are hooked, installing it to your hard "
+"drive is a matter of clicking a few buttons*."
+msgstr ""
+"페도라 시작하기는 보다 더 쉬워졌습니다. 당신이 필요로 하는 모든 것은 2GB USB "
+"플래시 드라이브, 그리고 페도라 미디어 작성기입니다. \n"
+"페도라 미디어 작성기가 설치되면, 이는 자신의 플래쉬 드라이브를 페도라 "
+"웍스테이션의 \"라이브\" 버전을 실행하도록 설정하고, 당신은 자신의 플래시 "
+"드라이브에서 이를 부팅 할 수 있고 자신의 컴퓨터를 영구적으로 변경하지 않고 "
+"바로 사용해 볼 수 있다는 것을 의미합니다. 한번 빠지게 되면, 자신의 하드 "
+"드라이브에 몇 개의 누름단추*를 누르는 것만 이를 설치 할 수 있습니다."
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+" * Fedora requires a minimum of 20GB disk, 2GB RAM, to install and run "
+"successfully. Double those amounts is recommended. "
+msgstr ""
+" * 페도라는 성공적으로 설치하고 동작하려면, 최소 20GB 디스크, 2GB 램이 "
+"필요합니다. 최소 자원의 두 배가 추천됩니다. "
+
+#: sections-%3E[5]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/monitor-2.png"
+msgstr "public/assets/images/monitor-2.png"
+
+#: sections-%3E[6]-%3EsectionTitle
+msgid "Become a Fedora contributor"
+msgstr "페도라 공헌자가 되기"
+
+#: sections-%3E[6]-%3EsectionDescription
+msgid ""
+"Once you've got Fedora installed and running, why not join and contribute to "
+"one of our online communities?"
+msgstr "일단 당신이 페도라를 설치하고 동작 하면, 우리의 온라인 커뮤니티의 하나로 "
+"참여하고 공헌하는 것은 어떤가요?"
+
+#: sections-%3E[7]-%3EsectionTitle
+msgid "Officially Supported Fedora Community Spaces"
+msgstr "공식적으로 지원되는 페도라 커뮤니티 공간"
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fedora Discussion"
+msgstr "페도라 토의"
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-discussion-plus-icon.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://discussion.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Etitle
+msgid "Fedora Chat"
+msgstr "페도라 대화"
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://matrix.to/#/#matrix-meta-chat:fedoraproject.org"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-chat-plus-element.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Etitle
+msgid "Ask Fedora"
+msgstr "페도라 질문(Ask)"
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/ask-fedora.png"
+msgstr ""
+
+#: sections-%3E[7]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgctxt "sections->[7]->content->[2]->link->url"
+msgid "https://ask.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[8]-%3EsectionTitle
+msgid "Community-Maintained Spaces"
+msgstr "커뮤니티-관리 공간"
+
+#: sections-%3E[8]-%3Econtent-%3E[0]-%3Etitle
+msgid "Reddit"
+msgstr "레딧"
+
+#: sections-%3E[8]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://www.reddit.com/r/Fedora/"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/reddit-brands-3.png"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[1]-%3Etitle
+msgid "Discord"
+msgstr "디스코드"
+
+#: sections-%3E[8]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://discord.com/invite/fedora"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/discord-brands-2.png"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[2]-%3Etitle
+msgid "Telegram"
+msgstr "텔레그램"
+
+#: sections-%3E[8]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/telegram-brands.png"
+msgstr ""
+
+#: sections-%3E[8]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgid "https://fedoraproject.org/wiki/Telegram"
+msgstr ""
+
+#: sections-%3E[9]-%3EsectionTitle
+msgid ""
+"By clicking on and downloading Fedora, you agree to comply with the "
+"following terms and conditions."
+msgstr "페도라를 눌러서 내려 받으면, 다음 이용 약관을 따르고 준수 할 것을 동의합니다."
+
+#: sections-%3E[9]-%3EsectionDescription
+msgid ""
+"By downloading Fedora software, you acknowledge that you understand all of "
+"the following: Fedora software and technical information may be subject to "
+"the U.S. Export Administration Regulations (the “EAR”) and other U.S. and "
+"foreign laws and may not be exported, re-exported or transferred (a) to any "
+"country listed in Country Group E:1 in Supplement No. 1 to part 740 of the "
+"EAR (currently, Cuba, Iran, North Korea, Sudan & Syria); (b) to any "
+"prohibited destination or to any end user who has been prohibited from "
+"participating in U.S. export transactions by any federal agency of the U.S. "
+"government; or (c) for use in connection with the design, development or "
+"production of nuclear, chemical or biological weapons, or rocket systems, "
+"space launch vehicles, or sounding rockets, or unmanned air vehicle systems. "
+"You may not download Fedora software or technical information if you are "
+"located in one of these countries or otherwise subject to these "
+"restrictions. You may not provide Fedora software or technical information "
+"to individuals or entities located in one of these countries or otherwise "
+"subject to these restrictions. You are also responsible for compliance with "
+"foreign law requirements applicable to the import, export and use of Fedora "
+"software and technical information."
+msgstr ""
+"페도라 소프트웨어 내려 받을 때에, 다음과 같은 모든 사항을 이해하고 있음을 "
+"인정해야 합니다: 페도라 소프트웨어와 기술정보는 미국 수출 관리 규정(the "
+"“EAR”)과 미국을 제외한 다른 국가와 외국 법규를 따르며, 수출 및 재-수출 또는 "
+"양도 되지 않을 수 있습니다. (a) EAR의 740 부 (현재 쿠바,이란, 북한, 수단 및 "
+"시리아)에 대한 부록 1의 국가 그룹 E:1에 나열된 모든 국가 (b) 금지 된 목적지 "
+"또는 미국 정부; 또는 다른 국가의 연방 기관에 의해 미국 수출 거래 참여가 금지 "
+"된 최종 사용자 (c) 핵, 화학 또는 생물학적인 무기, 로켓 시스템, 우주 발사체, "
+"발사 로켓 또는 무인 항공기 시스템의 설계, 개발 또는 생산과 연관된 사용 목적. "
+"이들 국가 중 하나에 위치하거나 이러한 제한이 적용되는 경우 페도라 소프트웨어 "
+"또는 기술 정보를 내려 받을 수 없습니다. 이들 국가 중 하나 또는 이들 제한과 "
+"연관되어 있는 다른 곳에 위치한 개인이나 단체에 제공하는 페도라 소프트웨어 "
+"또는 기술 정보를 제공 받을 수 없습니다. 수입, 수출 및 페도라 소프트웨어와 "
+"기술 정보의 사용에 대해 적용하는 경우 외국 법규 요구 조건을 만족 할만한 "
+"책임이 있습니다."
+
+#~ msgctxt "sections->[1]->content->[0]->link->text"
+#~ msgid "Download Now"
+#~ msgstr "지금 내려받기"
+
+#~ msgctxt "sections->[1]->content->[1]->link->text"
+#~ msgid "Download Now"
+#~ msgstr "지금 내려받기"
+
+#~ msgctxt "sections->[2]->content->[0]->title"
+#~ "sections->[2]->content->[0]->title"
+#~ msgid "Fedora Workstation 37"
+#~ msgstr "페도라 웍스테이션 37"
+
+#~ msgid "x86_64 DVD ISO"
+#~ msgstr "x86_64 DVD ISO"
+
+#~ msgid "For Intel and AMD systems"
+#~ msgstr "인텔 및 AMD 시스템용"
+
+#~ msgctxt "sections->[2]->content->[1]->title"
+#~ msgid "Fedora Workstation 37"
+#~ msgstr "페도라 웍스테이션 37"
+
+#~ msgid "aarch64 Live ISO"
+#~ msgstr "aarch64 라이브 ISO"
+
+#~ msgctxt "sections->[2]->content->[1]->description"
+#~ msgid "For ARM® aarch64"
+#~ msgstr "ARM® aarch64용"
+
+#~ msgctxt "sections->[2]->content->[2]->title"
+#~ msgid "Fedora Workstation 37"
+#~ msgstr "페도라 웍스테이션 37"
+
+#~ msgid "aarch64 raw image"
+#~ msgstr "aarch64 단순 이미지"
+
+#~ msgctxt "sections->[2]->content->[2]->description"
+#~ msgid "For ARM® aarch64"
+#~ msgstr "ARM® aarch64용"
+
+#~ msgid "Security, Installs, Laptops Preloaded"
+#~ msgstr "보안, 설치, 사전 적재된 랩탑"
+
+#~ msgid "Officially-Supported Fedora Community Spaces"
+#~ msgstr "공식적으로 지원되는 페도라 커뮤니티 공간"
+
+#~ msgid "Download Fedora Workstation 37."
+#~ msgstr "페도라 웍스테이션 37 내려받기."
+
+#~ msgid "Download Options"
+#~ msgstr "내려받기 옵션"
+
+#~ msgctxt "sections->[0]->sectionDescription"
+#~ msgid ""
+#~ msgstr "부분설명"
+
+#~ msgctxt "sections->[0]->images"
+#~ msgid ""
+#~ msgstr "이미지"
+
+#~ msgid ""
+#~ "Not sure how to use these files? [Learn More](https://docs.fedoraproject.org/"
+#~ "en-US/quick-docs/creating-and-using-a-live-installation-image/)"
+#~ msgstr ""
+#~ "이들 파일의 사용 방법이 확실한가요? [더 알아보기](https://docs.fedoraproject."
+#~ "org/en-US/quick-docs/creating-and-using-a-live-installation-image/)"
+
+#~ msgid ""
+#~ "Once you have downloaded an image, be sure to verify it for both security "
+#~ "and integrity. "
+#~ msgstr "한번 이미지를 내려 받으면, 보안과 무결성 모두를 위해 확인해야 합니다. "
+
+#~ msgid "Verify your download"
+#~ msgstr "내려받기를 확인합니다"
+
+#~ msgid "Explore Fedora laptops"
+#~ msgstr "페도라 랩탑 살펴보기"
+
+#~ msgid ""
+#~ "Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+#~ "flash drive, and Fedora Media Writer.\n"
+#~ "\n"
+#~ "Once Fedora Media Writer is installed, it will set up your flash drive to "
+#~ "run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+#~ "from your flash drive and try it out right away without making any permanent "
+#~ "changes to your computer. Once you are hooked, installing it to your hard "
+#~ "drive is a matter of clicking a few buttons*."
+#~ msgstr ""
+#~ "페도라를 시작하기는 어느 때 보다 쉬워졌습니다. 당신이 필요한 모든 것은 2GB "
+#~ "USB 저장소와 페도라 미디어 작성기입니다. \n"
+#~ "\n"
+#~ "페도라 미디어 작성기가 설치되었으면, 페도라 웍스테이션의 \"라이브\" 버전을 "
+#~ "실행하도록 자신의 USB 저장장치를 설정하고, 자신의 USB 저장소에서 이를 부팅 "
+#~ "할 수 있다는 것이고 자신의 컴퓨터를 영구적으로 변경하지 않고 바로 사용해 볼 "
+#~ "수 있다는 것을 의미합니다. 한번 익숙해지면, 이를 자신의 하드 드라이브에 몇 "
+#~ "개의 누름단추*를 누르는 것만으로 설치 할 수 있습니다."
+
+#~ msgctxt "sections->[3]->sectionDescription"
+#~ msgid ""
+#~ msgstr "부분설명"
+
+#~ msgctxt "sections->[3]->images"
+#~ msgid ""
+#~ msgstr "이미지"
+
+#~ msgid "/r/fedora"
+#~ msgstr "/r/fedora"
+
+#~ msgid "Fedora Discord"
+#~ msgstr "페도라 디스코드"
+
+#~ msgctxt "sections->[4]->content->[2]->title"
+#~ msgid "Telegram"
+#~ msgstr "텔레그램"
+
+#~ msgctxt "sections->[4]->content->[2]->link->text"
+#~ msgid "Telegram"
+#~ msgstr "텔레그램"
+
+#~ msgid ""
+#~ "Getting going with Fedora is easier than ever. All you need is a 2GB USB "
+#~ "flash drive, and Fedora Media Writer.\n"
+#~ "\n"
+#~ "Once Fedora Media Writer is installed, it will set up your flash drive to "
+#~ "run a \"Live\" version of Fedora Workstation, meaning that you can boot it "
+#~ "from your flash drive and try it out right away without making any permanent "
+#~ "changes to your computer. Once you are hooked, installing it to your hard "
+#~ "drive is a matter of clicking a few buttons*. "
+#~ msgstr ""
+#~ "페도라를 시작하기는 어느 때 보다 쉬워졌습니다. 당신이 필요한 모든 것은 2GB "
+#~ "USB 저장소와 페도라 미디어 작성기입니다. \n"
+#~ "\n"
+#~ "페도라 미디어 작성기가 설치되었으면, 페도라 웍스테이션의 \"라이브\" 버전을 실"
+#~ "행하도록 자신의 USB 저장장치를 설정하고, 자신의 USB 저장소에서 이를 부팅 할 "
+#~ "수 있다는 것이고 자신의 컴퓨터를 영구적으로 변경하지 않고 바로 사용해 볼 수 "
+#~ "있다는 것을 의미합니다. 한번 익숙해지면, 이를 자신의 하드 드라이브에 몇 개의 "
+#~ "누름단추*를 누르는 것만으로 설치 할 수 있습니다. "

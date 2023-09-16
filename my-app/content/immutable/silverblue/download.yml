@@ -1,0 +1,10 @@
+title: Fedora Silverblue
+description:
+  We're so glad you've decided to give Fedora Silverblue a try. We know you'll
+  love it.
+sections:
+  - sectionTitle: release
+    content:
+      - title: Documentation
+        link:
+          url: "https://docs.fedoraproject.org/en-US/fedora-silverblue/"

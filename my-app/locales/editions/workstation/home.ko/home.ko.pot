@@ -1,0 +1,360 @@
+#. extracted from content/editions/workstation/home.ko.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "개요"
+msgstr ""
+
+#: title
+msgid "최첨단 데스크탑"
+msgstr ""
+
+#: description
+msgid "아름답고, 고-품질 데스크탑은 최신 개방형 원천 기술로 제작되었습니다. 신뢰 할 "
+"수 있고, 강력하며 사용이 쉬워요.\n"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/workstation_framework.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "지금 내려받기"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgid "https://getfedora.org/en/workstation/download/"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "TechHut에 의해 검토됨"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "왜 페도라 웍스테이션인가?"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "믿을 수 있는"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid "각 버전은 18개월동안 최신화 되고, 버전 사이에서 향상은 빠르고 쉽습니다."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "무료 & 비공개"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"페도라와 힘께하면, 당신의 데스크탑은 당신 자신의 것입니다. 이는 무료이고, "
+"광고가 없으며, 그리고 당신의 자료는 당신의 것입니다."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "아름다운"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgid "웍스테이션은 고-품질 환경을 제공하도록 신중하게 선별되었습니다. 데스크탑은 "
+"깨끗하고 정돈되어 있습니다."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "신뢰 할 수 있는"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgid "업스트림 프로젝트와 힘께 파트너로 개발되었습니다. 엄격하게 시험되었습니다. "
+"Red Hat에 의해 지원되었습니다."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "선도 기술"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid "개방형 원천이 제공하는 최신 기술과 개선을 통해 제작되었습니다."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "자신의 장치를 최대한 활용합니다"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid "페도라는 하드웨어 제조사와 함께 작업하여 다양한 장치를 통해 훌륭한 하드웨어 "
+"지원을 제공합니다."
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "모두를 위한 기능"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "환상적인 앱"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"당신이 필요로 하는 모든 것을 다루는 훌륭한 앱의 모음에서 찾아보세요. "
+"흥미롭고 새로운 개방형 원천 앱뿐만 아니라 다른 기술환경에서도 유사한 앱을 "
+"포함합니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/workstation_software_center.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "웍스테이션은 자신의 언어를 말합니다"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid "세계적인 번역가 커뮤니티 덕분에, 웍스테이션은 수 많은 언어를 사용 할 수 "
+"있습니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/workstation_languages.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "조명을 낮추세요"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"스위치를 뒤집어 암흑 방식으로 켠 뒤에 하루동안에서 눈을 쉬게 하세요. 야간 "
+"조명을 사용하여 화면 눈부심을 줄이고 잠을 잘자도록 도와줍니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/workstation_nightlight.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "달력 통합"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Edescription
+msgid "온라인 계정을 사용하여 자신의 온라인 달력을 데스크탑으로 가져옵니다"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/workstation_calendar.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Etitle
+msgid "즉시 사용 가능"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Edescription
+msgid "페도라 웍스테이션은 시계, 기상 그리고 지도와 같은 훌륭한 유틸리티를 "
+"포함합니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Eimage
+msgid "public/assets/images/workstation_outofthebox.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "개발자에게 적합한"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "쉽게 사용하는 가상화"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid "Boxes는 가상 장비 사용에서 추측을 제거합니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/dev1.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "생산성을 향상하는 데스크탑 기능"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"성능 방식을 사용하여 당신이 이를 필요로 할 때에 하드웨어 속도를 가속 할 수 "
+"있습니다. 방해받고 싶지 않으면 알림을 꺼주세요. 슈퍼 키를 누르고 당신이 "
+"필요로 하는 검색을 입력하세요."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/dev2.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "바로 사용 할 수 있는 컨테이너"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgid "Red Hat 생태계에서 최신 컨테이너 도구를 사용합니다. 설치가 필요없습니다. Red "
+"Hat 컨테이너 기재를 접근합니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/dev3.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "모든 도구"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"당신이 필요로 하는 모든 도구는 쉽게 단일 명령을 통해 설치 할 수 있습니다. "
+"도구는 이를 만든 사람들에 의해 고품질로 제공됩니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/dev4.png"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "페도라 웍스테이션을 사용하여 개발을 시작 할 수 있습니다"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid "페도라 개발자 포털은 페도라 웍스테이션을 사용하여 응용프로그램을 개발하고 "
+"배포하도록 안내합니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eurl
+msgctxt "sections->[3]->content->[0]->url"
+"sections->[3]->content->[0]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/fedora-devs.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid "DNF는 당신이 OS 구성요소를 설치, 최신화와 관리 할 수 있도록 하는 페도라 "
+"꾸러미 관리자입니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eurl
+msgctxt "sections->[3]->content->[1]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/logo-dnf.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Edescription
+msgid "포드맨은 컨테이나와 컨테이너 이미지를 생성하고 관리하기 위해 데몬이 필요없는 "
+"컨테이너 엔진입니다."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eurl
+msgctxt "sections->[3]->content->[2]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/podman.svg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "당신에 의해 제작된"
+msgstr ""
+
+#: sections-%3E[4]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"페도라 프로젝트는 누구에게나 포용적이고, 환영하며, 열린-마음인 커뮤니티에 "
+"의해 구축된 자유롭고 개방형 원천인 소프트웨에서 혜택을 받는 세상을 마음에 "
+"그립니다. \n"
+"페도라 웍스테이션은 **웍스테이션 작업 그룹**이라고 불리는 페도라 커뮤니티에 "
+"있는 팀에 의해 생성되었습니다. 이는 의사 결정 권한을 가진 공식 구성원과 기타 "
+"공헌자로 구성됩니다. [웍스테이션 작업 그룹에 대해 더 알아봐요](https://docs."
+"fedoraproject.org/ko/workstation-working-group/)"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Etitle
+msgid "사건 보고 & 토의"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Edescription
+msgid "당신은 [페도라 웍스테이션 사건 추적기]()에서 페도라 웍스테이션 문제를 보고, "
+"파일화하고, 토의 할 수 있습니다."
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Etitle
+msgid "팀과 함께 대화합니다"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"**#fedora-workstation** ([irc.libera.chat]()와 **#workstation**에서) [페도라 "
+"매트릭스 대화 서버에서]()."
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Etitle
+msgid "전자우편 목록에 참여합니다"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"[desktop@lists.fedoraproject.org]()에 서명하고 회의 안건 및 의사록 수신 (["
+"view archives]().)"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Etitle
+msgid "회의 참석"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Edescription
+msgid "[Bluejeans]()의 **화요일, 오전 10시 정각 미국 동부 시간**에서 현재 및 "
+"잠재적인 공헌자 모두에게 열려있습니다."
+msgstr ""

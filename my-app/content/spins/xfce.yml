@@ -1,0 +1,63 @@
+title: Fedora XFCE
+description: >-
+  The Fedora Xfce spin showcases the Xfce desktop, which aims to be fast and lightweight, while still being visually appealing and user friendly.
+
+  Fedora Xfce is a full-fledged desktop using the freedesktop.org standards.
+image:
+  src: https://stg.fedoraproject.org/assets/images/spins/screenshot-xfce.png
+  alt: Fedora XFCE Image
+  width: 400
+  height: 300
+links:
+  - text: Download Now
+    url: /spins/xfce/download/
+screenshot_image:
+  image: public/assets/images/spins/screenshot-xfce.jpg
+  alt_text: Screenshot of Fedora XFCE desktop
+sections:
+  - sectionTitle: Going Online
+    content:
+      - title: Firefox
+        description:
+          The popular and free web browser backed by Mozilla, a non-profit
+          dedicated to internet health and privacy.
+        image: public/assets/images/spins/firefox.png
+      - title: Network Manager
+        description: Just a click and you're connected to your wireless LAN router, or online via many supported 3G mobile broadband cards.
+        image: public/assets/images/spins/nm-xfce.png
+      - title: Pidgin
+        description: Universal messaging client. Communicate with the world via IRC, AIM, MSN, Yahoo and other instant messaging systems.
+        image: public/assets/images/spins/pidgin.png
+  - sectionTitle: Utilities & Configuration
+    content:
+      - title: Gnumeric
+        description: Gnumeric is a lightweight application to create lightning fast spreadsheets.
+        image: public/assets/images/spins/gnumeric.png
+      - title: System Settings
+        description: No need to know cryptic commands and config files. Click the options you like to change and choose the settings that make you happy.
+        image: public/assets/images/spins/settings.png
+  - sectionTitle: Office & Productivity Suite
+    content:
+      - title: Abiword
+        description: Quick and full featured word processing made easy.
+        image: public/assets/images/spins/abiword.png
+      - title: Claws Mail
+        description: Claws Mail is an easy to configure and full featured email application for the Xfce Desktop.
+        image: public/assets/images/spins/claws-mail.png
+  - sectionTitle: Multimedia
+    content:
+      - title: Ristretto
+        description: A quick and easy to use image viewer.
+        image: public/assets/images/spins/ristretto.png
+      - title: Parole
+        description: A modern media player, using GTK+3 and the GStreamer plugin framework.
+        image: public/assets/images/spins/parole.png
+      - title: Pragha
+        description: Manage and play your music with ease.
+        image: public/assets/images/spins/pragha.png
+downloadSection:
+  description: We're so glad you've decided to give Fedora XFCE a try. We
+    know you'll love it.
+  links:
+    - text: Upstream Documentation
+      url: https://docs.xfce.org/

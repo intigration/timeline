@@ -1,0 +1,32 @@
+[
+  { "code": "ar", "iso": "ar", "file": "ar.json", "name": "عربى", "dir": "rtl" },
+  { "code": "be", "iso": "be", "file": "be.json", "name": "Беларускі" },
+  { "code": "bg", "iso": "bg", "file": "bg.json", "name": "Bulgarian" },
+  { "code": "cs", "iso": "cs", "file": "cs.json", "name": "Czech" },
+  { "code": "de", "iso": "de", "file": "de.json", "name": "Deutsch" },
+  { "code": "en", "iso": "en", "file": "en.json", "name": "English" },
+  { "code": "es", "iso": "es", "file": "es.json", "name": "Español" },
+  { "code": "fi", "iso": "fi", "file": "fi.json", "name": "Suomi" },
+  { "code": "fa", "iso": "fa", "file": "fa.json", "name": "Persian", "dir": "rtl" },
+  { "code": "fur", "iso": "fur", "file": "fur.json", "name": "Friulian" },
+  { "code": "fr", "iso": "fr", "file": "fr.json", "name": "Français" },
+  { "code": "hu", "iso": "hu", "file": "hu.json", "name": "Magyar" },
+  { "code": "he", "iso": "he", "file": "he.json", "name": "Hebrew", "dir": "rtl" },
+  { "code": "it", "iso": "it", "file": "it.json", "name": "Italiano" },
+  { "code": "id", "iso": "id", "file": "id.json", "name": "Indonesian" },
+  { "code": "ja", "iso": "ja", "file": "ja.json", "name": "日本"},
+  { "code": "ko", "iso": "ko", "file": "ko.json", "name": "한국어" },
+  { "code": "nl", "iso": "nl", "file": "nl.json", "name": "Nederlands" },
+  { "code": "pl", "iso": "pl", "file": "pl.json", "name": "Polski" },
+  {
+    "code": "pt-br",
+    "iso": "pt-BR",
+    "file": "pt_BR.json",
+    "name": "Português do Brasil"
+  },
+  { "code": "ru", "iso": "ru", "file": "ru.json", "name": "русский" },
+  { "code": "sq", "iso": "sq", "file": "sq.json", "name": "Albanian" },
+  { "code": "sv", "iso": "sv", "file": "sv.json", "name": "Svenska" },
+  { "code": "uk", "iso": "uk", "file": "uk.json", "name": "українська"},
+  { "code": "zh-Hans", "iso": "zh-Hans", "file": "zh_Hans.json", "name": "中文（简体）" }
+]

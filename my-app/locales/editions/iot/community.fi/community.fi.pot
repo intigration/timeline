@@ -1,0 +1,143 @@
+#. extracted from content/editions/iot/community.fi.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "yhteisö"
+msgstr ""
+
+#: title
+msgid "Yhteisö"
+msgstr ""
+
+#: description
+msgid "Liity Fedora IoT:hen keskittyvään käyttäjien ja avustajien yhteisöön."
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Otsikko Toinen puoliaika"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionDescription
+msgid ""
+"Fedora IoT:n on luonut Fedora Project -yhteisön IoT Working Group -tiimi. Se "
+"koostuu virallisista jäsenistä, joilla on päätösvalta, sekä muista "
+"avustajista. Lue lisää tästä ryhmästä ja miten voit osallistua IoT Working "
+"Groupin toimintaan verkkosivuilta."
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Viestintäkanavat"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Foorumi"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"**Fedora IoT** -tunniste Fedoran Discourse-pohjaisessa keskustelufoorumissa "
+"on loistava paikka olla yhteydessä muihin Fedora työaseman käyttäjiin ja "
+"avustajiin."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/fedora-discussion-plus-icon.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[0]->link->text"
+msgid "Vieraile nyt"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://discussion.fedoraproject.org/tag/iot"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chatti"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Voit keskustella Fedora IoT työryhmän kanssa joko Matrixin tai IRC:n kautta: "
+"#iot:fedoraproject.org Matrixissa ja #fedora-iot irc.libera.chatissa."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/fedora-chat-plus-element.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Chattaa nyt"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://chat.fedoraproject.org/#/welcome"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Postitus lista"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Fedora IoT työryhmä lähettää kokousten esityslistat ja pöytäkirjat ja käy "
+"keskusteluja postituslistallaan osoitteessa iot@lists.fedoraproject.org."
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[2]->link->text"
+msgid "Vieraile nyt"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+msgid ""
+"https://lists.fedoraproject.org/archives/list/iot@lists.fedoraproject.org/"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/hyperkitty-plus-logo.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Tapoja osallistua"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Raportoi ja keskustele ongelmista"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Voit tarkastella, raportoida ja keskustella Fedora IoT -ongelmista [Fedora "
+"IoT -ongelmanseurantaohjelmassa] (https://pagure.io/fedora-iot/issues)."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Osallistu kokoukseen"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"IoT-työryhmän kokoukset ovat avoimia kaikille nykyisille ja potentiaalisille "
+"auttajille keskiviikkoisin klo 11.00 US Eastern osoitteessa fedora-"
+"meeting@irc.libera.chat."
+msgstr ""

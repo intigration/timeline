@@ -1,0 +1,42 @@
+% !TEX TS-program = luatex
+% CV template
+%
+%
+% Author:
+% muhammad.farhan
+
+\documentclass[localFont,alternative]{mfarhan-cv}
+\name{Muhammad}{\textbf{Farhan}}
+\tagline{Senior Technology Key Expert | Technology Innovation}
+\photo{2.5cm}{pic.jpg}
+\socialinfo{
+	\linkedin{engr_farhan}
+	\github{intigration}\\
+	\smartphone{+92 300 4028200}
+	\email{engr.farhan@icloud.com}\\
+	\address{House#253 Eden Cottages Phase-1, Lahore cantt, Lahore}\\
+	\infos{Punjab , Pakistan}}
+
+
+\begin{document}
+
+	\makecvheader
+
+	\makecvfooter
+		{\textsc{\today}} % \selectlanguage{english}\today
+	{\titleformat{F}{A}{}{}{}[]}
+  {\textsc{Muhammad Farhan- CV}}
+		{\thepage}
+
+	\input{section_headline}
+	\input{section_competences}				% Section compétence
+ 
+	\input{section_experience_short}		% Section experience
+	\input{section_langues}					% Section languages
+	\input{section_scolarite}				% Section education
+	%\input{section_interets}				% Section projects
+	\input{section_projets}
+	\input{section_references} 				% Section Last
+
+
+\end{document}

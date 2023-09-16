@@ -1,0 +1,161 @@
+path: flock
+title: The Fedora Project Conference
+location: Cork
+description: August 1 - 4, 2023
+header_images:
+  - image: public/assets/images/flock_logo.png
+  - image: public/assets/images/cork.jpg
+links:
+  - text: Register
+    url: "#"
+  - text: Calendar
+    url: "#"
+sections:
+  - sectionTitle: Events
+    content:
+      - image: public/assets/images/flock_nest_logo.png
+        title: Virtual
+        description: A 3 day conference hosted on Hopin.io
+      - image: public/assets/images/flock_hatch_logo.png
+        title: Community
+        description: Community events hosted around the world
+  - sectionTitle: Explore the latest in Open Source
+    content:
+      - title: Workshops
+        description:
+          Workshops and hackfests offer opportunities for active learning and
+          collaboration.
+        image: public/assets/images/flock_workshops_logo.png
+        link:
+          text: View Projects
+          url: "#"
+      - title: Sessions
+        image: public/assets/images/flock_sessions_logo.png
+        description:
+          Presentations that showcase the work done in Fedora and planning
+          for the future.
+        link:
+          text: View Topics
+          url: "#"
+      - title: Social Events
+        image: public/assets/images/flock_socialevents_logo.png
+        description: Casual, facilitated, and interactive events for meeting and
+          socializing with Fedorans.
+        link:
+          text: View Socials
+          url: "#"
+  - sectionTitle: Watch Footage from Past Events
+    content:
+      - title: What to expect
+        image: https://youtu.be/6fh3-_oopcg
+        description:
+          Flock is an annual conference for contributors of Fedora Linux. It
+          is where the community plans and showcases the strategy and work on
+          the project. Check out the recordings from previous years of Flock and
+          Nest.
+        link:
+          text: Visit Fedora Youtube
+          url: https://www.youtube.com/fedoraproject
+  - sectionTitle: A Hybrid Experience
+    sectionDescription:
+      The location of Flock changes each year between Europe and
+      North America. In 2020 Fedorans went virtual with Nest, now we offer a
+      hybrid version of Flock to make it more accessible to our community.
+    content:
+      - title: August 1 - 4, 2023
+        image: public/assets/images/flock_logo_mini.png
+        description:
+          Flock offers an immersive in person experience. Attend sessions,
+          collaborate with others, explore and meet new people. Plus, Flock is
+          free to attend!
+      - title: August 1 - 4, 2023
+        image: public/assets/images/nest-dual-colour-navy.png
+        description: During the Covid-19 pandemic, we created Nest as a virtual
+          alternative to Flock. Now it exists as a virtual option for those who
+          cannot attend in person. Making Flock accessible for everyone!
+  - sectionTitle: Interested in hosting your own event?
+    sectionDescription: >-
+      July 1 - 31 2023
+
+      In the month leading up to Flock, Fedorans are encouraged to organize local community events. Set the format and topic of your choice. The Fedora Council will help support your initiative with financial and organizating aid. Click below to set up a Hatch! Deadline for submissions is May 29.
+  - sectionTitle: We are Fedora
+    image: public/assets/images/iot_flock_background.jpg
+    sectionDescription:
+      The Fedora Project envisions a world where everyone benefits
+      from free and open source software built by inclusive, welcoming, and
+      open-minded communities. Stay connected during Flock through the following
+      channels.
+    content:
+      - title: Discussions
+        image: public/assets/images/discussions_icon.png
+        description: Use our messaging board Fedora Discussions to stay up to date on Flock Notifications. **[Check it out here](https://discussion.fedoraproject.org/)**.
+      - title: Twitter
+        image: public/assets/images/twitter_icon.png
+        description: Use the **\#NestWithFedora** hashtags on your preferred social media platforms. Follow **[@fedora](https://twitter.com/fedora)** on Twitter for updates.
+      - title: Matrix & IRC
+        image: public/assets/images/matrix_icon.png
+        description: Our main IRC channel for the event is **\#fedora-flock** on **libera.chat**. Join **[\#fedora-flock](https://web.libera.chat/?channels=#fedora-flock)** to chat on Matrix or IRC.
+      - title: Ask Fedora
+        image: public/assets/images/ask_fedora_icon.png
+        description: New to Fedora? Check our **[community forum](https://discussion.fedoraproject.org/c/ask)** for support and help with frequently asked questions.
+  - sectionTitle: Benefits of Sponsoring Flock
+    content:
+      - title: Brand Exposure
+        description:
+          Sponsors are advertised in several places at Flock. We also post
+          about sponsors on social media. Your brand will be distributed
+          globally in our swag bag.
+      - title: Spotlight
+        description:
+          Our tierd sponsorship levels will all give you great visibility at
+          Flock. Your booth will be showcased on the Expo page to maximize
+          engagement.
+      - title: Networking
+        description:
+          Flock attracts hundreds of amazing open source community members
+          who work on and use software daily. Engage with our vibrant community
+          in sessions and social hours.
+      - title: Booths
+        description:
+          All sponsor booths include a video, customizable experience, chat,
+          and social media engagement. Click below to learn more.
+importantDates:
+  title: Important Dates
+  description: Don't miss these important deadlines
+  content:
+    - name: Hatch Call for Proposals
+      startDate: 2023-04-01
+      color: "#b9daf0"
+      link:
+        - text: Submissions Closed
+      endDate: 2023-05-29
+    - name: Flock Call for Proposals
+      startDate: 2023-05-01
+      color: "#b9daf0"
+      link:
+        - text: Submit Proposal
+          url: "#"
+      endDate: 2023-07-08
+    - name: Flock Registration Open
+      description: Free Admission
+      startDate: 2023-07-08
+      color: "#b9daf0"
+      link:
+        - text: Register to attend
+          url: "#"
+        - text: Accomodations
+          url: "#"
+      endDate: ""
+  footerText: Looking for a date that is not listed? Click here for help.
+sponsors:
+  title: Our Sponsors
+  description:
+    Thank you to our sponsors, supporting this event is one of the ways
+    that they contribute to open source.
+  content:
+    - name: Red Hat
+      image: public/assets/images/sponsors/Red_Hat_logo.png
+      level: platinium
+    - level: placeholder
+    - level: placeholder
+    - level: placeholder

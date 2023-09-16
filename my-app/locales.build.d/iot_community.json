@@ -1,0 +1,20 @@
+{
+  "Attend a meeting": "Attend a meeting",
+  "Chat": "Chat",
+  "Chat Now": "Chat Now",
+  "Communication Channels": "Communication Channels",
+  "Community": "Community",
+  "Fedora IoT is created by a team in the Fedora Project community called the IoT Working Group. It is comprised of official members who have decision-making powers, as well as other contributors. Learn more about this group and how you can get involved on the IoT Working Group website.": "Fedora IoT is created by a team in the Fedora Project community called the IoT Working Group. It is comprised of official members who have decision-making powers, as well as other contributors. Learn more about this group and how you can get involved on the IoT Working Group website.",
+  "Forum": "Forum",
+  "Header Second Half": "Header Second Half",
+  "IoT Working Group meetings are open to all current and potential contributors on Wednesdays, 11 AM US Eastern at fedora-meeting@irc.libera.chat.": "IoT Working Group meetings are open to all current and potential contributors on Wednesdays, 11 AM US Eastern at fedora-meeting{'@'}irc.libera.chat.",
+  "Join a community of users and contributors focused on Fedora IoT.": "Join a community of users and contributors focused on Fedora IoT.",
+  "Mailing List": "Mailing List",
+  "Report & discuss issues": "Report & discuss issues",
+  "The **Fedora IoT** tag on Fedora's Discourse-based discussion forum is a great place to connect with other Fedora IoT users and contributors.": "The **Fedora IoT** tag on Fedora's Discourse-based discussion forum is a great place to connect with other Fedora IoT users and contributors.",
+  "The Fedora IoT Working Group sends meeting agendas and minutes and has discussions on their mailing list at iot@lists.fedoraproject.org.": "The Fedora IoT Working Group sends meeting agendas and minutes and has discussions on their mailing list at iot{'@'}lists.fedoraproject.org.",
+  "Visit Now": "Visit Now",
+  "Ways to get involved": "Ways to get involved",
+  "You can chat with the Fedora IoT Working Group via either Matrix or IRC: #iot:fedoraproject.org on Matrix and #fedora-iot on irc.libera.chat.": "You can chat with the Fedora IoT Working Group via either Matrix or IRC: #iot:fedoraproject.org on Matrix and #fedora-iot on irc.libera.chat.",
+  "You can view, file, and discuss Fedora IoT issues on the [Fedora IoT issue tracker](https://pagure.io/fedora-iot/issues).": "You can view, file, and discuss Fedora IoT issues on the [Fedora IoT issue tracker](https://pagure.io/fedora-iot/issues)."
+}

@@ -1,0 +1,77 @@
+path: sponsors
+title: Fedora Sponsors
+description: The Fedora Project is proud to have the following organizations as sponsors.
+sections:
+  - sectionTitle: Red Hat
+    sectionDescription:
+      Red Hat, Inc. is the primary sponsor for the Fedora Project.
+      Red Hat provides the Fedora Project with a wide variety of resources,
+      including full-time employee support, infrastructure, hardware and
+      bandwidth, event funding, and legal counsel.
+    images: public/assets/images/redhat-trans.png
+  - sectionTitle: Sponsors
+    sectionDescription: "The Fedora Project is also grateful to the following
+      sponsors for providing substantial support."
+    content:
+      - title: AWS
+        link:
+          url: https://aws.amazon.com/what-is-cloud-computing
+          text: Powered by AWS Cloud Computing
+        image:
+          light: public/assets/images/sponsors/PB_AWS-light.png
+          dark: public/assets/images/sponsors/PB_AWS-dark.png
+      - title: Proio
+        link:
+          url: https://www.proio.com/
+          text: Proio
+        image:
+          light: public/assets/images/proio.jpg
+          dark: public/assets/images/proio.jpg
+      - title: Open Source Lab
+        link:
+          url: https://osuosl.org/
+          text: Open Source Lab
+        image:
+          light: public/assets/images/sponsors/osllogo-light.png
+          dark: public/assets/images/sponsors/osllogo-white.png
+      - title: Ibiblio
+        link:
+          url: https://www.ibiblio.org/
+          text: Ibiblio
+        image:
+          light: public/assets/images/sponsors/ibiblio-light.png
+          dark: public/assets/images/sponsors/ibiblio-dark.png
+      - title: Bodhost
+        image:
+          light: public/assets/images/sponsors/bodhost-dark.png
+          dark: public/assets/images/sponsors/bodhost-dark.png
+        link:
+          text: Bodhost
+          url: https://www.bodhost.com/
+      - title: Internetx
+        link:
+          url: https://www.internetx.com/
+          text: Internetx
+        image:
+          light: public/assets/images/sponsors/internetx-light.svg
+          dark: public/assets/images/sponsors/internetx-dark.svg
+      - title: Dedicated Solutions
+        image:
+          light: public/assets/images/sponsors/dedicatedsolutions-light.png
+          dark: public/assets/images/sponsors/dedicatedsolutions-dark.png
+        link:
+          url: https://www.dedicatedsolutions.com/
+          text: Dedicated Solutions
+      - title: Heficed
+        image:
+          light: public/assets/images/sponsors/heficed-light.svg
+          dark: public/assets/images/sponsors/heficed-dark.svg
+        link:
+          url: https://www.heficed.com/
+          text: Heficed
+  - sectionTitle: Interested in sponsoring something for Fedora?
+    sectionDescription:
+      To sponsor our [Flock to Fedora](https://flocktofedora.org) conference, see the prospectus or email [sponsors@fedoraproject.org](mailto:sponsors@fedoraproject.org).
+
+
+      To mirror the repos, see the [Mirroring page](https://fedoraproject.org/wiki/Infrastructure/Mirroring) or contact the [Infrastructure team](https://docs.fedoraproject.org/en-US/infra/#_communicating).

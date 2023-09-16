@@ -1,0 +1,382 @@
+#. extracted from content/editions/workstation/home.fr.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr ""
+
+#: title
+msgid "Le meilleur du bureau Linux"
+msgstr ""
+
+#: description
+msgid ""
+"Un beau bureau, de haute qualité, construit autour des dernières "
+"technologies open source. Fiable, puissant et simple.\n"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/workstation_framework.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Télécharger"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgid "https://getfedora.org/en/workstation/download/"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Testé par TechHut"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Pourquoi Fedora Workstation ?"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fiable"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Chaque version est maintenue pendant 18 mois, et les mise à jour entre "
+"versions sont simple et rapide."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Gratuit & Privé"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Avec Fedora, votre bureau est à vous. C'est gratuit, pas de publicité, et "
+"vos données vous appartiennent."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "De toute beauté"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Workstation est soigneusement choisi pour fournir une expérience de haute "
+"qualité. Le bureau est propre et épuré."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "De confiance"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Développé en partenariat avec les projets upstream. Rigoureusement testé. "
+"Soutenu par Red Hat."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Technologie d'avant garde"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Construit sur les dernières technologies et améliorations que l'open source "
+"peut fournir."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "Obtenez le maximum de votre appareil"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Fedora travaille avec les fournisseurs matériel pour produire un support "
+"excellent sur une variété d'appareils."
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Fonctionnalités pour tous"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Application fantastique"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Parcourez une grande collection d'applications, couvrant tout ce dont vous "
+"pourriez avoir besoin. Inclut de nouvelles applications open source "
+"passionnantes ainsi que des applications familières provenant d'autres "
+"plates-formes."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/workstation_software_center.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Workstation parle votre langue"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Grace à une grande communauté de traducteurs, Workstation est disponible "
+"dans de nombreuse langues."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/workstation_languages.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Baissez la lumière"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Actionnez un interrupteur pour activer le mode sombre et soulager vos yeux "
+"de la journée. Utilisez le mode veilleuse pour réduire les reflets à l’écran "
+"et vous faciliter le sommeil."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/workstation_nightlight.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "Intégration du calendrier"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Importer sur votre bureau votre agenda en ligne avec les comptes en ligne"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/workstation_calendar.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Etitle
+msgid "Serviable dès la mise en route"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Fedora Workstation inclut un superbe ensemble d'utilitaires, comme Horloges, "
+"Météo et Cartes."
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Eimage
+msgid "public/assets/images/workstation_outofthebox.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Idéal pour les développeurs"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "La virtualisation simplifiée"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid "Boxes simplifie l'utilisation des machines virtuelles."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/dev1.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Fonctionnalités de bureau améliorant la productivité"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Utilisez le mode performance pour augmenter la vitesse de votre matériel "
+"quand vous en avez besoin. Éteignez les notifications avec le mode Ne pas "
+"déranger. Appuyez sur la touche Super de votre clavier et commencez à taper "
+"ce que vous cherchez."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/dev2.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "Les conteneurs prêts à partir"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Utilisez les dernières outils pour conteneurs de l'écosystème Red Hat. Pas "
+"d'installation requise. Accédez au registre de conteneurs Red Hat."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/dev3.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "Tous les outils"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Tous les outils dont vous pouvez avoir besoin, facilement installables avec "
+"une seule commande. Des outils fournis de haute qualité, par les personnes "
+"qui les conçoivent."
+msgstr ""
+
+#, read-only
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/dev4.png"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Commencez à développer avec Fedora Workstation"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Le Fedora Developer Portal possède des guides sur le développement et le "
+"déploiement d'applications à l'aide de Fedora Workstation."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eurl
+msgctxt "sections->[3]->content->[0]->url"
+"sections->[3]->content->[0]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/fedora-devs.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"DNF est le gestionnaire de paquets de Fedora qui vous permet d'installer, de "
+"mettre à jour et de gérer les composants de votre SE."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eurl
+msgctxt "sections->[3]->content->[1]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/logo-dnf.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Podman est un moteur de conteneur sans daemon pour créer et gérer des "
+"conteneurs et des images de conteneur."
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eurl
+msgctxt "sections->[3]->content->[2]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#, read-only
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/podman.svg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Conçu par vous"
+msgstr ""
+
+#: sections-%3E[4]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"Le Projet Fedora envisage un monde où chacun peut bénéficier de logiciels "
+"libres et open source conçus par des communautés inclusives, accueillantes "
+"et ouvertes d'esprit. \n"
+"Fedora Workstation est conçu par une équipe de la communauté Fedora nommée **"
+"Workstation Working Group**. Il comprend des membres officiels qui ont des "
+"pouvoirs de prise de décision, ainsi que d'autres contributeurs. [En "
+"apprendre plus sur le site du Workstation Working Group](https://docs."
+"fedoraproject.org/fr/workstation-working-group/)"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Etitle
+msgid "Signaler & discuter des problèmes"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Vous pouvez signaler les problèmes concernant Fedora Workstation, les voir "
+"et en discuter sur [le site de suivi des problèmes de Fedora Workstation]()."
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Etitle
+msgid "Discuter avec l'équipe"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Visitez **#fedora-workstation** sur [irc.libera.chat]() et sur "
+"**#workstation** [via le serveur de discussion Matrix de Fedora]()."
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Etitle
+msgid "Rejoignez la liste de diffusion"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Inscrivez-vous sur [desktop@lists.fedoraproject.org]() pour recevoir les "
+"ordres du jour des réunions et leurs comptes rendus ([view archives]().)"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Etitle
+msgid "Assistez à une réunion"
+msgstr ""
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Open to all current and potential contributors on **Tuesdays, 10:00 AM US "
+"Eastern** on [Bluejeans]()."
+msgstr ""

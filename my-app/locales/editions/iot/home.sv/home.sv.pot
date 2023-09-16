@@ -1,0 +1,228 @@
+#. extracted from content/editions/iot/home.sv.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr ""
+
+#: title
+msgid "Den solida grunden för IoT-ekosystem"
+msgstr ""
+
+#: description
+msgid "Ett lättviktigt men ändå kraftfullt och skalbart operativsystem"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[0]-%3Eimage
+msgid "public/assets/images/iot.png"
+msgstr ""
+
+#, read-only
+#: header_images-%3E[1]-%3Eimage
+msgid "public/assets/images/iot_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Ladda ned nu"
+msgstr ""
+
+#, read-only
+#: links-%3E[0]-%3Eurl
+msgid "https://getfedora.org/en/iot/download/"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Recenserad av TechHut"
+msgstr ""
+
+#, read-only
+#: links-%3E[1]-%3Eurl
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Varför Fedora Iot?"
+msgstr ""
+
+#: sections-%3E[0]-%3Eimages
+msgctxt "sections->[0]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Ledande teknologi"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Built on the latest technologies and enhancements that open-source has to "
+"offer."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Behållarbaserad"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[0]->content->[1]->description"
+msgid ""
+"Fedora IoT is a container-based host that runs on your hardware, with a "
+"focus on edge device deployment."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Ekosystem med öppen källkod"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[0]->content->[2]->description"
+msgid "Allt stöds av ett helt gratis Fedora-ekosystem med öppen källkod."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Flexibel"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[0]->content->[3]->description"
+msgid "Det finns en mängd olika installationsmetoder som stöds."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Edge Support"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Använd Fedora IoT för att stödja dina arbetsbelastningar som beräknas "
+"utanför det traditionella datacentret."
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "Få ut det mesta av din enhet"
+msgstr ""
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Fedora samarbetar med hårdvaruleverantörer för att tillhandahålla utmärkt "
+"hårdvarustöd på en rad enheter."
+msgstr ""
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Plattformar testade för IoT"
+msgstr ""
+
+#: sections-%3E[1]-%3Eimages
+msgctxt "sections->[1]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "arm Systemready"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/iot-platform1.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Pine64"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/iot-platform2.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "SolidRun"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+msgid "public/assets/images/iot-platform3.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "nVidia"
+msgstr ""
+
+#, read-only
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+msgid "public/assets/images/iot-platform4.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Byggt för dig"
+msgstr ""
+
+#: sections-%3E[2]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"The Fedora Project envisions a world where everyone benefits from free and "
+"open source software built by inclusive, welcoming, and open-minded "
+"communities.\n"
+"\n"
+"\n"
+"\n"
+"Fedora IoT is created by a team in the Fedora community called the IoT "
+"Working Group. It is comprised of official members who have decision making "
+"powers, as well as other contributors. Learn more on the IoT Working Group "
+"website."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Rapportera & diskutera problem"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Byggd på den senaste tekniken och förbättringarna som öppen källkod har att "
+"erbjuda."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chatta med teamet"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[2]->content->[1]->description"
+msgid ""
+"Fedora IoT is a container-based host that runs on your hardware, with a "
+"focus on edge device deployment."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "Gå med i e-postlistan"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[2]->content->[2]->description"
+msgid "Allt stöds av ett helt gratis Fedora-ekosystem med öppen källkod."
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "Närvara vid ett möte"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[2]->content->[3]->description"
+msgid "Det finns en mängd olika installationsmetoder som stöds."
+msgstr ""

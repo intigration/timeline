@@ -1,0 +1,61 @@
+- sectionTitle: Events
+  sectionDescription: Fedora has events throughout the year that you can attend,
+    typically in-person or virtually, to learn more about Fedora Workstation
+    as well as meet other users and contributors.
+  images: ""
+  content:
+    - title: The Annual Fedora Project Conference
+      description: >-
+        Flock is the Fedora Project's annual multi-day **in-person**
+        conference focused on our contributors. It typically alternates
+        between European and North American locations. The conference provides
+        a venue for face-to-face meetings and conversations. It is also a
+        place to celebrate our community. 
+
+
+        **Flock typically takes place every August.**
+      image: public/assets/images/flock-two-colour-gradient-navy.png
+      link:
+        text:
+          In-person Flock events are currently on-hold due to the ongoing COVID
+          pandemic.
+    - title: Colúr
+      description: Colúr (cuh-loohr) is our Flock mascot.
+      image: public/assets/images/colur-sign.png
+    - title: Recap
+      image: public/assets/images/presentation-thumbnail.png
+      description: Check out the recap from our latest event, the Fedora 36 release party!
+    - title: The Virtual Fedora Project Conference
+      description:
+        Nest is our at-home, virtual Flock that has been running since the
+        global outbreak of COVID-19.  It takes place over 3 days and includes
+        talks, workshops, hackfests, and social events.
+      image: public/assets/images/nest-dual-colour-navy.png
+    - title: Worldwide & Local Fedora Meetups
+      description: Hatch is a series of small-scale, in-person global meetups
+        organized in the weeks preceding the Flock / Nest conference enabling
+        Fedorans local to each other to meet.
+      image: public/assets/images/hatch.png
+    - title: Fedora Release Parties
+      description:
+        'Twice a year, in coordination with the release of each new version
+        of Fedora Linux, we hold global virtual release parties. These are
+        typically a 1.5 day "mini-conference" with talks and social events. '
+    - title: We want you to be part of Nest 2022
+      description: >-
+        We have a **currently-open call for proposals and sponsors** for this
+        year's Nest virtual Fedora annual conference! We have a rolling
+        deadline process with acceptance dates of **July 1st and July 8th,
+        2022**.
+
+
+        [Read more about the call for proposals and propose your own](https://communityblog.fedoraproject.org/nest-2022-cfp/)!
+      image: public/assets/images/colur-point.png
+      link:
+        text: Make a proposal
+        url: "#   "
+    - title: Become a Fedora contributor
+      description:
+        There's a Fedora release party every six months and a Flock event
+        every year. Make a plan to attend and even propose a talk!
+      image: public/assets/images/door-open-solid.png

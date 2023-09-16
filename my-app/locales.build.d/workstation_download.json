@@ -1,0 +1,16 @@
+{
+  " * Fedora requires a minimum of 20GB disk, 2GB RAM, to install and run successfully. Double those amounts is recommended. ": " * Fedora requires a minimum of 20GB disk, 2GB RAM, to install and run successfully. Double those amounts is recommended. ",
+  "Community Support": "Community Support",
+  "Documentation": "Documentation",
+  "Explore Fedora Laptops": "Explore Fedora Laptops",
+  "Get started by using Fedora Media Writer, which makes it super easy to give Fedora a try. [Learn More](https://docs.fedoraproject.org/en-US/fedora/latest/preparing-boot-media/#_fedora_media_writer)": "Get started by using Fedora Media Writer, which makes it super easy to give Fedora a try. [Learn More](https://docs.fedoraproject.org/en-US/fedora/latest/preparing-boot-media/#_fedora_media_writer)",
+  "Getting going with Fedora is easier than ever. All you need is a 2GB USB flash drive, and Fedora Media Writer.\nOnce Fedora Media Writer is installed, it will set up your flash drive to run a \"Live\" version of Fedora Workstation, meaning that you can boot it from your flash drive and try it out right away without making any permanent changes to your computer. Once you are hooked, installing it to your hard drive is a matter of clicking a few buttons*.": "Getting going with Fedora is easier than ever. All you need is a 2GB USB flash drive, and Fedora Media Writer.\nOnce Fedora Media Writer is installed, it will set up your flash drive to run a \"Live\" version of Fedora Workstation, meaning that you can boot it from your flash drive and try it out right away without making any permanent changes to your computer. Once you are hooked, installing it to your hard drive is a matter of clicking a few buttons*.",
+  "Just want an ISO file?": "Just want an ISO file?",
+  "Laptops pre-loaded with Fedora": "Laptops pre-loaded with Fedora",
+  "Learn more about Fedora Media Writer": "Learn more about Fedora Media Writer",
+  "Mac": "Mac",
+  "Not sure how to use these files? [Learn here](https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/)": "Not sure how to use these files? [Learn here](https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/)",
+  "RELEASE DATE": "RELEASE DATE",
+  "We're so glad you've decided to give Fedora Workstation a try. We know you'll love it.": "We're so glad you've decided to give Fedora Workstation a try. We know you'll love it.",
+  "We've partnered with companies like Lenovo to bring you laptops pre-loaded with Fedora that include fully-supported hardware components. ": "We've partnered with companies like Lenovo to bring you laptops pre-loaded with Fedora that include fully-supported hardware components. "
+}

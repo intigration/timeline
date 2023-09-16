@@ -1,0 +1,79 @@
+#. extracted from content/partials/publications.yml
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: [0]-%3EsectionTitle
+msgid "Fedora Publications"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fedora Community Blog"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"The Community Blog provides a single source for members of the community to "
+"share important news, updates, and information about Fedora with others in "
+"the Project community."
+msgstr ""
+
+#, read-only
+#: [0]-%3Econtent-%3E[0]-%3Eimage
+msgid "public/assets/images/community-blog.png"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgid "Visit Now"
+msgstr ""
+
+#, read-only
+#: [0]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+msgid "https://communityblog.fedoraproject.org/"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Fedora Magazine"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Fedora Magazine is a website that hosts promotional articles and short "
+"guides contributed from the community about free/libre and open-source "
+"software that runs on or works with the Fedora Linux operating system."
+msgstr ""
+
+#, read-only
+#: [0]-%3Econtent-%3E[1]-%3Eimage
+msgid "public/assets/images/fedora-magazine.png"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Visit now"
+msgstr ""
+
+#, read-only
+#: [0]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+msgid "https://fedoramagazine.org/"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Become a Fedora contributor"
+msgstr ""
+
+#: [0]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Both the Fedora Community Blog and Fedora Magazine are always [looking for "
+"article proposals, writers, and editors](https://docs.fedoraproject.org/"
+"en-US/fedora-magazine/contributing/). "
+msgstr ""

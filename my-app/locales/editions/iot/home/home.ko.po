@@ -1,0 +1,249 @@
+#. extracted from content/editions/iot/home.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-11-18 13:47+0000\n"
+"Last-Translator: 김인수 <simmon@nplob.com>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editions-iot/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr "개요"
+
+#: title
+msgid "The solid foundation for IoT ecosystems"
+msgstr "IOT 생태계를 위한 견고한 기초"
+
+#: description
+msgid "A lightweight yet powerful and scalable OS"
+msgstr "경량이나 강력하고 확장 가능한 OS"
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot.png"
+msgstr ""
+
+#: header_images-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Download Now"
+msgstr "지금 내려받기"
+
+#: links-%3E[0]-%3Eurl
+#, read-only
+msgid "https://getfedora.org/en/iot/download/"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Reviewed By TechHut"
+msgstr "TechHut에 의해 검토됨"
+
+#: links-%3E[1]-%3Eurl
+#, read-only
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Why Fedora Iot?"
+msgstr "왜 페도라 IOT인가?"
+
+#: sections-%3E[0]-%3Eimages
+msgctxt "sections->[0]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr "public/assets/images/iot_background_why.jpg"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Leading Technology"
+msgstr "앞선 기술"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgctxt "sections->[0]->content->[0]->description"
+msgid ""
+"Built on the latest technologies and enhancements that open-source has to "
+"offer."
+msgstr "개방형-원천이 제공해야 하는 최신 기술과 개선 사항에서 제작되었습니다."
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Container Based"
+msgstr "컨테이너 기반"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[0]->content->[1]->description"
+msgid ""
+"Fedora IoT is a container-based host that runs on your hardware, with a "
+"focus on edge device deployment."
+msgstr "페도라 IoT는 에지 디바이스 배포에 중점을 갖고, 자신의 하드웨어에서 실행되는 "
+"컨테이너-기반 호스트입니다."
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Open-source Ecosystem"
+msgstr "개방형-원천 상태계"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[0]->content->[2]->description"
+msgid ""
+"Everything is supported by a totally free and open-source Fedora ecosystem."
+msgstr "모든 것은 전체적으로 자유로우며 개방형-원천 페도라 생태계에 의해 지원됩니다."
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Flexible"
+msgstr "유연한"
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[0]->content->[3]->description"
+msgid "There are a wide variety of supported installation methods."
+msgstr "지원되는 설치 방법은 아주 다양합니다."
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Edge Support"
+msgstr "에지 지원"
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Use Fedora IoT to support your workloads that are computed outside of the "
+"traditional datacenter."
+msgstr "페도라 IoT를 사용하여 전통적인 데이타센타의 밖에서 계산되는 자신의 "
+"작업부하를 지원합니다."
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "Makes the most of your device"
+msgstr "자신의 장치를 최대한 활용합니다"
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Fedora works with hardware vendors to make excellent hardware support across "
+"a range of devices."
+msgstr "페도라는 하드웨어 제조사와 함께 작업하여 다양한 장치를 통해 훌륭한 하드웨어 "
+"지원을 제공합니다."
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Platforms Tested against IoT"
+msgstr "IoT에 대해 시험된 기술환경"
+
+#: sections-%3E[1]-%3Eimages
+msgctxt "sections->[1]->images"
+msgid "public/assets/images/iot_background_why.jpg"
+msgstr "public/assets/images/iot_background_why.jpg"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "arm Systemready"
+msgstr "암(arm) Systemready"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform1.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Pine64"
+msgstr "Pine64"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform2.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "SolidRun"
+msgstr "SolidRun"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform3.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "nVidia"
+msgstr "nVidia"
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot-platform4.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Built By You"
+msgstr "당신에 의해 제작됨"
+
+#: sections-%3E[2]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr "public/assets/images/iot_flock_background.jpg"
+
+#: sections-%3E[2]-%3EsectionDescription
+msgid ""
+"The Fedora Project envisions a world where everyone benefits from free and "
+"open source software built by inclusive, welcoming, and open-minded "
+"communities.\n"
+"\n"
+"\n"
+"\n"
+"Fedora IoT is created by a team in the Fedora community called the IoT "
+"Working Group. It is comprised of official members who have decision making "
+"powers, as well as other contributors. Learn more on the IoT Working Group "
+"website."
+msgstr ""
+"페도라 프로젝트는 모든 사람이 포용적이고, 환영하며, 열린-마음으로 커뮤니티에 "
+"의해 제작된 자유롭고 개방형 원천 소프트웨어의 혜택을 받는 세상을 꿈꿉니다.\n"
+"\n"
+"\n"
+"\n"
+"페도라 IoT는 IoT 작업 그룹이라고 불리는 페도라 커뮤니티의 팀에 의해 "
+"생성되었습니다. 의사 결정 권한을 가진 공식 구성원, 기타 공헌자로 "
+"구성되었습니다. IoT 작업 그룹 웹주소에서 더 알아보세요."
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Report & discuss issues"
+msgstr "사건 보고 & 토의"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgctxt "sections->[2]->content->[0]->description"
+msgid ""
+"Built on the latest technologies and enhancements that open-source has to "
+"offer."
+msgstr "개방형-원천이 제공해야 하는 최신 기술과 개선 사항에서 제작되었습니다."
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chat with the team"
+msgstr "팀과 함께 대화합니다"
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgctxt "sections->[2]->content->[1]->description"
+msgid ""
+"Fedora IoT is a container-based host that runs on your hardware, with a "
+"focus on edge device deployment."
+msgstr "페도라 IoT는 에지 디바이스 배포에 중점을 갖고, 자신의 하드웨어에서 실행되는 "
+"컨테이너-기반 호스트입니다."
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "Join the mailing list"
+msgstr "전자우편 목록에 참여합니다"
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgctxt "sections->[2]->content->[2]->description"
+msgid ""
+"Everything is supported by a totally free and open-source Fedora ecosystem."
+msgstr "모든 것은 전체적으로 자유로우며 개방형-원천 페도라 생태계에 의해 지원됩니다."
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "Attend a meeting"
+msgstr "회의 참석"
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgctxt "sections->[2]->content->[3]->description"
+msgid "There are a wide variety of supported installation methods."
+msgstr "지원되는 설치 방법은 아주 다양합니다."
+
+#~ msgid "public/assets/images/flock_background.jpg"
+#~ msgstr "public/assets/images/flock_background.jpg"

@@ -1,0 +1,130 @@
+title: Fedora KDE Plasma Desktop
+description: >-
+  The Fedora KDE Plasma Desktop Edition is a powerful Fedora-based operating
+  system utilizing the KDE Plasma Desktop as the main user interface.
+
+
+  Fedora KDE Plasma Desktop comes with many pre-selected top quality applications that suit all modern desktop use cases - from online communication like web browsing, instant messaging and electronic mail correspondence, through multimedia and entertainment, to an advanced productivity suite, including office applications and enterprise grade personal information management.
+
+
+  All KDE applications are well integrated, with a similar look and feel and an easy to use interface, accompanied by an outstanding graphical appearance.
+image:
+  src: https://stg.fedoraproject.org/assets/images/spins/spins-kde-dark.png
+  alt: Fedora KDE Plasma Image
+  width: 400
+  height: 300
+links:
+  - text: Download Now
+    url: /spins/kde/download/
+screenshot_image:
+  image: public/assets/images/spins/screenshot-kde.jpg
+  alt_text: Screenshot of Fedora KDE Plasma desktop
+sections:
+  - sectionTitle: Going Online
+    content:
+      - title: Firefox
+        description:
+          The popular and free web browser backed by Mozilla, a non-profit
+          dedicated to internet health and privacy.
+        image: public/assets/images/spins/firefox.png
+      - title: Kontact
+        description:
+          The integrated personal information manager of KDE Plasma Desktop.
+          The Kontact suite unites mature and proven KDE PIM applications under
+          one easy to use application.
+        image: public/assets/images/spins/kontact.png
+      - title: Telepathy
+        description:
+          Stay connected with your friends and colleagues using Telepathy
+          Instant Messaging client. It supports all common IM protocols.
+        image: public/assets/images/spins/telepathy.png
+      - title: KTorrent & KGet
+        description:
+          Are you a downloader? Use KTorrent or KGet to get new versions of
+          Fedora KDE Plasma Desktop Edition!
+        image: public/assets/images/spins/ktorrent.png
+  - sectionTitle: Utilities
+    content:
+      - title: Dolphin
+        description:
+          Dolphin is a file manager that lets you navigate and browse the
+          contents of your hard drives, USB sticks, SD cards, and more.
+          Creating, moving, or deleting files and folders is simple and fast.
+        image: public/assets/images/spins/dolphin.png
+      - title: Ark
+        description:
+          Ark is a graphical file compression and decompression utility with
+          support for multiple formats, including tar, gzip, bzip2, rar and zip,
+          as well as CD-ROM images. Ark can be used to browse, extract, create,
+          and modify archives.
+        image: public/assets/images/spins/ark.png
+  - sectionTitle: Office & Productivity Suite
+    content:
+      - title: LibreOffice
+        description: LibreOffice is a free and powerful office suite. Its clean
+          interface and feature-rich tools help you unleash your creativity and
+          enhance your productivity.
+        image: public/assets/images/spins/libreoffice.png
+      - title: Okular
+        description:
+          Okular is a universal document viewer that combines the excellent
+          functionalities with the versatility of supporting different kind of
+          documents, like PDF, Postscript, DjVu, CHM, XPS, ePub and others.
+        image: public/assets/images/spins/okular.png
+  - sectionTitle: Multimedia
+    content:
+      - title: Elisa
+        description:
+          A simple music player that should be easy to use. It does not
+          require any configuration before one can use it.
+        image: public/assets/images/spins/elisa.png
+      - title: Dragon Player
+        description:
+          A multimedia player where the focus is on simplicity, instead of
+          features. Its simple interface is designed not to get in your way and
+          instead empower you to simply play multimedia files.
+        image: public/assets/images/spins/dragonplayer.png
+      - title: K3B
+        description:
+          K3B allows you to easily back up your multimedia files as it's a
+          full featured CD/DVD writing software. K3B supports writing data
+          CDs/DVDs, audio CDs, video CDs, DVDs, copying, CD ripping and more.
+        image: public/assets/images/spins/k3b.png
+      - title: Gwenview
+        description:
+          Gwenview is able to load and save to a variety of image formats,
+          such as PNG and JPEG. Its simple interface does not get in the way and
+          lets you view your images quickly and easily.
+        image: public/assets/images/spins/gwenview.png
+  - sectionTitle: Education
+    content:
+      - title: Marble
+        description:
+          Marble is a virtual globe and world atlas in your computer. You can
+          learn a lot about Earth or you can just enjoy virtual trips around our
+          planet.
+        image: public/assets/images/spins/marble.png
+      - title: Parley
+        description:
+          Parley is a vocabulary trainer that helps you memorize things via
+          virtual flashcards. It provides a rich set of tools to manage your
+          card sets.
+        image: public/assets/images/spins/parley.png
+      - title: Kiten
+        description:
+          Kiten is a Japanese dictionary application as well as a Japanese
+          language reference. It includes a kanji lookup tool and browsing
+          interface.
+        image: public/assets/images/spins/kiten.png
+      - title: Kalzium
+        description:
+          Kalzium allows you to explore the periodic table of elements. It
+          has a 3D molecule editor plus multiple simulators and calculators.
+        image: public/assets/images/spins/kalzium.png
+downloadSection:
+  description:
+    We're so glad you've decided to give Fedora KDE Plasma Desktop a try. We
+    know you'll love it.
+  links:
+    - text: Upstream Documentation
+      url: https://userbase.kde.org/Welcome_to_KDE_UserBase

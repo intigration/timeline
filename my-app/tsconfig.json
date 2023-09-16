@@ -1,0 +1,8 @@
+// https://v3.nuxtjs.org/guide/directory-structure/tsconfig/
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "allowJs": true,
+    "jsx": "preserve"
+  }
+}

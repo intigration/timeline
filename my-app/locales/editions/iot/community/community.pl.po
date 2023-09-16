@@ -1,0 +1,163 @@
+#. extracted from content/editions/iot/community.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-11-17 12:46+0000\n"
+"Last-Translator: Bartlomiej Konecki <bartekkonecki97@gmail.com>\n"
+"Language-Team: Polish <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsiotcommunity/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "community"
+msgstr "społeczność"
+
+#: title
+msgid "Community"
+msgstr "Społeczność"
+
+#: description
+msgid "Join a community of users and contributors focused on Fedora IoT."
+msgstr ""
+"Dołącz do społeczności użytkowników i współtwórców skupionych na Fedorze IoT."
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Header Second Half"
+msgstr "Druga połowa nagłówka"
+
+#: sections-%3E[0]-%3EsectionDescription
+msgid ""
+"Fedora IoT is created by a team in the Fedora Project community called the "
+"IoT Working Group. It is comprised of official members who have decision-"
+"making powers, as well as other contributors. Learn more about this group "
+"and how you can get involved on the IoT Working Group website."
+msgstr ""
+"Fedora IoT jest tworzona przez zespół w społeczności Projektu Fedora zwany "
+"Grupą Roboczą IoT. Składa się ona z oficjalnych członków, którzy mają "
+"uprawnienia decyzyjne, a także z innych współtwórców. Dowiedz się więcej o "
+"tej grupie i o tym, jak można się w nią zaangażować, na stronie Grupy "
+"roboczej IoT."
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Communication Channels"
+msgstr "Kanały Komunikacji"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Forum"
+msgstr "Forum"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"The **Fedora IoT** tag on Fedora's Discourse-based discussion forum is a "
+"great place to connect with other Fedora Workstation users and contributors."
+msgstr ""
+"Znacznik **Fedora IoT** na forum dyskusyjnym Fedory to świetne miejsce, aby "
+"połączyć się z innymi użytkownikami i twórcami Fedory Workstation."
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-discussion-plus-icon.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[0]->link->text"
+msgid "Visit Now"
+msgstr "Sprawdź Teraz"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Elink-%3Eurl
+#, read-only
+msgid "https://discussion.fedoraproject.org/tag/iot"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chat"
+msgstr "Czat"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"You can chat with the Fedora IoT Working Group via either Matrix or IRC: "
+"#iot:fedoraproject.org on Matrix and #fedora-iot on irc.libera.chat."
+msgstr ""
+"Możesz czatować z Grupą Roboczą Fedora IoT przez Matrix lub IRC: #iot:"
+"fedoraproject.org na Matrixie i #fedora-iot na irc.libera.chat."
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-chat-plus-element.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Etext
+msgid "Chat Now"
+msgstr "Czatuj Teraz"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Elink-%3Eurl
+#, read-only
+msgid "https://chat.fedoraproject.org/#/welcome"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Mailing List"
+msgstr "Lista mailingowa"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"The Fedora IoT Working Group sends meeting agendas and minutes and has "
+"discussions on their mailing list at iot@lists.fedoraproject.org."
+msgstr ""
+"Grupa robocza Fedora IoT wysyła agendy i protokoły spotkań oraz prowadzi "
+"dyskusje na swojej liście mailingowej pod adresem iot@lists.fedoraproject."
+"org."
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Etext
+msgctxt "sections->[1]->content->[2]->link->text"
+msgid "Visit Now"
+msgstr "Sprawdź Teraz"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Elink-%3Eurl
+#, read-only
+msgid ""
+"https://lists.fedoraproject.org/archives/list/iot@lists.fedoraproject.org/"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/hyperkitty-plus-logo.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Ways to get involved"
+msgstr "Sposoby na udział w projekcie"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Report & discuss issues"
+msgstr "Zgłoś i przedyskutuj problemy"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"You can view, file, and discuss Fedora IoT issues on the [Fedora IoT issue "
+"tracker](https://pagure.io/fedora-iot/issues)."
+msgstr ""
+"Możesz przeglądać, zgłaszać i omawiać błędy Fedory IoT na [Śledzenie błędów "
+"Fedory IoT](https://pagure.io/fedora-iot/issues)."
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Attend a meeting"
+msgstr "Weź udział w spotkaniu"
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"IoT Working Group meetings are open to all current and potential "
+"contributors on Wednesdays, 11 AM US Eastern at fedora-meeting@irc.libera."
+"chat."
+msgstr ""
+"Spotkania grupy roboczej IoT są otwarte dla wszystkich obecnych i "
+"potencjalnych współtwórców w środy, o godzinie 11 czasu wschodniego USA pod "
+"adresem fedora-meeting@irc.libera.chat."

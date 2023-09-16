@@ -1,0 +1,114 @@
+path: index
+title: The leading Linux desktop
+description: >
+  A beautiful, high-quality desktop, built on the latest open source technology.
+  Trusted, powerful and easy.
+image:
+  src: https://stg.fedoraproject.org/assets/images/workstation_framework.png
+  alt: Fedora Workstation Image
+  width: 400
+  height: 300
+header_images:
+  - image: public/assets/images/workstation_framework.png
+  - image: public/assets/images/workstation_background.jpg
+links:
+  - text: Download now
+    url: /workstation/download
+  - text: Documentation
+    url: https://docs.fedoraproject.org/en-US/workstation-docs/
+sections:
+  - sectionTitle: Why Fedora Workstation?
+    content:
+      - title: Reliable
+        description: Each version is updated for approximately 13 months, and upgrades
+          between versions are quick and easy.
+      - title: Free & private
+        description: With Fedora, your desktop is your own. It's free, there are no ads,
+          and your data belongs to you.
+      - title: Beautiful
+        description: Workstation is carefully curated to deliver a high-quality
+          experience. The desktop is clean and uncluttered.
+      - title: Trusted
+        description: Developed in partnership with upstream projects. Rigorously tested.
+          Backed by Red Hat.
+      - title: Leading technology
+        description: Built on the latest technologies and enhancements that open source
+          has to offer.
+      - title: Makes the most of your device
+        description: Fedora works with hardware vendors to make excellent hardware
+          support across a range of devices.
+  - sectionTitle: Features for everyone
+    content:
+      - title: Fantastic apps
+        description: Fedora comes with a fantastic collection of apps which cater to
+          every need. Easily install the very best desktop apps with the click
+          of a button from Fedora's repositories, Flathub or anywhere else.
+        image: public/assets/images/workstation_software_center.png
+      - title: Workstation speaks your language
+        description: Thanks to a global community of translators, Workstation is
+          available in many languages.
+        image: public/assets/images/workstation_languages.png
+      - title: Turn the lights down low
+        description: Flip a switch to turn on dark mode and give your eyes a break. Or
+          use night light to reduce screen glare and help with sleep.
+        image: public/assets/images/screenshot-from-2023-02-24-12-32-51.png
+      - title: Online account integration
+        description: Optionally bring your online calendar, contacts and data to the
+          desktop with online accounts
+        image: public/assets/images/screenshot-from-2023-02-24-12-35-03.png
+      - title: Helpful out of the box
+        description: Fedora Workstation includes a great set of utilities, like Clocks,
+          Weather and Maps.
+        image: public/assets/images/workstation_outofthebox.png
+  - sectionTitle: Great for developers
+    content:
+      - title: Virtualization made easy
+        description: Boxes takes the guesswork out of using virtual machines. Just
+          select the OS you want to install, and the app will do the rest.
+        image: public/assets/images/dev1.png
+      - title: Productivity-boosting desktop features
+        description: Use performance mode to boost hardware speed when you need it. Turn
+          off notifications with Do Not Disturb. Press the Super key and just
+          type to search for what you need.
+        image: public/assets/images/dev2.png
+      - title: Containers ready to go
+        description: Use the latest container tools from the Red Hat ecosystem. No setup
+          required. Access the Red Hat container registry.
+        image: public/assets/images/containers-circle.png
+      - title: All the packages developers need
+        description: All the packages, tools and runtimes you might need, up to date and
+          ready for use with just a single command.
+        image: public/assets/images/packages.png
+  - sectionTitle: Get started developing with Fedora Workstation
+    content:
+      - description: Guides on developing and deploying applications using Fedora
+          workstation
+        url: https://developer.fedoraproject.org/
+        image: public/assets/images/fedora-devs.png
+      - description: Easily install, update and manage software packages
+        url: https://dnf5.readthedocs.io/en/latest/
+        image: public/assets/images/logo-dnf.png
+      - description: High-efficiency tools for creating, running and managing containers
+        url: https://blog.podman.io/
+        image: public/assets/images/podman-podmandesktop.png
+  - sectionTitle: Built by you
+    images: public/assets/images/flock-budapest-2019-bg.jpg
+    sectionDescription: Fedora Workstation is the result of work done across the
+      Fedora Project, and everyone is welcome to participate. To learn how
+      decisions are made about Workstation, see the [Fedora Workstation Working
+      Group](https://docs.fedoraproject.org/en-US/workstation-working-group/)
+      pages.
+    content:
+      - title: Chat with the team
+        description: Participate in workstation discussions on
+          [discussion​.​fedoraproject​.​org​/​c​/​project](https://discussion.fedoraproject.org/tags/c/project/7/workstation)
+      - title: Report & discuss issues
+        description: Ask and answer questions on
+          [discussion​.​fedoraproject​.​org​/​c​/​ask](https://discussion.fedoraproject.org/tags/c/ask/6/all/workstation)
+      - title: Participate in a test day
+        description: Help keep the Fedora experience smooth, performant and bug-free by
+          participating in a [test
+          day](https://fedoraproject.org/wiki/QA/Test_Days)
+      - title: Help the design and docs teams with workstation
+        description: Open to all current and potential contributors weekly - find more
+          info [here](https://fedoraproject.org/wiki/Design).

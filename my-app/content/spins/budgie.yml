@@ -1,0 +1,76 @@
+title: Fedora Budgie Spin
+description: >-
+  The Fedora Budgie Spin showcases the Budgie Desktop, a feature-rich, modern
+  desktop designed to keep out the way of the user. Budgie Desktop uses common
+  desktop design metaphors while offering uses sophisticated functionality such
+  as its Raven widget and notification center, and an approachable method to
+  personalization.
+
+
+  This Spin is designed to align closely with upstream Budgie Desktop, providing a close to vanilla experience with a curated set of default applications that fit in best with Budgie.
+image:
+  src: https://stg.fedoraproject.org/assets/images/spins/spins-budgie-dark.png
+  alt: Fedora Budgie Image
+  width: 400
+  height: 300
+links:
+  - text: Download Now
+    url: /spins/budgie/download/
+screenshot_image:
+  image: public/assets/images/spins/screenshot-budgie.jpg
+  alt_text: Screenshot of Fedora Budgie desktop
+sections:
+  - sectionTitle: Going Online
+    content:
+      - title: Firefox
+        description: Explore the World Wide Web with Firefox, the full featured web browser.
+        image: public/assets/images/spins/firefox.png
+      - title: Thunderbird
+        description:
+          Mozilla Thunderbird is a standalone Matrix, mail and newsgroup
+          client. Organize your schedule with the included Lightning calendar
+          application.
+        image: public/assets/images/spins/thunderbird.png
+  - sectionTitle: Utilities & Configuration
+    content:
+      - title: GNOME Terminal
+        description:
+          Fedora Budgie Spin ships Gnome Terminal, the gateway to the real
+          power of any UNIX/Linux machine.
+        image: public/assets/images/spins/gnome-terminal.png
+      - title: Budgie Desktop Settings
+        description:
+          Budgie Desktop Settings provide a wide range of capabilities for
+          personalization, from Raven and panel management to theming.
+        image: public/assets/images/spins/preferences-desktop.png
+  - sectionTitle: Office & Productivity
+    content:
+      - title: LibreOffice
+        description:
+          LibreOffice is an integrated office suite. It utilizes free and
+          open standards for its document formats and components.
+        image: public/assets/images/spins/libreoffice.png
+      - title: Atril
+        description:
+          Atril is a simple multi-page document viewer. It can display and
+          print PostScript, DVI, XPS and Portable Document Format files.
+        image: public/assets/images/spins/atril.png
+  - sectionTitle: Multimedia
+    content:
+      - title: Rhythmbox
+        description:
+          Simple interface. Powerful music management. Playlists. Streaming
+          Radio. Podcasts.
+        image: public/assets/images/spins/rhythmbox.png
+      - title: Parole
+        description: A modern media player, using gtk3 and the gstreamer plugin framework.
+        image: public/assets/images/spins/parole.png
+      - title: Eye of MATE
+        description: Eye of MATE is meant to be a fast and functional image viewer.
+        image: public/assets/images/spins/eom.png
+downloadSection:
+  description: We're so glad you've decided to give Fedora Budgie Spin a try. We
+    know you'll love it.
+  links:
+    - text: Upstream Documentation
+      url: https://docs.buddiesofbudgie.org/

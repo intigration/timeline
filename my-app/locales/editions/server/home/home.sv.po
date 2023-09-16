@@ -1,0 +1,59 @@
+#. extracted from content/editions/server/home.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-11-02 16:19+0000\n"
+"Last-Translator: Luna Jernberg <bittin@reimu.nl>\n"
+"Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsserverhome/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr "index"
+
+#: title
+msgid "The leading edge server"
+msgstr ""
+
+#: description
+msgid ""
+"Run applications on bare metal or the cloud with a Linux server OS packed "
+"with the latest open source technology\n"
+msgstr ""
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/server_main.png"
+msgstr ""
+
+#: header_images-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/iot_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Download Now"
+msgstr "Ladda ned nu"
+
+#: links-%3E[0]-%3Eurl
+#, read-only
+msgid "https://getfedora.org/en/server/download/"
+msgstr ""
+
+#~ msgid "Fedora Server Index"
+#~ msgstr "Fedora Server Index"
+
+#~ msgid ""
+#~ "Run applications on bare metal or the cloud with a Linux server OS packed "
+#~ "with the latest open source technology"
+#~ msgstr ""
+#~ "Kör applikationer på riktig hårdvara eller molnet med ett Linux-"
+#~ "serveroperativsystem fyllt med den senaste tekniken inom öppen källkod"

@@ -1,0 +1,439 @@
+#. extracted from content/editions/workstation/home.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 13:33-0700\n"
+"PO-Revision-Date: 2022-11-18 13:47+0000\n"
+"Last-Translator: Jan Kuparinen <copper_fin@hotmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"fedora-websites-3-0/editionsworkstationhome/fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 3.7.3\n"
+
+#: path
+msgid "index"
+msgstr "indeksi"
+
+#: title
+msgid "The leading Linux desktop"
+msgstr "Johtava Linux-työpöytä"
+
+#: description
+msgid ""
+"A beautiful, high-quality desktop, built on the latest open source "
+"technology. Trusted, powerful and easy.\n"
+msgstr ""
+"Kaunis, laadukas työpöytä, joka on rakennettu uusimpaan avoimen lähdekoodin "
+"teknologiaan. Luotettava, tehokas ja helppo.\n"
+
+#: header_images-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_framework.png"
+msgstr ""
+
+#: header_images-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_background.jpg"
+msgstr ""
+
+#: links-%3E[0]-%3Etext
+msgid "Download now"
+msgstr "Lataa nyt"
+
+#: links-%3E[0]-%3Eurl
+#, read-only
+msgid "/workstation/download"
+msgstr ""
+
+#: links-%3E[1]-%3Etext
+msgid "Reviewed By TechHut"
+msgstr "Arvostellut: TechHut"
+
+#: links-%3E[1]-%3Eurl
+#, read-only
+msgid "https://www.youtube.com/watch?v=54aoIGKEMnk"
+msgstr ""
+
+#: sections-%3E[0]-%3EsectionTitle
+msgid "Why Fedora Workstation?"
+msgstr "Miksi Fedora työasema?"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Etitle
+msgid "Reliable"
+msgstr "Luotettava"
+
+#: sections-%3E[0]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Each version is updated for 18 months, and upgrades between versions are "
+"quick and easy."
+msgstr ""
+"Kutakin versiota päivitetään 18 kuukauden ajan, ja päivitykset versioiden "
+"välillä ovat nopeita ja helppoja."
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Etitle
+msgid "Free & private"
+msgstr "Ilmainen & yksityinen"
+
+#: sections-%3E[0]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"With Fedora, your desktop is your own. It's free, there are no ads, and your "
+"data belongs to you."
+msgstr ""
+"Fedoran avulla työpöytäsi on omasi. Se on ilmainen, siinä ei ole mainoksia, "
+"ja tietosi kuuluvat sinulle."
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Etitle
+msgid "Beautiful"
+msgstr "Kaunis"
+
+#: sections-%3E[0]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Workstation is carefully curated to deliver a high-quality experience. The "
+"desktop is clean and uncluttered."
+msgstr ""
+"Työaseman osat on huolellisesti valikoitu laadukkaan kokemuksen "
+"tarjoamiseksi. Pöytä on puhdas ja siisti."
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Etitle
+msgid "Trusted"
+msgstr "Luotettu"
+
+#: sections-%3E[0]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Developed in partnership with upstream projects. Rigorously tested. Backed "
+"by Red Hat."
+msgstr ""
+"Kehitetty yhteistyössä ylävirran projektien kanssa. Ankarasti testattu. Red "
+"Hatin tukema."
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Etitle
+msgid "Leading technology"
+msgstr "Johtava tekniikka"
+
+#: sections-%3E[0]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Built on the latest technologies and enhancements that open source has to "
+"offer."
+msgstr ""
+"Rakennettu käyttäen avoimen lähdekoodin uusimpia teknologioita ja "
+"parannuksia."
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Etitle
+msgid "Makes the most of your device"
+msgstr "Ota kaikki irti laitteestasi"
+
+#: sections-%3E[0]-%3Econtent-%3E[5]-%3Edescription
+msgid ""
+"Fedora works with hardware vendors to make excellent hardware support across "
+"a range of devices."
+msgstr ""
+"Fedora tekee yhteistyötä laitteistotoimittajien kanssa tarjotakseen "
+"erinomaista laitteistotukea useille laitteille."
+
+#: sections-%3E[1]-%3EsectionTitle
+msgid "Features for everyone"
+msgstr "Ominaisuuksia jokaiselle"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Etitle
+msgid "Fantastic app"
+msgstr "Fantastinen sovellus"
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"Browse a great collection of apps, covering everything you might need. "
+"Includes exciting new open source apps as well as familiar apps from other "
+"platforms."
+msgstr ""
+"Selaa mahtavaa sovelluskokoelmaa, joka kattaa kaiken mitä tarvitset. "
+"Sisältää jännittäviä uusia avoimen lähdekoodin sovelluksia sekä tuttuja "
+"sovelluksia muilta alustoilta."
+
+#: sections-%3E[1]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_software_center.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Etitle
+msgid "Workstation speaks your language"
+msgstr "Työasema puhuu kieltäsi"
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Thanks to a global community of translators, Workstation is available in "
+"many languages."
+msgstr ""
+"Maailmanlaajuisen kääntäjäyhteisön ansiosta työasema on saatavilla useilla "
+"kielillä."
+
+#: sections-%3E[1]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_languages.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Etitle
+msgid "Turn the lights down low"
+msgstr "Himmennä valot"
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Flip a switch to turn on dark mode and give your eyes a break from the day. "
+"Use night light to reduce screen glare and help with sleep."
+msgstr ""
+"Ota tumma tila käyttöön valintaa painamalla ja anna silmillesi tauko "
+"päivästä. Käytä yövaloa vähentääksesi näytön häikäisyä ja helpottaaksesi "
+"nukkumista."
+
+#: sections-%3E[1]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_nightlight.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Etitle
+msgid "Calendar integration"
+msgstr "Kalenterin integrointi"
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Edescription
+msgid "Bring your online calendar to the desktop with online accounts"
+msgstr "Tuo online-kalenterisi työpöydälle online-tilien avulla"
+
+#: sections-%3E[1]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_calendar.png"
+msgstr ""
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Etitle
+msgid "Helpful out of the box"
+msgstr "Auttavainen alusta lähtien"
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Edescription
+msgid ""
+"Fedora Workstation includes a great set of utilities, like Clocks, Weather "
+"and Maps."
+msgstr ""
+"Fedora työasema sisältää suuren joukon apuohjelmia, kuten kelloja, säätiloja "
+"ja karttoja."
+
+#: sections-%3E[1]-%3Econtent-%3E[4]-%3Eimage
+#, read-only
+msgid "public/assets/images/workstation_outofthebox.png"
+msgstr ""
+
+#: sections-%3E[2]-%3EsectionTitle
+msgid "Great for developers"
+msgstr "Erinomainen kehittäjille"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Etitle
+msgid "Virtualization made easy"
+msgstr "Virtualisointi on tehty helpoksi"
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Edescription
+msgid "Boxes takes the guesswork out of using virtual machines."
+msgstr "Boxes poistaa arvailun virtuaalikoneiden käytöstä."
+
+#: sections-%3E[2]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev1.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Etitle
+msgid "Productivity-boosting desktop features"
+msgstr "Tuottavuutta lisäävät työpöytäominaisuudet"
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Use performance mode to boost hardware speed when you need it. Turn off "
+"notifications with Do Not Disturb. Press the Super key and just type to "
+"search for what you need."
+msgstr ""
+"Käytä suorituskykytilaa lisätäksesi laitteiston nopeutta tarvittaessa. "
+"Poista ilmoitukset käytöstä Älä häiritse -toiminnolla. Paina Super-näppäintä "
+"ja kirjoita etsiäksesi tarvitsemasi."
+
+#: sections-%3E[2]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev2.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Etitle
+msgid "Containers ready to go"
+msgstr "Kontit valmiina käyttöön"
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Use the latest container tools from the Red Hat ecosystem. Not setup "
+"required. Access the Red Hat container registry."
+msgstr ""
+"Käytä Red Hat -ekosysteemin uusimpia konttityökaluja. Ei vaadi asennusta. "
+"Käytä Red Hat -konttirekisteriä."
+
+#: sections-%3E[2]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev3.png"
+msgstr ""
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Etitle
+msgid "All the tools"
+msgstr "Kaikki työkalut"
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"All the tools you might need, easy to install with a single command. Tools "
+"supplied with high quality, by the people who make them."
+msgstr ""
+"Kaikki tarvitsemasi työkalut, helppo asentaa yhdellä komennolla. Laadukkaat "
+"työkalut niiden valmistajilta."
+
+#: sections-%3E[2]-%3Econtent-%3E[3]-%3Eimage
+#, read-only
+msgid "public/assets/images/dev4.png"
+msgstr ""
+
+#: sections-%3E[3]-%3EsectionTitle
+msgid "Get started developing with Fedora Workstation"
+msgstr "Aloita kehittäminen Fedora työpöydän avulla"
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"The Fedora Developer portal has guides on developing and deploying "
+"applications using Fedora workstation."
+msgstr ""
+"Fedora kehittäjäportaalissa on oppaita sovellusten kehittämiseen ja "
+"käyttöönottoon Fedora-työasemalla."
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eurl
+#, read-only
+msgctxt "sections->[3]->content->[0]->url"
+"sections->[3]->content->[0]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[0]-%3Eimage
+#, read-only
+msgid "public/assets/images/fedora-devs.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"DNF is the Fedora package manager that enables you to install, update and "
+"manage OS components."
+msgstr ""
+"DNF on Fedora-paketinhallinta, jonka avulla voit asentaa, päivittää ja "
+"hallita käyttöjärjestelmän osia."
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eurl
+#, read-only
+msgctxt "sections->[3]->content->[1]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[1]-%3Eimage
+#, read-only
+msgid "public/assets/images/logo-dnf.png"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Podman is a daemonless container engine for creating and managing containers "
+"and container images."
+msgstr ""
+"Podman on ilman demonia toimiva konttimoottori konttien ja konttilevykuvien "
+"luomiseen ja hallintaan."
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eurl
+#, read-only
+msgctxt "sections->[3]->content->[2]->url"
+msgid "https://fedoradeveloper.com"
+msgstr ""
+
+#: sections-%3E[3]-%3Econtent-%3E[2]-%3Eimage
+#, read-only
+msgid "public/assets/images/podman.svg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionTitle
+msgid "Built by you"
+msgstr "Sinun rakentamasi"
+
+#: sections-%3E[4]-%3Eimages
+msgid "public/assets/images/iot_flock_background.jpg"
+msgstr ""
+
+#: sections-%3E[4]-%3EsectionDescription
+msgid ""
+"The Fedora Project envisions a world where everyone can benefit from free "
+"and open source software built by inclusive, welcoming, and open-minded "
+"communities.\n"
+"Fedora Workstation is created by a team in the Fedora community called the **"
+"Workstation Working Group**. It is comprised of official members who have "
+"decision making powers, as well as other contributors. [Learn more onthe "
+"Workstation Working Group Website](https://docs.fedoraproject.org/en-US/"
+"workstation-working-group/)"
+msgstr ""
+"Fedora-projekti visioi maailmaa, jossa jokainen voi hyötyä ilmaisista ja "
+"avoimen lähdekoodin ohjelmistoista, joita ovat rakentaneet osallistavat, "
+"vieraanvaraiset ja ennakkoluulottomat yhteisöt.\n"
+"Fedora työaseman on luonut Fedora-yhteisön tiimi nimeltä **Workstation "
+"Working Group**. Se koostuu virallisista jäsenistä, joilla on "
+"päätöksentekovalta, sekä muista avustajista. [Lue lisää Workstation Working "
+"Groupin verkkosivustolta](https://docs.fedoraproject.org/en-US/"
+"workstation-working-group/)"
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Etitle
+msgid "Report & discuss issues"
+msgstr "Raportoi ja keskustele ongelmista"
+
+#: sections-%3E[4]-%3Econtent-%3E[0]-%3Edescription
+msgid ""
+"You can view, file, and discuss Fedora Workstation issues on [the Fedora "
+"Workstation issue tracker]()."
+msgstr ""
+"Voit tarkastella, ilmoittaa ja keskustella Fedora työasema -ongelmista ["
+"Fedora työaseman ongelmanseurantaohjelmassa]()."
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Etitle
+msgid "Chat with the team"
+msgstr "Keskustele joukkueen kanssa"
+
+#: sections-%3E[4]-%3Econtent-%3E[1]-%3Edescription
+msgid ""
+"Visit **#fedora-workstation** on [irc.libera.chat]() and on **#workstation** "
+"[on the Fedora Matrix Chat server]()."
+msgstr ""
+"Mene kanaville **#fedora-workstation** osoitteessa [irc.libera.chat]() ja "
+"**#workstation** [Fedora Matrix Chat -palvelimella]()."
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Etitle
+msgid "Join the mailing list"
+msgstr "Liity postituslistalle"
+
+#: sections-%3E[4]-%3Econtent-%3E[2]-%3Edescription
+msgid ""
+"Sign up at [desktop@lists.fedoraproject.org]() to receive meeting agendas "
+"and minute ([view archives]().)"
+msgstr ""
+"Rekisteröidy osoitteessa [desktop@lists.fedoraproject.org]() saadaksesi "
+"kokousten esityslistat ja pöytäkirjat ([näytä arkistoja]().)"
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Etitle
+msgid "Attend a meeting"
+msgstr "Osallistu kokoukseen"
+
+#: sections-%3E[4]-%3Econtent-%3E[3]-%3Edescription
+msgid ""
+"Open to all current and potential contributors on **Tuesdays, 10:00 AM US "
+"Eastern** on [Bluejeans]()."
+msgstr ""
+"Avoin kaikille nykyisille ja mahdollisille avustajille **tiistaisin, 10:00 "
+"US Eastern** kohteessa [Bluejeans]()."
+
+#~ msgid ""
+#~ "Open to all current and potential contributors on **Tuesdays, 9:30 AM US "
+#~ "Eastern** on [Bluejeans]()."
+#~ msgstr ""
+#~ "Avoin kaikille nykyisille ja mahdollisille tuleville auttajille "
+#~ "**tiistaisin, 9.30 US Eastern** kohteessa [Bluejeans]()."
