@@ -2,8 +2,11 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
+
+
+
 # Define the data
-data = {
+data = [{
     'Role': ["PLM Release & Compliance Officer", "Senior Technical Lead - DISW", "Senior Technical Lead", 
              "Technical Lead", "Delivery Compliance Manager (SENSYS)", "Applications Engineer"],
     'Company': ["Siemens", "Siemens Digital Industries Software", "Mentor Graphics", 
@@ -11,8 +14,8 @@ data = {
     'Duration': ["14", "44", "15", "26", "58", "20"],
     'Skills' : [ "Technology Product Development", "Distributed Systems", "SCADA", "Docker Products",
     "Digital Asset Management", "Open-Source Software", "Predictive Analytics",
-    "Amazon Web Services (AWS)", "Service Integration", "MindSphere"
-[
+    "Amazon Web Services (AWS)", "Service Integration", "MindSphere","Software defined automation​""Industrial Communications​","Industrial Computing" ],
+},{
   "Applications in IoT Cloud Device Management Domain": [
     "Device Provisioning and Onboarding",
     "Remote Device Configuration",
@@ -29,10 +32,11 @@ data = {
     "Environmental Monitoring",
     "Smart Home and Building Automation",
     "Healthcare and Medical Devices"
-  ],
-],{
+  ]},
   "Applications in AI and ML Domain": {
-    "Natural Language Processing (NLP)": {
+  
+  
+  "Natural Language Processing (NLP)": {
       "Description": "NLP is used for understanding, interpreting, and generating human language text. Applications include chatbots, language translation, sentiment analysis, and text summarization."
     },
     "Computer Vision": {
@@ -62,8 +66,7 @@ data = {
     "Chatbots and Virtual Assistants": {
       "Description": "AI-powered chatbots and virtual assistants provide automated customer support, answer questions, and perform tasks through natural language conversations."
     }
-  }
-},{
+  },
   "Applications of SCADA Systems": [
     {
       "Application": "Industrial Automation",
@@ -105,11 +108,8 @@ data = {
       "Application": "Agriculture",
       "Description": "In agriculture, SCADA systems are used to monitor irrigation systems, livestock facilities, and crop storage, helping optimize farm operations."
     }
-  ]
-}
-
-],
-'Organizations':[    "System Level Engineering (SLE)",
+  ],
+  'Organizations':[    "System Level Engineering (SLE)",
      "Technology \& Innovation (TI)",
     "Process Quality Management  (TQM)",
      "Quality Assurance \& System Test  (QA)",
@@ -122,8 +122,8 @@ data = {
      "Industrial AI Systems (AIS)",
      "Cloud Services Platform (CSP)",
      "Cloud Application Services (CAS)",
-     "Autonomous Factory (AF)"],
-'Projects':[
+     "Autonomous Factory (AF)"]
+  'Projects':[
 'Predictive analytics & real time condition monitoring for industrial asset through on-premise iot-gateway',
 'IntelliMAX (Industrial Automation & HMI Software)',
 'AI Application development frameowkr - enabled ML models training platform',
@@ -140,8 +140,87 @@ data = {
 'SCADA hot redundant Server & Client Switchover',
 'Simulation Twin Lab',
 'Transfer of Technology - JV'
-]}
-
+],
+"QA":{
+  "QA_Manager_in_AI_Domains": {
+    "Test_Strategy_and_Planning": {
+      "Responsibilities": [
+        "Develop an overall QA strategy for AI projects",
+        "Create detailed test plans with objectives, methodologies, and resource requirements",
+        "Define test cases, test data, and success criteria for AI models and applications"
+      ]
+    },
+    "Data_Quality_and_Management": {
+      "Responsibilities": [
+        "Ensure quality, relevance, and diversity of training data for AI model development",
+        "Collaborate with data engineers and data scientists to identify and rectify data issues",
+        "Establish data governance and data validation processes"
+      ]
+    },
+    "AI_Model_Validation": {
+      "Responsibilities": [
+        "Oversee testing of AI models to evaluate accuracy, performance, and generalization capabilities",
+        "Develop validation methodologies, including cross-validation and testing against diverse datasets",
+        "Implement techniques to detect bias, fairness, and ethics concerns in AI models"
+      ]
+    },
+    "Automation_Testing": {
+      "Responsibilities": [
+        "Implement automated testing frameworks and tools for AI components",
+        "Automate testing of data pipelines, feature extraction, and model deployment processes",
+        "Monitor and maintain automated test suites for ongoing model performance"
+      ]
+    },
+    "Scalability_and_Robustness": {
+      "Responsibilities": [
+        "Ensure AI systems are scalable and can handle large volumes of data and traffic",
+        "Test robustness of AI models against various real-world scenarios, including edge cases"
+      ]
+    },
+    "Ethical_and_Regulatory_Compliance": {
+      "Responsibilities": [
+        "Collaborate with legal and compliance teams to ensure AI applications adhere to relevant laws and regulations",
+        "Develop and enforce ethical guidelines for AI development and usage"
+      ]
+    },
+    "Documentation_and_Reporting": {
+      "Responsibilities": [
+        "Maintain comprehensive documentation of QA processes, test cases, and results",
+        "Generate regular reports on QA activities, highlighting issues, risks, and mitigation strategies"
+      ]
+    },
+    "Team_Management_and_Leadership": {
+      "Responsibilities": [
+        "Lead and mentor a team of QA engineers and testers",
+        "Allocate tasks, set priorities, and monitor progress",
+        "Foster a culture of quality and continuous improvement"
+      ]
+    },
+    "Risk_Assessment_and_Mitigation": {
+      "Responsibilities": [
+        "Identify potential risks and challenges in AI projects and develop strategies to mitigate them",
+        "Conduct risk assessments related to data privacy, security, and model performance"
+      ]
+    },
+    "Feedback_and_Collaboration": {
+      "Responsibilities": [
+        "Collaborate closely with data scientists, machine learning engineers, and software developers to ensure seamless integration of AI components",
+        "Collect feedback from end-users and stakeholders to drive improvements"
+      ]
+    },
+    "Testing_Tools_and_Technologies": {
+      "Responsibilities": [
+        "Stay up-to-date with the latest AI testing tools and technologies and incorporate them into QA processes"
+      ]
+    },
+    "Performance_Monitoring": {
+      "Responsibilities": [
+        "Continuously monitor the performance of AI models and systems in production",
+        "Implement monitoring solutions for anomaly detection and model drift"
+      ]
+    }
+  }
+}]
 # Convert duration to numeric values
 # data['Duration_numeric'] = pd.to_timedelta(data['Duration']).dt.total_seconds() / (3600 * 24 * 30.44)  # Convert to months
 data['Duration_numeric'] = [14, 44, 15, 26, 58, 20]

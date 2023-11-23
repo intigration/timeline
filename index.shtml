@@ -57,7 +57,7 @@
         drift.load('a758cnvx52nt');
     </script>
     <!-- End of Async Drift Code -->
-    <script>
+    <!-- <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
             w[l].push({
@@ -72,7 +72,7 @@
                 i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-K274JNW');
-    </script>
+    </script> -->
     </script>>
     <!-- End Google Tag Manager -->
     <script>
