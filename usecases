@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IFrame without Vertical Scroll Bars</title>
+</head>
+<body>
+
+<!-- Replace the 'src' attribute with your actual iframe source URL -->
+
+<iframe src="https://onedrive.live.com/embed?resid=1ABE3D24809C75C4%212641&amp;authkey=%21ACi4A7xfbE9mgcE&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=0" width="100%" height="800px" scrolling="no" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+</body>
+</html>
